@@ -4,9 +4,11 @@ sections:
   - type: hero_section
     title: Welcome to the Photo 365 Podcast
     subtitle: By Andrew Haworth
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: >+
+      Learn how you can be a photographer every day. Educator and media producer
+      Andrew Haworth presents practical advice and tips on how to complete a
+      photo-a-day or any long-term photography project.
+
     actions:
       - type: action
         label: Subscribe to Podcast
