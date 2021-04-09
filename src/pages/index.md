@@ -175,7 +175,6 @@ seo:
   type: stackbit_page_meta
   title: The Photo 365 Podcast
   description: >-
-    Learn how you can be a photographer every day. Educator and media producer
     Andrew Haworth presents practical advice and tips on how to complete a
     photo-a-day or any long-term photography project.
   extra:
