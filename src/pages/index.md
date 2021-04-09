@@ -183,7 +183,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Podcaster Theme
+      value: The Photo 365 Podcast
       keyName: property
     - name: 'og:description'
       value: The preview of the Podcaster theme
