@@ -127,6 +127,9 @@ sections:
 
       If you're working your way through a photo-a-day or other long-term photo
       project, I'd love to hear from you.
+
+
+      \-Andrew
     content_align: left
     form_position: right
     form_width: fifty
