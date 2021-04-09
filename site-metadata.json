@@ -8,7 +8,7 @@
     "header": {
         "type": "header",
         "title": "Podcaster",
-        "logo": "images/logo.svg",
+        "logo": "/images/PHOTO365.png",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [
