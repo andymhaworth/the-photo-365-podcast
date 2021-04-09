@@ -145,7 +145,7 @@ sections:
       - type: form_field
         input_type: textarea
         name: message
-        label: Question
+        label: Comment
         default_value: Your question
       - type: form_field
         input_type: checkbox
