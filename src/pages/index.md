@@ -201,7 +201,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Podcaster theme
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
 template: advanced
 ---
