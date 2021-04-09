@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to the Photo 365 Podcast
-    subtitle: Optional hero section subtitle
+    subtitle: By Andrew Haworth
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
