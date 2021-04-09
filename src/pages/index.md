@@ -199,7 +199,9 @@ seo:
     - name: 'twitter:title'
       value: The Photo 365 Podcast
     - name: 'twitter:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Andrew Haworth presents practical advice and tips on how to complete a
+        photo-a-day or any long-term photography project.
     - name: 'twitter:image'
       value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
