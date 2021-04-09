@@ -186,7 +186,9 @@ seo:
       value: The Photo 365 Podcast
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Andrew Haworth presents practical advice and tips on how to complete a
+        photo-a-day or any long-term photography project.
       keyName: property
     - name: 'og:image'
       value: /images/Photo%20365%20Cover.jpg
