@@ -118,11 +118,10 @@ sections:
     background_image_size: cover
     background_image_repeat: no-repeat
   - type: form_section
-    content: >-
-      ## Ask A Question
+    content: |
+      ## Contact Me
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+      Feel free to ask any questions or provide feedback on the show.
     content_align: left
     form_position: right
     form_width: fifty
