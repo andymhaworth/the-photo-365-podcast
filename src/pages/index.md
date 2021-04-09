@@ -173,7 +173,7 @@ sections:
     background_image_repeat: repeat
 seo:
   type: stackbit_page_meta
-  title: Stackbit Podcaster Theme
+  title: The Photo 365 Podcast
   description: The preview of the Podcaster theme
   extra:
     - name: 'og:type'
