@@ -118,10 +118,15 @@ sections:
     background_image_size: cover
     background_image_repeat: no-repeat
   - type: form_section
-    content: |
+    content: >
       ## Contact Me
 
+
       Feel free to ask any questions or provide feedback on the show.
+
+
+      If you're working your way through a photo-a-day or other long-term photo
+      project, I'd love to hear from you.
     content_align: left
     form_position: right
     form_width: fifty
