@@ -108,8 +108,6 @@ sections:
       - title: Stitcher
         subtitle: lorem-ipsum
         title_align: center
-        content: |
-          asdaSD
         content_align: left
         actions:
           - label: Subscribe
