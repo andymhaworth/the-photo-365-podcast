@@ -4,7 +4,7 @@ subtitle: >-
   Starting a photo-a-day project is daunting, and maybe it even sounds
   impossible. But before you begin a long-term project, you first need to know
   how it might end.
-date: '2021-03-09'
+date: '2021-03-30'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: /images/riverwalk-dusk-2.jpg
