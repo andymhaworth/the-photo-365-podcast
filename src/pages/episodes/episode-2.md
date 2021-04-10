@@ -3,7 +3,7 @@ title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
 subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.
-date: '2021-03-09'
+date: '2021-03-30'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-2.jpg
