@@ -41,7 +41,7 @@
             {
                 "label": "Buy Me a Coffee",
                 "url": "https://www.buymeacoffee.com/photo365",
-                "style": "link",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "apple-podcasts",
                 "icon_position": "right",
