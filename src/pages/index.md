@@ -150,7 +150,7 @@ sections:
         type: grid_item
         image: /images/icon-3.svg
       - title: RSS
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: left
