@@ -39,7 +39,8 @@
                 "url": "/subscribe",
                 "style": "primary",
                 "has_icon": true,
-                "icon_position": "right"
+                "icon_position": "right",
+                "icon": "arrow-left"
             }
         ],
         "has_anncmnt": true,
