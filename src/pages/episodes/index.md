@@ -27,7 +27,7 @@ sections:
     background_image_size: auto
     background_image_repeat: repeat
   - type: form_section
-    title: Get Podcast Straight Into your Inbox
+    title: Get Photo 365 in your inbox
     title_align: center
     content_align: center
     form_position: bottom
