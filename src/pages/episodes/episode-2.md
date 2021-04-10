@@ -4,7 +4,7 @@ subtitle: 'Has your creative well has suddenly run dry? Hopefully, you have a li
 date: '2021-04-06'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/post-2.jpg
+thumb_image: /images/house-july-5-2.jpg
 thumb_image_alt: Podcast 2 placeholder image
 image: /images/house-july-5-2.jpg
 image_alt: Podcast 2 placeholder image
