@@ -151,7 +151,7 @@ sections:
         image: /images/icon-3.svg
       - title: RSS
         title_align: left
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
