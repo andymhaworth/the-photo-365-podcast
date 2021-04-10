@@ -107,7 +107,7 @@ sections:
         image_width: twenty-five
       - title: Stitcher
         subtitle: lorem-ipsum
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
