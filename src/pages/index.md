@@ -100,7 +100,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image_alt: Google Podcasts
+        image_alt: Google Podcasts icon
         image_position: top
         image_align: center
         image_has_padding: true
