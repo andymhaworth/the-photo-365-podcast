@@ -107,8 +107,6 @@ sections:
         image_width: twenty-five
       - title: RSS
         title_align: center
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
