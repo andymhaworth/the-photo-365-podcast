@@ -1,8 +1,6 @@
 ---
 title: '01. Before you begin, visualize the ending'
-subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+subtitle: 'Before you begin a long-term project, you first need to know how it might end.'
 date: '2020-07-15'
 categories:
   - src/data/categories/season-1.yaml
