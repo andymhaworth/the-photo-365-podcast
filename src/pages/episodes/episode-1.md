@@ -15,7 +15,7 @@ image_position: right
 episode_embed_html: >-
   <iframe
   src="https://anchor.fm/photo365/embed/episodes/Before-you-begin--visualize-the-ending-eufqno"
-  height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+  height="180px" width="400px" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
   title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
