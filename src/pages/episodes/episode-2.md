@@ -1,5 +1,5 @@
 ---
-title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+title: '02. Themes, shot lists, luck and lifelines'
 subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
   vocas, eum.
