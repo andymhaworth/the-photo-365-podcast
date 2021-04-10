@@ -1,8 +1,6 @@
 ---
 title: '02. Themes, shot lists, luck and lifelines'
-subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
+subtitle: 'Has your creative well has suddenly run dry? Hopefully, you have a lifeline!'
 date: '2021-03-30'
 categories:
   - src/data/categories/season-1.yaml
