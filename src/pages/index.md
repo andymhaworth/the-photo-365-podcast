@@ -126,6 +126,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
+        image: /images/stitcher-86x86.svg
       - title: Overcast
         title_align: center
         content_align: left
