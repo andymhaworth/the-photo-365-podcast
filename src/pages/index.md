@@ -106,7 +106,6 @@ sections:
         image_has_padding: true
         image_width: twenty-five
       - title: Stitcher
-        subtitle: SADFDSAF
         title_align: center
         content_align: left
         actions:
