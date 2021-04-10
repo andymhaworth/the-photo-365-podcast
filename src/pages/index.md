@@ -127,7 +127,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/icon-1.svg
-      - title: RSS
+      - title: Overcast
         title_align: center
         content_align: left
         actions:
