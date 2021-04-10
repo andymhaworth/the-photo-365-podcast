@@ -111,7 +111,7 @@ sections:
         content_align: left
         actions:
           - label: Subscribe
-            url: lorem-ipsum
+            url: ' https://www.stitcher.com/s?fid=624610'
             style: secondary
             has_icon: true
             icon: arrow-right
