@@ -8,9 +8,8 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+If you enjoy the Photo 365 Podcast, please tell your friends, and give us a nice review where ever you get your podcasts. Visit the links below to support us!
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+*   Buy Me a Coffee
+*   Format.com (Affiliate)
+*   Adorama (Affiliate)
