@@ -106,7 +106,7 @@ sections:
         image_has_padding: true
         image_width: twenty-five
       - title: RSS
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
