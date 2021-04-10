@@ -104,6 +104,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image_width: thirty-three
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
