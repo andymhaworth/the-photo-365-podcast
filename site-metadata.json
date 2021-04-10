@@ -25,7 +25,7 @@
             },
             {
                 "type": "action",
-                "label": "Support the Show",
+                "label": "Buy Me a Coffee",
                 "url": "/support",
                 "style": "link"
             }
