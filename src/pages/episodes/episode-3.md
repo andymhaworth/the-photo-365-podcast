@@ -3,7 +3,7 @@ title: "03.\_Enhance your photographic Spidey-sense"
 subtitle: >-
   You can never let your guard down when it comes to seeking out images. You
   need to embrace a new heightened sense of awareness -- the ABC Rule.
-date: '2021-04-09'
+date: '2021-04-13'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-3.jpg
