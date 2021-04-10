@@ -121,7 +121,7 @@ sections:
             type: action
         actions_align: center
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: Stitcher icon
         image_position: top
         image_width: twenty-five
         image_align: center
