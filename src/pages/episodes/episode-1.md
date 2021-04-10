@@ -10,7 +10,7 @@ thumb_image: images/post-1.jpg
 thumb_image_alt: Podcast 1 placeholder image
 image: images/post-1.jpg
 image_alt: Podcast 1 placeholder image
-image_position: left
+image_position: right
 episode_embed_html: >-
   <iframe width="100%" height="166" scrolling="no" frameborder="no"
   allow="autoplay"
