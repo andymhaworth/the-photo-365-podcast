@@ -105,7 +105,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: twenty-five
-      - title: lorem-ipsum
+      - title: Stitcher
         subtitle: lorem-ipsum
         title_align: left
         content: >-
