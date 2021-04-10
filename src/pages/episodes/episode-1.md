@@ -45,6 +45,12 @@ seo:
       relativeUrl: true
 template: post
 ---
+### Show Notes
+
+*   Sponsors
+
+*   Sponsors
+
 ### Transcript
 
 Hello and welcome to Photo 365, a podcast about how to be a photographer every day.
