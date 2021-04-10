@@ -67,7 +67,7 @@
             {
                 "type": "action",
                 "label": "Support the Show",
-                "url": "/advertising",
+                "url": "/support",
                 "style": "link"
             }
         ],
