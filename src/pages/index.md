@@ -99,7 +99,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: /images/icon-3.svg
+        image: /images/google-podcasts.png
         image_alt: Overcast icon
         image_position: top
         image_align: center
