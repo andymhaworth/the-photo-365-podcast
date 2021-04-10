@@ -1,8 +1,8 @@
 ---
 title: "03.\_Enhance your photographic Spidey-sense"
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  You can never let your guard down when it comes to seeking out images. You
+  need to embrace a new heightened sense of awareness -- the ABC Rule.
 date: '2020-09-03'
 categories:
   - src/data/categories/season-1.yaml
