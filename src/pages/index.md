@@ -87,7 +87,7 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        title: Overcast
+        title: Google Podcasts
         title_align: center
         content_align: center
         actions:
