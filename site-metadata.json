@@ -27,7 +27,8 @@
                 "type": "action",
                 "label": "Buy Me a Coffee",
                 "url": "https://www.buymeacoffee.com/photo365",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             }
         ],
         "has_secondary_nav": true,
