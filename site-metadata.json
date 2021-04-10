@@ -9,7 +9,7 @@
         "type": "header",
         "title": "PHOTO 365",
         "logo_alt": "Podcaster logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "type": "action",
