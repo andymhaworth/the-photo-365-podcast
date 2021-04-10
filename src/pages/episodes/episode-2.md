@@ -1,7 +1,7 @@
 ---
 title: '02. Themes, shot lists, luck and lifelines'
 subtitle: 'Has your creative well has suddenly run dry? Hopefully, you have a lifeline!'
-date: '2021-04-09'
+date: '2021-04-06'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-2.jpg
