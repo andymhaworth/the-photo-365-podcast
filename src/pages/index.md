@@ -75,7 +75,7 @@ sections:
         actions:
           - type: action
             label: Subscribe
-            url: /thank-you
+            url: 'https://open.spotify.com/show/7L9qWq9PikPflD97PBavBG'
             style: secondary
             has_icon: true
             icon: arrow-right
