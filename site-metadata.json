@@ -38,7 +38,8 @@
                 "label": "Subscribe",
                 "url": "/subscribe",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": true,
+                "icon_position": "right"
             }
         ],
         "has_anncmnt": true,
