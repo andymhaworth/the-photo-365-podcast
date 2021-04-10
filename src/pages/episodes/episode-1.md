@@ -1,6 +1,9 @@
 ---
 title: '01. Before you begin, visualize the ending'
-subtitle: 'Before you begin a long-term project, you first need to know how it might end.'
+subtitle: >-
+  Starting a photo-a-day project is daunting, and maybe it even sounds
+  impossible. But before you begin a long-term project, you first need to know
+  how it might end.
 date: '2020-07-15'
 categories:
   - src/data/categories/season-1.yaml
