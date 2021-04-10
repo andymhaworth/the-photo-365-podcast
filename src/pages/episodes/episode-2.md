@@ -12,7 +12,7 @@ image_position: right
 episode_embed_html: >-
   <iframe
   src="https://anchor.fm/photo365/embed/episodes/Themes--shot-lists--luck-and-lifelines-eug2b1"
-  height="180px" width="100px" frameborder="0" scrolling="no"></iframe>
+  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
   title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
