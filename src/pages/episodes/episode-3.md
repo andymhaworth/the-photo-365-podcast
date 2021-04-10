@@ -1,5 +1,5 @@
 ---
-title: 03.
+title: "03.\_Enhance your photographic Spidey-sense"
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
