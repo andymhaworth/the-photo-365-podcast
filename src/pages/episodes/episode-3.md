@@ -8,7 +8,7 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-3.jpg
 thumb_image_alt: Episode 3 placeholder image
-image: images/post-3.jpg
+image: /images/365-July-9_10.jpg
 image_alt: Episode 3 placeholder image
 image_position: left
 episode_embed_html: >-
