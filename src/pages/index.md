@@ -118,16 +118,7 @@ sections:
     background_image_opacity: 10
     background_image_size: cover
     background_image_repeat: no-repeat
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: apple-podcasts
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: form_section
     content: >
       ## Contact Me
