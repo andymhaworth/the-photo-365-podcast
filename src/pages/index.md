@@ -149,7 +149,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/icon-3.svg
-      - title: lorem-ipsum
+      - title: RSS
         subtitle: lorem-ipsum
         title_align: left
         content: >-
