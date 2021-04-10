@@ -40,7 +40,7 @@
                 "style": "primary",
                 "has_icon": true,
                 "icon_position": "right",
-                "icon": "arrow-left"
+                "icon": "google-podcasts"
             }
         ],
         "has_anncmnt": true,
