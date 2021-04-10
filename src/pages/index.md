@@ -104,7 +104,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: twenty-five
-        image: /images/icon-1.svg
+        image: /images/google-podcasts-86x86.png
       - title: Stitcher
         title_align: center
         content_align: left
