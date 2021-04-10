@@ -106,7 +106,6 @@ sections:
         image_has_padding: true
         image_width: twenty-five
       - title: RSS
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
