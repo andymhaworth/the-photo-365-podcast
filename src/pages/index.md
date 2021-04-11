@@ -111,12 +111,12 @@ sections:
         content_align: left
         actions:
           - label: Subscribe
-            url: ' https://www.stitcher.com/s?fid=624610'
+            url: 'https://www.stitcher.com/s?fid=624610'
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
         actions_align: center
