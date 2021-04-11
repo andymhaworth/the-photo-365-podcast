@@ -12,7 +12,7 @@ sections:
     actions:
       - type: action
         label: Subscribe to Podcast
-        url: /thank-you
+        url: /subscribe
         style: primary
     image: /images/Photo 365 Cover.jpg
     image_alt: Hero section placeholder image
