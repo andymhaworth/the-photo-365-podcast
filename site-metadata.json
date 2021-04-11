@@ -25,9 +25,10 @@
             },
             {
                 "type": "action",
-                "label": "Support the Show",
-                "url": "/support",
-                "style": "link"
+                "label": "Buy Me a Coffee",
+                "url": "https://www.buymeacoffee.com/photo365",
+                "style": "link",
+                "new_window": true
             }
         ],
         "has_secondary_nav": true,
@@ -36,7 +37,10 @@
                 "type": "action",
                 "label": "Subscribe",
                 "url": "/subscribe",
-                "style": "primary"
+                "style": "primary",
+                "has_icon": false,
+                "icon_position": "right",
+                "icon": "apple-podcasts"
             }
         ],
         "has_anncmnt": true,

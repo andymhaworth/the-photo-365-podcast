@@ -75,7 +75,7 @@ sections:
         actions:
           - type: action
             label: Subscribe
-            url: /thank-you
+            url: 'https://open.spotify.com/show/7L9qWq9PikPflD97PBavBG'
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -87,27 +87,95 @@ sections:
         image_align: center
         image_has_padding: true
       - type: grid_item
-        title: Overcast
+        title: Google Podcasts
         title_align: center
         content_align: center
         actions:
           - type: action
             label: Subscribe
-            url: /thank-you
+            url: >-
+              https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81NWZkOTgxNC9wb2RjYXN0L3Jzcw==
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-3.svg
-        image_alt: Overcast icon
+        image_alt: Google Podcasts icon
         image_position: top
         image_align: center
         image_has_padding: true
+        image_width: twenty-five
+        image: /images/google-podcasts-86x86.svg
+      - title: Stitcher
+        title_align: center
+        content_align: left
+        actions:
+          - label: Subscribe
+            url: ' https://www.stitcher.com/s?fid=624610'
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: Stitcher icon
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
+        type: grid_item
+        image: /images/stitcher-86x86.svg
+      - title: Overcast
+        title_align: center
+        content_align: left
+        actions:
+          - label: Subscribe
+            url: lorem-ipsum
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
+        type: grid_item
+        image: /images/icon-3.svg
+      - title: RSS
+        title_align: center
+        content_align: center
+        actions:
+          - label: Subscribe
+            url: 'https://anchor.fm/s/55fd9814/podcast/rss'
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: true
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: RSS Feed
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: true
+        type: grid_item
+        image: /images/Generic_Feed-icon.svg
     grid_cols: three
     grid_gap_vert: medium
     grid_gap_horiz: medium
-    enable_cards: false
+    enable_cards: true
     align: center
     padding_top: large
     padding_bottom: large
@@ -117,6 +185,7 @@ sections:
     background_image_opacity: 10
     background_image_size: cover
     background_image_repeat: no-repeat
+    actions: []
   - type: form_section
     content: >
       ## Contact Me
