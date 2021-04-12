@@ -68,12 +68,6 @@
                 "label": "Subscribe",
                 "url": "/subscribe",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Support the Show",
-                "url": "/support",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
@@ -86,15 +80,10 @@
             },
             {
                 "type": "action",
-                "label": "Terms",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
+                "label": "Buy Me a Coffee",
+                "url": "https://www.buymeacoffee.com/photo365",
+                "style": "link",
+                "new_window": true
             }
         ],
         "has_tertiary_nav": false,
