@@ -48,7 +48,8 @@
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-episode"
+        "anncmnt_id": "new-episode",
+        "logo": "/images/PHOTO 365 Logo.svg"
     },
     "footer": {
         "type": "footer",
