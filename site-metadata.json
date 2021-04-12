@@ -80,7 +80,7 @@
             },
             {
                 "type": "action",
-                "label": "Terms",
+                "label": "Buy Me a Coffee",
                 "url": "/terms-conditions",
                 "style": "link"
             }
