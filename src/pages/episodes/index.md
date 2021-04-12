@@ -22,7 +22,6 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: none
-    background_image: /images/Wavey-Fingerprint.svg
     background_image_opacity: 98
     background_image_size: auto
     background_image_repeat: repeat
