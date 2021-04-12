@@ -98,7 +98,7 @@
             }
         ],
         "has_tertiary_nav": false,
-        "has_social": false,
+        "has_social": true,
         "social_links": [
             {
                 "type": "action",
