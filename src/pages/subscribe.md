@@ -18,7 +18,7 @@ sections:
         actions:
           - type: action
             label: Subscribe
-            url: /thank-you
+            url: 'https://podcasts.apple.com/us/podcast/photo-365/id1562363768'
             style: secondary
             has_icon: true
             icon: arrow-right
