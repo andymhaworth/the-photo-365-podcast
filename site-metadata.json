@@ -81,7 +81,7 @@
             {
                 "type": "action",
                 "label": "Buy Me a Coffee",
-                "url": "/terms-conditions",
+                "url": "https://www.buymeacoffee.com/photo365",
                 "style": "link"
             }
         ],
