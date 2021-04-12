@@ -9,6 +9,7 @@ sections:
     padding_bottom: none
     has_border: false
     background_color: none
+    background_image: /images/Wavey-Fingerprint.svg
   - type: grid_section
     grid_items:
       - type: grid_item
