@@ -68,12 +68,6 @@
                 "label": "Subscribe",
                 "url": "/subscribe",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Buy Me a Coffee",
-                "url": "https://www.buymeacoffee.com/photo365",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
