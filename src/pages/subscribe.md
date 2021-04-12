@@ -74,7 +74,6 @@ sections:
     padding_bottom: large
     has_border: false
     background_color: none
-    background_image: /images/Wavey-Fingerprint.svg
     background_image_size: auto
 seo:
   type: stackbit_page_meta
