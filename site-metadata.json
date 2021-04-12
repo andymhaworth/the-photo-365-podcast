@@ -48,11 +48,12 @@
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-episode"
+        "anncmnt_id": "new-episode",
+        "logo": "/images/mighty-birch.svg"
     },
     "footer": {
         "type": "footer",
-        "logo": "images/logo.svg",
+        "logo": "/images/mighty-birch.svg",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [

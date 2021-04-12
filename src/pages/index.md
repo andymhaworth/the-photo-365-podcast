@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: primary
-    background_image: images/hero-background.jpg
+    background_image: /images/studio-microphone.jpg
     background_image_opacity: 20
     background_image_size: cover
     background_image_repeat: no-repeat
@@ -43,7 +43,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-    background_image: images/pattern.svg
+    background_image: /images/Wavey-Fingerprint.svg
     background_image_opacity: 98
     background_image_size: auto
     background_image_repeat: repeat
@@ -181,7 +181,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
-    background_image: images/subscribe-background.jpg
+    background_image: /images/sound-mixer.jpg
     background_image_opacity: 10
     background_image_size: cover
     background_image_repeat: no-repeat
@@ -236,7 +236,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    background_image: images/pattern.svg
+    background_image: /images/Wavey-Fingerprint.svg
     background_image_opacity: 98
     background_image_size: auto
     background_image_repeat: repeat
