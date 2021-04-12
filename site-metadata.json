@@ -53,7 +53,7 @@
     },
     "footer": {
         "type": "footer",
-        "logo": "/images/PHOTO 365 Logo.svg",
+        "logo": "/images/mighty-birch.svg",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [
