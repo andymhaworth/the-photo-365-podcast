@@ -97,7 +97,7 @@
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": false,
+        "has_tertiary_nav": true,
         "has_social": false,
         "social_links": [
             {
