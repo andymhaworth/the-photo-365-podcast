@@ -37,16 +37,14 @@ In 2017 I was challenged to try shooting a photo every day for a year. In 2018 I
 
 After launching two corporate podcasts, producing a pro wrestling podcast, and volunteering as an editor on one of the oldest podcasts about wristwatches,  I decided it was time to make a show about photography, a topic I've been passionate about since I was a second-grader shooting Polaroid portraits of action figures.
 
-Photo 365 isn't intended to be a technical exploration of photography. I'm more interested in why we take photos, and the creative process that yields meaningful results. Also, it's not my intention to tell you what to shoot, but rather explore methodologies to help you unlock the pathways to your personal vision. 
+Photo 365 isn't intended to be a technical exploration of photography. I'm more interested in why we take photos, and the creative process that yields meaningful results. Also, it's not my intention to tell you what to shoot, but rather explore methodologies to help you unlock the pathways to your personal vision.
 
-\--Andrew Haworth
-
-
+\-Andrew Haworth
 
 ### Credits
 
 Photo 365 is written, produced and edited by Andrew Haworth.
 
-Intro music by Korolkov; the closing theme is ["Road Trip Montage"](https://soundcloud.com/user-838021389/road-trip-montage) by [FILM](https://filmsc.bandcamp.com/)  
+Intro music by Korolkov; the closing theme is ["Road Trip Montage"](https://soundcloud.com/user-838021389/road-trip-montage) by [FILM](https://filmsc.bandcamp.com/)
 
 Podcast cover art by [pgeshan](https://www.fiverr.com/pgeshan).
