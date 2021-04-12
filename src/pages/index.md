@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: primary
-    background_image: /images/hero-background.jpg
+    background_image: /images/studio-microphone.jpg
     background_image_opacity: 20
     background_image_size: cover
     background_image_repeat: no-repeat
