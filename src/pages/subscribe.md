@@ -73,7 +73,7 @@ sections:
             url: lorem-ipsum
             style: secondary
             has_icon: true
-            icon: apple-podcasts
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
