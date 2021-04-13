@@ -28,7 +28,9 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: >-
+        Photo 365 isn't intended to be a technical exploration of photography.
+        I'm more interested in why we take photos and the creative process.
     - name: 'twitter:image'
       value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
