@@ -60,7 +60,7 @@ seo:
       value: This is the episodes page
       keyName: property
     - name: 'og:image'
-      value: images/post-9.jpg
+      value: /images/Photo%20365%20Cover.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
