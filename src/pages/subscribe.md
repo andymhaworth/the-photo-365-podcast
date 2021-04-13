@@ -56,7 +56,8 @@ sections:
         actions:
           - type: action
             label: Subscribe
-            url: /thank-you
+            url: >-
+              https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81NWZkOTgxNC9wb2RjYXN0L3Jzcw==
             style: secondary
             has_icon: true
             icon: arrow-right
