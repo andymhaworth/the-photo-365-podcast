@@ -3,7 +3,9 @@ title: Subscribe
 sections:
   - type: hero_section
     title: Subscribe
-    subtitle: Pick your favorite podcast platform
+    subtitle: >-
+      Pick your favorite podcast platform. You may also find the show on
+      platforms not listed here, so search within your favorite podcast app
     align: center
     padding_top: large
     padding_bottom: none
