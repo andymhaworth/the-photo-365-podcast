@@ -47,7 +47,7 @@ seo:
         impossible. But before you begin a long-term project, you first need to
         know how it might end.
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/riverwalk-dusk-2.jpg
       relativeUrl: true
 template: post
 ---
