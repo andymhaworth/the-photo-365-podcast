@@ -57,11 +57,13 @@ Hello and welcome to Photo 365, a podcast about how to be a photographer every d
 
 My name is Andrew Haworth, I’m a South Carolina-based media producer and occasional photography educator, and I’m here to offer guidance, inspiration, and maybe some advice -- take it with a grain of salt -- on how to start and work through your own photo-a-day or any long term photo project.
 
-I don’t know about you, but for me, the hardest part of beginning a long project is simply taking that first step. If you’re a runner, or a cyclist, it can be a struggle to pry yourself off the couch, or force yourself to put the smartphone down, or get off the video games, change clothes, lace up your shoes and take that first step onto the pavement.
+I don’t know about you, but for me, the hardest part of beginning anything is often simply taking that first step. Here’s a very literal example, maybe you’re a runner. Some days it can be a struggle to pry yourself off the couch, force yourself to put the smartphone down, or get off the video games, change clothes, lace up your shoes and take that first step onto the pavement. Once you’re up and moving and the blood is flowing, it can almost be hard to stop.
 
-Have you ever photographed a wedding? I shot quite a few of them before I realized it wasn’t really my niche. And I always recall that dread on the day of a wedding job. You show up at a location, maybe you’ve spent a couple hours just travelling there, and you unpack your gear and think about the uncertainty of the day ahead of you: Six or more hours of running around looking for photo ops in a potentially stressful environment.
+The same thing can happen to us as photographers. I shot quite a few weddings before I realized it wasn’t really my niche. And I always recall that feeling of dread on the day of a wedding job. You show up at a location, maybe you’ve spent a couple hours just travelling there, and as you unpack your gear, you think about the uncertainty of the day ahead of you: Six or more hours of running around looking for photo ops in a potentially stressful environment.
 
 Just thinking about taking that first shot of the day can feel like a struggle, if not almost impossible. For me, getting that first photo out of the way, even if it was a throwaway shot, always kicked me into gear, and then I was on cruise control for the rest of the day.
+
+The same phenomenon happens to us on projects for work and school, and even around the home. It’s natural to procrastinate and avoid work that seems difficult.
 
 So today, we’re talking about taking that first step, that first shot, that first day of shooting, on the way to completing a photo a day for a year. But before we even entertain taking the first photo, we need to think why we’re doing it, and our ultimate goals.
 
@@ -71,13 +73,15 @@ Before I get ahead of myself, let me start at the beginning.
 
 In the early months of 2017, I decided to purchase a Fuji X100 camera with the intent of using it for a trip to Cuba I was planning for later that year. It seemed like the perfect travel and street photography camera. If you’re not familiar with it, this is essentially a rangefinder camera with a fixed focal length lens that has a 35mm field of view.
 
-I grew up shooting film, and the ultimate camera always seemed to be the Leica M rangefinder with a 35mm lens -- The camera used by the old masters, Henri Cartier Bresson, Gary Winnogrand, Walker Evans, Man Ray and Kertesz, and countless others.
+When I started learning photography many years ago, the ultimate camera always seemed to be the Leica M rangefinder with a 35mm lens. It was used by the old masters, Henri Cartier Bresson, Gary Winnogrand, Walker Evans, Man Ray,  Kertesz, and countless others.
 
 This Fuji X100 seemed to be the modern equivalent of that. Small, lightweight, fast and discreet. Most of all, I found it an inspiring piece of gear to use, and unlike any camera I’ve owned before, I wanted to shoot with it all the time.
 
 After a weekend photowalk, I was sharing images with a fellow photographer (Hi Stewart!) and he asked me if I’d ever considered doing a photo-a-day project.
 
-I admitted I had not. I always found the concept a bit of a gimmick, and who has time to do something EVERY DAY? I initially dismissed the challenge, but something in the back of my mind kept nagging me. What if I DID shoot a photo every day. What would happen, if anything? Would I get better? Would I tap into some part of my subconscious and unlock my personal style -- which is that constant quest I’d been on for more than 20 years at that point, and which was responsible for maybe all the insecurities I’ve had as a photographer. How I could be a photographer and not understand what my own style is -- maybe this project could help me discover that.
+I admitted I had not. I always found the concept a bit of a gimmick, and who has time to do something EVERY DAY? I initially dismissed the challenge, but something in the back of my mind kept nagging me. What if I DID shoot a photo every day. What would happen, if anything? Would I get better?
+
+Would I finally unlock my personal style -- which is that constant quest I’d been on for more than 20 years at that point, and which was responsible for maybe all the insecurities I’ve had as a photographer. After all, how I could be a photographer and not understand what my own style is -- maybe this project could help me discover that.
 
 What would it feel like at the end to look back and reflect on at least 365 images taken over a course of a year? What body of work would I end up with?
 
@@ -86,7 +90,6 @@ But how was I going to physically do it? How was I going to commit to doing this
 So I decided to give it a shot. But first, I needed to establish some ground rules for myself.
 
 One, I opted to shoot all my images with actual cameras. No smart phones. That meant I needed to carry a camera with me at all times. Not just in a case in the trunk of my car, but on the passenger seat next to me, on my desk, on the table at lunchtime in Subway. Everywhere. The small X100 was perfect for this.
-
 Two, I was going to post at least one photo every day on my website, numbering each entry according to which day of the project I was on. For example, photo 23 of 365, and so on. That meant I was not only going to shoot each day, but process and post images that same day, unless I was out of town and didn’t have access to my computer (for example, that Cuba trip I mentioned).
 
 Three, the project images couldn’t just be throwaway shots. They had to be something good enough I could submit to a publication, or print and hang on a wall, or use in a photo series. Essentially, they needed to have some artistic merit.
