@@ -39,7 +39,10 @@ seo:
     - name: 'twitter:title'
       value: 'Episode 1 - Before you begin, visualize the ending'
     - name: 'twitter:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        Starting a photo-a-day project is daunting, and maybe it even sounds
+        impossible. But before you begin a long-term project, you first need to
+        know how it might end.
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
