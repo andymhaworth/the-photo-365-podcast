@@ -5,7 +5,7 @@ sections:
     title: Subscribe
     subtitle: >-
       Pick your favorite podcast platform. You may also find the show on
-      platforms not listed here, so search within your favorite podcast app
+      platforms not listed here, so search for it in your podcast app of choice.
     align: center
     padding_top: large
     padding_bottom: none
