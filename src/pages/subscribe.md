@@ -59,15 +59,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
-            has_icon: false
-            icon: apple-podcasts
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
         actions_align: center
         image: images/icon-3.svg
         image_alt: Overcast icon
