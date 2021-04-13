@@ -5,8 +5,7 @@ seo:
   title: About
   description: >-
     Photo 365 isn't intended to be a technical exploration of photography. I'm
-    more interested in why we take photos, and the creative process that yields
-    meaningful results.
+    more interested in why we take photos and the creative process.
   extra:
     - name: 'og:type'
       value: website
