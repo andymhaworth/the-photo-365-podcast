@@ -117,7 +117,7 @@ sections:
         content_align: left
         actions:
           - label: Subscribe
-            url: lorem-ipsum
+            url: 'https://anchor.fm/s/55fd9814/podcast/rss'
             style: secondary
             has_icon: true
             icon: arrow-right
