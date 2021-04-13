@@ -83,7 +83,7 @@ sections:
         image_alt: Stitcher logo
         image_position: top
         image_width: twenty-five
-        image_align: left
+        image_align: center
         image_has_padding: true
         type: grid_item
         image: /images/stitcher-86x86.svg
