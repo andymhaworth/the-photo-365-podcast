@@ -30,7 +30,7 @@ seo:
         lifeline!
       keyName: property
     - name: 'og:image'
-      value: images/post-2.jpg
+      value: /images/house-july-5-2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
