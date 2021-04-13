@@ -29,7 +29,9 @@ seo:
       value: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        You can never let your guard down when it comes to seeking out images.
+        You need to embrace a new heightened sense of awareness -- the ABC Rule.
       keyName: property
     - name: 'og:image'
       value: images/post-3.jpg
