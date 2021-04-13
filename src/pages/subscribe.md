@@ -95,7 +95,7 @@ sections:
         content_align: left
         actions:
           - label: Subscribe
-            url: lorem-ipsum
+            url: 'https://photo365podcast.com/lorem-ipsum'
             style: secondary
             has_icon: true
             icon: arrow-right
