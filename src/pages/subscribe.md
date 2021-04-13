@@ -169,7 +169,7 @@ seo:
     - name: 'twitter:description'
       value: Subscribe to Photo 365 on your favorite podcast platform.
     - name: 'twitter:image'
-      value: images/about.png
+      value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
 template: advanced
 ---
