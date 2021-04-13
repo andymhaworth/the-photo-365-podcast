@@ -15,7 +15,7 @@ episode_embed_html: >-
   height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
-  title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+  title: 'Episode 2 - Themes, shot lists, luck and lifelines'
   description: Quae diligentissime contra Aristonem dicuntur a Chryippo
   extra:
     - name: 'og:type'
