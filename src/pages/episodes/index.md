@@ -48,7 +48,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Episodes
-  description: All the Photo 365 episodes
+  description: All episodes of the Photo 365 podcast
   extra:
     - name: 'og:type'
       value: website
