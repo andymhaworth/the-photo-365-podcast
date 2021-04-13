@@ -9,7 +9,7 @@ categories:
 thumb_image: /images/365-July-9_10.jpg
 thumb_image_alt: Episode 3
 image: /images/365-July-9_10.jpg
-image_alt: Episode 3 placeholder image
+image_alt: 'Episode 3 '
 image_position: left
 episode_embed_html: >-
   <iframe
