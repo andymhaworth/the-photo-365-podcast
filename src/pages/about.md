@@ -3,7 +3,9 @@ title: About
 seo:
   type: stackbit_page_meta
   title: About
-  description: This is the about page
+  description: >-
+    Photo 365 isn't intended to be a technical exploration of photography. I'm
+    more interested in why we take photos and the creative process.
   extra:
     - name: 'og:type'
       value: website
@@ -12,10 +14,12 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: >-
+        Photo 365 isn't intended to be a technical exploration of photography.
+        I'm more interested in why we take photos and the creative process.
       keyName: property
     - name: 'og:image'
-      value: images/about.png
+      value: /images/Photo%20365%20Cover.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -23,9 +27,11 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: >-
+        Photo 365 isn't intended to be a technical exploration of photography.
+        I'm more interested in why we take photos and the creative process.
     - name: 'twitter:image'
-      value: images/about.png
+      value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
 template: page
 ---

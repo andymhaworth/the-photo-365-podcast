@@ -9,6 +9,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
+    background_image_opacity: 20
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
@@ -48,7 +49,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Episodes
-  description: This is the episodes page
+  description: >-
+    All episodes of the Photo 365, a podcast about how to be a photographer
+    every day.
   extra:
     - name: 'og:type'
       value: website
@@ -57,10 +60,12 @@ seo:
       value: Episodes
       keyName: property
     - name: 'og:description'
-      value: This is the episodes page
+      value: >-
+        All episodes of the Photo 365, a podcast about how to be a photographer
+        every day.
       keyName: property
     - name: 'og:image'
-      value: images/post-9.jpg
+      value: /images/Photo%20365%20Cover.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -68,9 +73,11 @@ seo:
     - name: 'twitter:title'
       value: Episodes
     - name: 'twitter:description'
-      value: This is the episodes page
+      value: >-
+        All episodes of the Photo 365, a podcast about how to be a photographer
+        every day.
     - name: 'twitter:image'
-      value: images/post-9.jpg
+      value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
 template: advanced
 ---
