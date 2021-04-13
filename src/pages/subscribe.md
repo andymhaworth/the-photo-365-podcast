@@ -94,7 +94,7 @@ sections:
           - label: Subscribe
             url: lorem-ipsum
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: apple-podcasts
             icon_position: right
             new_window: false
