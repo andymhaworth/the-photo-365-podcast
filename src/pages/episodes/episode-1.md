@@ -28,7 +28,10 @@ seo:
       value: 'Episode 1 - Before you begin, visualize the ending'
       keyName: property
     - name: 'og:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        Starting a photo-a-day project is daunting, and maybe it even sounds
+        impossible. But before you begin a long-term project, you first need to
+        know how it might end.
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
