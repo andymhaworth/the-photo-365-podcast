@@ -18,7 +18,9 @@ episode_embed_html: >-
 seo:
   type: stackbit_page_meta
   title: Episode 3 - Enhance your photographic Spidey-sense
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: >-
+    You can never let your guard down when it comes to seeking out images. You
+    need to embrace a new heightened sense of awareness -- the ABC Rule.
   extra:
     - name: 'og:type'
       value: article
