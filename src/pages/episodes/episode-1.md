@@ -47,9 +47,9 @@ template: post
 ---
 ### Show Notes
 
-*   Sponsors
+*   Support the show: [Buy Me a Coffee](https://www.buymeacoffee.com/photo365)
 
-*   Sponsors
+*   Need a portfolio site to showcase your work? We love [Format.com](http://format.com)! (Affiliate)
 
 ### Transcript
 
