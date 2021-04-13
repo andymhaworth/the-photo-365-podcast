@@ -25,7 +25,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: 'Episode 1 - Before you begin, visualize the ending'
       keyName: property
     - name: 'og:description'
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
