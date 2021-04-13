@@ -88,7 +88,7 @@ sections:
         type: grid_item
         image: /images/stitcher-86x86.svg
       - title: Overcast
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
