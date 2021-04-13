@@ -70,7 +70,7 @@ seo:
     - name: 'twitter:description'
       value: This is the episodes page
     - name: 'twitter:image'
-      value: images/post-9.jpg
+      value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
 template: advanced
 ---
