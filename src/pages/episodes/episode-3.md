@@ -44,13 +44,15 @@ seo:
       relativeUrl: true
 template: post
 ---
-Show Notes
+### Show Notes
 
-*   xxxx
+*   Glengarry Glen Ross: [The "always be closing" speech](https://www.youtube.com/watch?v=Q4PE2hSqVnk) (warning: profanity)
 
-*   xxxx
+*   Support the show: [Buy Me a Coffee](https://www.buymeacoffee.com/photo365)
 
-Transcript
+*   Need a portfolio site to showcase your work? We love [Format.com](http://format.com)! (Affiliate)
+
+### Transcript
 
 Hello and welcome to Photo 365, a podcast about how to be a photographer every day.
 
