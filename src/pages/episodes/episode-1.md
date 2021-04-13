@@ -34,7 +34,7 @@ seo:
         know how it might end.
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: /images/riverwalk-dusk-2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
