@@ -16,7 +16,7 @@ episode_embed_html: >-
 seo:
   type: stackbit_page_meta
   title: 'Episode 2 - Themes, shot lists, luck and lifelines'
-  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
+  description: 'Has your creative well has suddenly run dry? Hopefully, you have a lifeline!'
   extra:
     - name: 'og:type'
       value: article
