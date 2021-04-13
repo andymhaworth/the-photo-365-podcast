@@ -38,7 +38,9 @@ seo:
     - name: 'twitter:title'
       value: 'Episode 2 - Themes, shot lists, luck and lifelines'
     - name: 'twitter:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Has your creative well has suddenly run dry? Hopefully, you have a
+        lifeline!
     - name: 'twitter:image'
       value: images/post-2.jpg
       relativeUrl: true
