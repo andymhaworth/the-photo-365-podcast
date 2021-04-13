@@ -156,7 +156,7 @@ seo:
       value: Subscribe
       keyName: property
     - name: 'og:description'
-      value: This is the subscribe page
+      value: Subscribe to Photo 365 on your favorite podcast platform.
       keyName: property
     - name: 'og:image'
       value: /images/Photo%20365%20Cover.jpg
