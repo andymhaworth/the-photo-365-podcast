@@ -60,7 +60,7 @@ My name is Andrew Haworth, I’m a South Carolina-based media producer and occas
 
 In this episode, I want to discuss a fairly basic concept that is key to taking on a photo a day, or any type of long term photography project. I call it the ABC Rule: “Always be composing” -- my apologies to screenwriter David Mamet.
 
-You may recall the scene in Glengary Glenross, when Alec Baldwin’s character tries to motivate his salesmen with his own version of the ABC rule -- Always be closing. Not simply selling, but always pushing to finalize --  or close -- a sale. In some ways, this is similar to what I discussed in episode one in regards to visualizing the end of a project before you start it.
+You may recall the scene in Glengarry Glen Ross, when Alec Baldwin’s character tries to motivate his salesmen with his own version of the ABC rule -- Always be closing. Not simply selling, but always pushing to finalize --  or close -- a sale. In some ways, this is similar to what I discussed in episode one in regards to visualizing the end of a project before you start it.
 
 But in this case, my version of ABC refers to the act of always looking for photo opportunities. Always be composing a shot, either through a viewfinder, or in your mind’s eye. I think we as photographers do this naturally. Our eye is drawn to interesting light, graphic compositions, or unique faces. You probably already have a focal length or the depth of field in mind before you even lift the camera. You know what the shot will look like before you take it.
 
