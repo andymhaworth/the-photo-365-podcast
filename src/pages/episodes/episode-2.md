@@ -25,7 +25,9 @@ seo:
       value: 'Episode 2 - Themes, shot lists, luck and lifelines'
       keyName: property
     - name: 'og:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Has your creative well has suddenly run dry? Hopefully, you have a
+        lifeline!
       keyName: property
     - name: 'og:image'
       value: images/post-2.jpg
