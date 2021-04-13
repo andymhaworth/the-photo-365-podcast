@@ -19,7 +19,10 @@ episode_embed_html: >-
 seo:
   type: stackbit_page_meta
   title: 'Episode 1 - Before you begin, visualize the ending'
-  description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+  description: >-
+    Starting a photo-a-day project is daunting, and maybe it even sounds
+    impossible. But before you begin a long-term project, you first need to know
+    how it might end.
   extra:
     - name: 'og:type'
       value: article
