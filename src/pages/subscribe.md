@@ -66,7 +66,6 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Stitcher
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
