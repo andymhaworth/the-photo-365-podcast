@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: 'Episode 2 - Themes, shot lists, luck and lifelines'
       keyName: property
     - name: 'og:description'
       value: Quae diligentissime contra Aristonem dicuntur a Chryippo
