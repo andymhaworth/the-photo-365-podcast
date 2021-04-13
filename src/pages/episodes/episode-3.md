@@ -34,7 +34,7 @@ seo:
         You need to embrace a new heightened sense of awareness -- the ABC Rule.
       keyName: property
     - name: 'og:image'
-      value: images/post-3.jpg
+      value: /images/365-July-9_10.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
