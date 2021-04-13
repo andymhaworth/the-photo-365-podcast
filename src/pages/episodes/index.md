@@ -68,7 +68,7 @@ seo:
     - name: 'twitter:title'
       value: Episodes
     - name: 'twitter:description'
-      value: All the Photo 365 episodes
+      value: All episodes of the Photo 365 podcast.
     - name: 'twitter:image'
       value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
