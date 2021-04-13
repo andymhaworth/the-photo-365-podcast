@@ -9,6 +9,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
+    image: /images/sound-mixer.jpg
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
