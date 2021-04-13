@@ -42,7 +42,7 @@ seo:
         Has your creative well has suddenly run dry? Hopefully, you have a
         lifeline!
     - name: 'twitter:image'
-      value: images/post-2.jpg
+      value: /images/house-july-5-2.jpg
       relativeUrl: true
 template: post
 ---
