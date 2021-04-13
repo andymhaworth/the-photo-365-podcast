@@ -167,7 +167,7 @@ seo:
     - name: 'twitter:title'
       value: Subscribe
     - name: 'twitter:description'
-      value: This is the subscribe page
+      value: Subscribe to Photo 365 on your favorite podcast platform.
     - name: 'twitter:image'
       value: images/about.png
       relativeUrl: true
