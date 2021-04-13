@@ -147,7 +147,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Subscribe
-  description: This is the subscribe page
+  description: Subscribe to Photo 365 on your favorite podcast platform.
   extra:
     - name: 'og:type'
       value: website
