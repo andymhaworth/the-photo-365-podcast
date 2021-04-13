@@ -57,7 +57,7 @@ seo:
       value: Episodes
       keyName: property
     - name: 'og:description'
-      value: This is the episodes page
+      value: All the Photo 365 episodes
       keyName: property
     - name: 'og:image'
       value: /images/Photo%20365%20Cover.jpg
