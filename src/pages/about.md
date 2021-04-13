@@ -3,7 +3,10 @@ title: About
 seo:
   type: stackbit_page_meta
   title: About
-  description: This is the about page
+  description: >-
+    Photo 365 isn't intended to be a technical exploration of photography. I'm
+    more interested in why we take photos, and the creative process that yields
+    meaningful results.
   extra:
     - name: 'og:type'
       value: website
