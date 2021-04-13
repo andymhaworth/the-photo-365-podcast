@@ -14,7 +14,7 @@ image_position: left
 episode_embed_html: >-
   <iframe
   src="https://anchor.fm/photo365/embed/episodes/Enhance-your-photographic-Spidey-sense-eug605"
-  height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+  height="180px" width="400px" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
   title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
