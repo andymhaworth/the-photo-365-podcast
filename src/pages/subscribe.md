@@ -86,6 +86,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/stitcher-86x86.svg
       - title: Overcast
         subtitle: lorem-ipsum
         title_align: left
