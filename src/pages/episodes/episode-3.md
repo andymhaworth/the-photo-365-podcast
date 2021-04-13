@@ -12,9 +12,9 @@ image: /images/365-July-9_10.jpg
 image_alt: Episode 3 placeholder image
 image_position: left
 episode_embed_html: >-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <iframe
+  src="https://anchor.fm/photo365/embed/episodes/Enhance-your-photographic-Spidey-sense-eug605"
+  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
   title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
@@ -44,13 +44,15 @@ seo:
       relativeUrl: true
 template: post
 ---
-Show Notes
+### Show Notes
 
-*   xxxx
+*   Glengarry Glen Ross: [The "always be closing" speech](https://www.youtube.com/watch?v=Q4PE2hSqVnk) (warning: profanity)
 
-*   xxxx
+*   Support the show: [Buy Me a Coffee](https://www.buymeacoffee.com/photo365)
 
-Transcript
+*   Need a portfolio site to showcase your work? We love [Format.com](https://format.grsm.io/andrewhaworth8239)! (Affiliate)
+
+### Transcript
 
 Hello and welcome to Photo 365, a podcast about how to be a photographer every day.
 
