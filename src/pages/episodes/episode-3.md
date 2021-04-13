@@ -26,7 +26,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Episode 3 - Enhance your photographic Spidey-sense
       keyName: property
     - name: 'og:description'
       value: >-
