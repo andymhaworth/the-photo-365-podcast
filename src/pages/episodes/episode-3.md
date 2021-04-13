@@ -7,9 +7,9 @@ date: '2021-04-13'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: /images/365-July-9_10.jpg
-thumb_image_alt: Episode 3 placeholder image
+thumb_image_alt: Episode 3
 image: /images/365-July-9_10.jpg
-image_alt: Episode 3 placeholder image
+image_alt: 'Episode 3 '
 image_position: left
 episode_embed_html: >-
   <iframe
@@ -17,30 +17,36 @@ episode_embed_html: >-
   height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
-  title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  title: Episode 3 - Enhance your photographic Spidey-sense
+  description: >-
+    You can never let your guard down when it comes to seeking out images. You
+    need to embrace a new heightened sense of awareness -- the ABC Rule.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Episode 3 - Enhance your photographic Spidey-sense
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        You can never let your guard down when it comes to seeking out images.
+        You need to embrace a new heightened sense of awareness -- the ABC Rule.
       keyName: property
     - name: 'og:image'
-      value: images/post-3.jpg
+      value: /images/365-July-9_10.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Episode 3 - Enhance your photographic Spidey-sense
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        You can never let your guard down when it comes to seeking out images.
+        You need to embrace a new heightened sense of awareness -- the ABC Rule.
     - name: 'twitter:image'
-      value: images/post-3.jpg
+      value: /images/365-July-9_10.jpg
       relativeUrl: true
 template: post
 ---
@@ -60,7 +66,7 @@ My name is Andrew Haworth, I’m a South Carolina-based media producer and occas
 
 In this episode, I want to discuss a fairly basic concept that is key to taking on a photo a day, or any type of long term photography project. I call it the ABC Rule: “Always be composing” -- my apologies to screenwriter David Mamet.
 
-You may recall the scene in Glengary Glenross, when Alec Baldwin’s character tries to motivate his salesmen with his own version of the ABC rule -- Always be closing. Not simply selling, but always pushing to finalize --  or close -- a sale. In some ways, this is similar to what I discussed in episode one in regards to visualizing the end of a project before you start it.
+You may recall the scene in Glengarry Glen Ross, when Alec Baldwin’s character tries to motivate his salesmen with his own version of the ABC rule -- Always be closing. Not simply selling, but always pushing to finalize --  or close -- a sale. In some ways, this is similar to what I discussed in episode one in regards to visualizing the end of a project before you start it.
 
 But in this case, my version of ABC refers to the act of always looking for photo opportunities. Always be composing a shot, either through a viewfinder, or in your mind’s eye. I think we as photographers do this naturally. Our eye is drawn to interesting light, graphic compositions, or unique faces. You probably already have a focal length or the depth of field in mind before you even lift the camera. You know what the shot will look like before you take it.
 

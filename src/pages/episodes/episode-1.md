@@ -18,30 +18,39 @@ episode_embed_html: >-
   height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
-  title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
-  description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+  title: 'Episode 1 - Before you begin, visualize the ending'
+  description: >-
+    Starting a photo-a-day project is daunting, and maybe it even sounds
+    impossible. But before you begin a long-term project, you first need to know
+    how it might end.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: 'Episode 1 - Before you begin, visualize the ending'
       keyName: property
     - name: 'og:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        Starting a photo-a-day project is daunting, and maybe it even sounds
+        impossible. But before you begin a long-term project, you first need to
+        know how it might end.
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: /images/riverwalk-dusk-2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: 'Episode 1 - Before you begin, visualize the ending'
     - name: 'twitter:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        Starting a photo-a-day project is daunting, and maybe it even sounds
+        impossible. But before you begin a long-term project, you first need to
+        know how it might end.
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/riverwalk-dusk-2.jpg
       relativeUrl: true
 template: post
 ---

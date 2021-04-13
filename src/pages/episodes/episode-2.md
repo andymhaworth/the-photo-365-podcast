@@ -15,30 +15,34 @@ episode_embed_html: >-
   height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
-  title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
-  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
+  title: 'Episode 2 - Themes, shot lists, luck and lifelines'
+  description: 'Has your creative well has suddenly run dry? Hopefully, you have a lifeline!'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: 'Episode 2 - Themes, shot lists, luck and lifelines'
       keyName: property
     - name: 'og:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Has your creative well has suddenly run dry? Hopefully, you have a
+        lifeline!
       keyName: property
     - name: 'og:image'
-      value: images/post-2.jpg
+      value: /images/house-july-5-2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: 'Episode 2 - Themes, shot lists, luck and lifelines'
     - name: 'twitter:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        Has your creative well has suddenly run dry? Hopefully, you have a
+        lifeline!
     - name: 'twitter:image'
-      value: images/post-2.jpg
+      value: /images/house-july-5-2.jpg
       relativeUrl: true
 template: post
 ---
