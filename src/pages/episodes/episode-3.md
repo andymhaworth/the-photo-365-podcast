@@ -17,7 +17,7 @@ episode_embed_html: >-
   height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
-  title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+  title: Episode 3 - Enhance your photographic Spidey-sense
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
