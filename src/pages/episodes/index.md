@@ -70,7 +70,9 @@ seo:
     - name: 'twitter:title'
       value: Episodes
     - name: 'twitter:description'
-      value: All episodes of the Photo 365 podcast.
+      value: >-
+        All episodes of the Photo 365, a podcast about how to be a photographer
+        every day.
     - name: 'twitter:image'
       value: /images/Photo%20365%20Cover.jpg
       relativeUrl: true
