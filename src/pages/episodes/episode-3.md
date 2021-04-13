@@ -42,7 +42,9 @@ seo:
     - name: 'twitter:title'
       value: Episode 3 - Enhance your photographic Spidey-sense
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        You can never let your guard down when it comes to seeking out images.
+        You need to embrace a new heightened sense of awareness -- the ABC Rule.
     - name: 'twitter:image'
       value: images/post-3.jpg
       relativeUrl: true
