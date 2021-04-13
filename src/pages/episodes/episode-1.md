@@ -18,7 +18,7 @@ episode_embed_html: >-
   height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   type: stackbit_page_meta
-  title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: 'Episode 1 - Before you begin, visualize the ending'
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
   extra:
     - name: 'og:type'
