@@ -95,7 +95,7 @@ sections:
         content_align: left
         actions:
           - label: Subscribe
-            url: 'https://photo365podcast.com/lorem-ipsum'
+            url: 'https://overcast.fm/itunes1562363768'
             style: secondary
             has_icon: true
             icon: arrow-right
