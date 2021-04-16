@@ -60,7 +60,6 @@ export default class Body extends React.Component {
                     )}
                     <body className={'layout-' + _.get(this.props, 'pageContext.site.siteMetadata.layout_type', null) + ' style-' + _.get(this.props, 'pageContext.site.siteMetadata.style', null) + ' palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null) + ' mode-' + _.get(this.props, 'pageContext.site.siteMetadata.mode', null) + ' font-' + _.get(this.props, 'pageContext.site.siteMetadata.base_font', null)} />
                 
-                    <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png"/>
                     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png"/>
                     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png"/>
