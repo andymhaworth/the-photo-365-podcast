@@ -65,7 +65,6 @@ export default class Body extends React.Component {
                     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png"/>
                     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png"/>
                     <link rel="manifest" href="/images/favicon/site.webmanifest"></link>
-
                 </Helmet>
                 <div id="site-wrap" className="site">
                 	{(_.get(this.props, 'pageContext.site.siteMetadata.header.has_anncmnt', null) && _.get(this.props, 'pageContext.site.siteMetadata.header.anncmnt_content', null)) && (
