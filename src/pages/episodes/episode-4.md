@@ -18,7 +18,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/golgotha-2.jpg
+thumb_image: /images/June 28.jpg
 image: /images/June 28.jpg
 ---
 ### Show Notes
