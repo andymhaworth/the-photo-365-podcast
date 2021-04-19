@@ -1,5 +1,5 @@
 ---
-title: Hold yourself accountable to stay focused
+title: 04. Hold yourself accountable to stay focused
 subtitle: >-
   You've just started a long-term artistic endeavor. How do you ensure you stay
   on track, don’t miss any days, or compromise your artistic vision?
