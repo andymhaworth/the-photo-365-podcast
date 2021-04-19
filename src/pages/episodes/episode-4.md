@@ -4,7 +4,11 @@ subtitle: lorem-ipsum
 date: '2021-04-20'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  You've just started a photo-a-day project, or a long-term artistic endeavor,
+  and for the most part you're flying solo, following your own set of rules. How
+  do you ensure you stay on track, don’t miss any days, or compromise your
+  artistic vision?
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
