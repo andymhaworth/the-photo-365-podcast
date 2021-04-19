@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Hold yourself accountable to stay focused
 subtitle: lorem-ipsum
 date: '2021-04-19'
 categories: []
