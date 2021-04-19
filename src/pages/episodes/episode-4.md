@@ -4,7 +4,8 @@ subtitle: >-
   You've just started a long-term artistic endeavor. How do you ensure you stay
   on track, don’t miss any days, or compromise your artistic vision?
 date: '2021-04-20'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 thumb_image_alt: Episode 4
 image_alt: Episode 4
