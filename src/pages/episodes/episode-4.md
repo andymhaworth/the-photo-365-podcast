@@ -10,7 +10,7 @@ tags: []
 thumb_image_alt: Episode 4
 image_alt: Episode 4
 image_position: right
-episode_embed_html: Episode 4 embed code
+episode_embed_html: '[Episode 4 embed code]'
 seo:
   title: ''
   description: ''
