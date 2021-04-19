@@ -21,6 +21,11 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+excerpt: >-
+  You've just started a photo-a-day project, or a long-term artistic endeavor,
+  and for the most part you're flying solo, following your own set of rules. How
+  do you ensure you stay on track, don’t miss any days, or compromise your
+  artistic vision?
 ---
 ## Lorem ipsum
 
