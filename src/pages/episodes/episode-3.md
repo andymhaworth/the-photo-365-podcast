@@ -8,7 +8,7 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: /images/February_3-Canon_03.jpg
 thumb_image_alt: Episode 3
-image: /images/365-July-9_10.jpg
+image: /images/February_3-Canon_03.jpg
 image_alt: 'Episode 3 '
 image_position: left
 episode_embed_html: >-
