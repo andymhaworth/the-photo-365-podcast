@@ -23,7 +23,7 @@ excerpt: >-
   and for the most part you're flying solo, following your own set of rules. How
   do you ensure you stay on track, don’t miss any days, or compromise your
   artistic vision?
-thumb_image: /images/365-July-9_10.jpg
+thumb_image: /images/golgotha-2.jpg
 image: /images/golgotha-2.jpg
 ---
 ### Show Notes
