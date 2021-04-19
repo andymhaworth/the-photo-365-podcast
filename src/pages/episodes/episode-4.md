@@ -8,7 +8,7 @@ subtitle: >-
 date: '2021-04-20'
 categories: []
 tags: []
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Episode 4
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: >-
