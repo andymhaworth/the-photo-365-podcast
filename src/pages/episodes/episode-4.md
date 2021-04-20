@@ -10,7 +10,10 @@ tags: []
 thumb_image_alt: Episode 4
 image_alt: Episode 4
 image_position: right
-episode_embed_html: '[Episode 4 embed code]'
+episode_embed_html: >-
+  <iframe
+  src="https://anchor.fm/photo365/embed/episodes/Hold-yourself-accountable-to-stay-focused-eugglj"
+  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   title: ''
   description: ''
