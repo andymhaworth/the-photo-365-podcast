@@ -4,7 +4,7 @@ subtitle: >-
   An opportunity to shoot a great photo is like lightning. It rarely strikes in
   the same place again. If something catches your eye, it’s incumbent on you to
   stop and capture the moment.
-date: '2021-04-26'
+date: '2021-04-27'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
