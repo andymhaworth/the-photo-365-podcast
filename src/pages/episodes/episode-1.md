@@ -53,6 +53,7 @@ seo:
       value: /images/riverwalk-dusk-2.jpg
       relativeUrl: true
 template: post
+excerpt: 'before you begin a long-term project, you first need to know how it might end.'
 ---
 ### Show Notes
 
