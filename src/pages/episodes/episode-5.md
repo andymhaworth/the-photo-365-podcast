@@ -12,7 +12,7 @@ excerpt: >-
   An opportunity to shoot a great photo is like lightning. It rarely strikes in
   the same place again. If something catches your eye, it’s incumbent on you to
   stop and capture the moment.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Episode 5
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: '[EMBED CODE]'
