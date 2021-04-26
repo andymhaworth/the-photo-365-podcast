@@ -45,6 +45,7 @@ seo:
       value: /images/house-july-5-2.jpg
       relativeUrl: true
 template: post
+excerpt: 'Has your creative well has suddenly run dry? Hopefully, you have a lifeline!'
 ---
 ### Show Notes
 
