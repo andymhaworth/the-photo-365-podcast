@@ -51,7 +51,7 @@ seo:
 template: post
 excerpt: >-
   You can never let your guard down when it comes to seeking out images. You
-  need to embrace a new heightened sense of awareness
+  need to embrace a new heightened sense of awareness.
 ---
 ### Show Notes
 
