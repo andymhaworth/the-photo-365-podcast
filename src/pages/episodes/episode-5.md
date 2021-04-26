@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 05. Don't pass up a great opportunity
 subtitle: lorem-ipsum
 date: '2021-04-26'
 categories: []
