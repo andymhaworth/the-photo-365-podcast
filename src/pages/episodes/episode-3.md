@@ -49,6 +49,9 @@ seo:
       value: /images/365-July-9_10.jpg
       relativeUrl: true
 template: post
+excerpt: >-
+  You can never let your guard down when it comes to seeking out images. You
+  need to embrace a new heightened sense of awareness
 ---
 ### Show Notes
 
