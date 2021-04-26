@@ -23,6 +23,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: /images/November-22-2017.jpg
 ---
 ### Show Notes
 
