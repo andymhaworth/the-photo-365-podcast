@@ -5,7 +5,8 @@ subtitle: >-
   the same place again. If something catches your eye, it’s incumbent on you to
   stop and capture the moment.
 date: '2021-04-26'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
