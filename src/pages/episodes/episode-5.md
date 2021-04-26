@@ -1,5 +1,5 @@
 ---
-title: 05. Don't pass up a great opportunity
+title: 05. Seize the opportunity
 subtitle: >-
   An opportunity to shoot a great photo is like lightning. It rarely strikes in
   the same place again. If something catches your eye, it’s incumbent on you to
