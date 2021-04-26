@@ -26,6 +26,7 @@ sections:
     background_image_opacity: 98
     background_image_size: auto
     background_image_repeat: repeat
+    recent_count: 3
   - type: form_section
     title: Get Photo 365 in your inbox
     title_align: center
