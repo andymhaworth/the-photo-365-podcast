@@ -23,6 +23,9 @@ seo:
 template: post
 thumb_image: /images/June 28.jpg
 image: /images/June 28.jpg
+excerpt: >-
+  How do you ensure you stay on track, don’t miss any days, or compromise your
+  artistic vision?
 ---
 ### Show Notes
 

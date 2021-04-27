@@ -53,6 +53,7 @@ seo:
       value: /images/riverwalk-dusk-2.jpg
       relativeUrl: true
 template: post
+excerpt: 'Before you begin a long-term project, you first need to know how it might end.'
 ---
 ### Show Notes
 
@@ -99,6 +100,7 @@ But how was I going to physically do it? How was I going to commit to doing this
 So I decided to give it a shot. But first, I needed to establish some ground rules for myself.
 
 One, I opted to shoot all my images with actual cameras. No smart phones. That meant I needed to carry a camera with me at all times. Not just in a case in the trunk of my car, but on the passenger seat next to me, on my desk, on the table at lunchtime in Subway. Everywhere. The small X100 was perfect for this.
+
 Two, I was going to post at least one photo every day on my website, numbering each entry according to which day of the project I was on. For example, photo 23 of 365, and so on. That meant I was not only going to shoot each day, but process and post images that same day, unless I was out of town and didn’t have access to my computer (for example, that Cuba trip I mentioned).
 
 Three, the project images couldn’t just be throwaway shots. They had to be something good enough I could submit to a publication, or print and hang on a wall, or use in a photo series. Essentially, they needed to have some artistic merit.
@@ -113,9 +115,11 @@ Before I’d taken a single shot, or laid out the rules for my project, I’d fa
 
 I recently read an article on Medium that articulated this concept really beautifully, and I quote, “This skill of picturing our future selves is fundamental for discipline -- but it’s also important for happiness.” And the writer goes on to note that we as humans, are actually terrible at picturing our future. Which is one reason why we are so bad at saving money or planning for retirement.
 
-Rather than focus on that treacherous first step that we dread, focus on the outcome you anticipate. Yes, getting off the couch and going for a four mile walk sounds dull now, but you know that when you’re done, you’ll feel refreshed and exhilarated.
+Rather than focus on that treacherous first step that we dread, focus on the outcome you anticipate. Someone recently told me this line of thinking is actually one of the principles in the book, The 7 Habits of Highly Effective People, by Stephen Covey.
 
-At this minute, do I want to get on my cycle and pedal for 20 miles or more? Not particularly, but I know when I’m on the road with a tailwind and moving effortlessly over the blacktop, that I’ll feel like I’ve done something good for myself, mentally and physically.
+Covey says, “Begin with the end in mind.” So, getting off the couch and going for a four mile walk sounds dull now, but you know that when you’re done, you’ll feel refreshed and exhilarated.
+
+Thinking of your photography project, what are some of the outcomes you’d like to see? Just the satisfaction of knowing that you stuck with it to the end might be enough. But envision the depth of the body of work you’re going to produce. Think about how you’ll grow as a creator and artist.
 
 Second takeaway: You have to establish rules for yourself. What camera will you use? Maybe you do the whole thing on a smartphone. Maybe you shoot film. What are you going to shoot? Do you have an overarching concept or theme that runs through your work? If not, consider a theme that is broad enough to sustain a year of shooting. Maybe your theme lasts for a week and you move on to another one the next week.
 
