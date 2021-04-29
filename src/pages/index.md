@@ -149,7 +149,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: /images/pocketcasts.svg
+        image: /images/icon-3.svg
       - title: RSS
         title_align: center
         content_align: center
