@@ -133,7 +133,7 @@ sections:
         content_align: left
         actions:
           - label: Subscribe
-            url: 'https://overcast.fm/itunes1562363768'
+            url: 'https://pca.st/18p8b8fk'
             style: secondary
             has_icon: true
             icon: arrow-right
