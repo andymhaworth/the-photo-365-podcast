@@ -128,7 +128,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/stitcher-86x86.svg
-      - title: Overcast
+      - title: Pocket Casts
         title_align: center
         content_align: left
         actions:
