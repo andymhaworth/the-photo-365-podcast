@@ -128,12 +128,12 @@ sections:
         image_has_padding: true
         type: grid_item
         image: /images/stitcher-86x86.svg
-      - title: Overcast
+      - title: Pocket Casts
         title_align: center
         content_align: left
         actions:
           - label: Subscribe
-            url: 'https://overcast.fm/itunes1562363768'
+            url: 'https://pca.st/18p8b8fk'
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -149,7 +149,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: /images/icon-3.svg
+        image: /images/pocketcasts.png
       - title: RSS
         title_align: center
         content_align: center
