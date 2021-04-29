@@ -36,7 +36,7 @@ sections:
     show_date: true
     show_categories: false
     show_author: false
-    show_excerpt: true
+    show_excerpt: false
     show_image: true
     align: center
     padding_top: medium
