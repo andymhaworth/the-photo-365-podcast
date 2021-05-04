@@ -22,6 +22,7 @@ subtitle: >-
   In this competitive reality show, contestants are issued a smartphone and
   asked to complete photographic challenges.
 thumb_image: /images/exposure-hulu.jpg
+image: /images/exposure-hulu.jpg
 ---
 ### Show Notes
 
