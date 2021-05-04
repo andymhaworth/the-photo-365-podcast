@@ -9,7 +9,7 @@ excerpt: >-
   asked to complete photographic challenges.
 thumb_image_alt: Exposure on Hulu
 image_alt: Exposure on Hulu
-image_position: top
+image_position: right
 episode_embed_html: '[embed code]'
 seo:
   title: ''
