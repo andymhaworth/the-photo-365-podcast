@@ -1,7 +1,8 @@
 ---
 title: 06. What can we learn from Hulu’s new show “Exposure”?
 date: '2021-05-04'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: >-
   In this competitive reality show, contestants are issued a smartphone and
