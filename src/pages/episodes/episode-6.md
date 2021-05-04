@@ -8,7 +8,7 @@ excerpt: >-
   In this competitive reality show, contestants are issued a smartphone and
   asked to complete photographic challenges.
 thumb_image_alt: Exposure on Hulu
-image_alt: lorem-ipsum
+image_alt: Exposure on Hulu
 image_position: top
 episode_embed_html: '[embed code]'
 seo:
