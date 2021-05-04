@@ -19,7 +19,7 @@ subtitle: >-
   In this competitive reality show, contestants are issued a smartphone and
   asked to complete photographic challenges.
 ---
-Show Notes
+### Show Notes
 
 Exposure Homepage at Samsung.com: <https://www.samsung.com/us/smartphones/galaxy-s21-ultra-5g/exposure/>
 
@@ -33,10 +33,9 @@ Steve McCurry on "Afghan Girl": <https://www.youtube.com/watch?v=ciXIaCF80ao>
 
 "When Bad Photos are Better": <https://www.youtube.com/watch?v=gyCumQ78ZoI>
 
-Support the show: Buy Me a Coffee
+Support the show: [Buy Me a Coffee](https://www.buymeacoffee.com/photo365)
 
-Need a portfolio site to showcase your work? We love Format.com! (Affiliate)
-
+Need a portfolio site to showcase your work? We love [Format.com](https://format.grsm.io/andrewhaworth8239)! (Affiliate)
 
 ### Transcript
 
