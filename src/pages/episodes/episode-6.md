@@ -10,7 +10,10 @@ excerpt: >-
 thumb_image_alt: Exposure on Hulu
 image_alt: Exposure on Hulu
 image_position: right
-episode_embed_html: '[embed code]'
+episode_embed_html: >-
+  <iframe
+  src="https://anchor.fm/photo365/embed/episodes/What-can-we-learn-from-Hulus-new-show-Exposure-e106vp4"
+  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   title: ''
   description: ''
