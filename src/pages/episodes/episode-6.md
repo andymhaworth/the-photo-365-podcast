@@ -18,10 +18,8 @@ seo:
   type: stackbit_page_meta
 template: post
 subtitle: >-
-  What can we take away from Hulu’s new reality show, “Exposure”? In this Top
-  Chef-style competition, contestants are issued a smartphone and asked to
-  complete photographic challenges. Between the reality TV tropes and product
-  placement, it turns out, we can learn quite a bit from it.
+  In this competitive reality show, contestants are issued a smartphone and
+  asked to complete photographic challenges.
 ---
 ## Lorem ipsum
 
