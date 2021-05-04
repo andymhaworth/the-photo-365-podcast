@@ -1,5 +1,5 @@
 ---
-title: '06. '
+title: 06. What can we learn from Hulu’s new show “Exposure”?
 subtitle: lorem-ipsum
 date: '2021-05-04'
 categories: []
