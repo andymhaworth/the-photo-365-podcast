@@ -13,9 +13,7 @@ image_position: right
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/3Db1kiLV7eUUuHBtSbE3n7"
   width="100%" height="232" frameborder="0" allowtransparency="true"
-  allow="encrypted-media"></iframe><iframe
-  src="https://anchor.fm/photo365/embed/episodes/What-can-we-learn-from-Hulus-new-show-Exposure-e106vp4"
-  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
+  allow="encrypted-media"></iframe>
 seo:
   title: ''
   description: ''
