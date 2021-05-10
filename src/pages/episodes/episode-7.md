@@ -19,6 +19,10 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+excerpt: >-
+  Do you have a bad case of GAS? If so, you probably have a lot of choices to
+  make regarding the cameras and lenses you’re using. And, you're probably
+  making the creative process harder on yourself.
 ---
 ### Show Notes
 
