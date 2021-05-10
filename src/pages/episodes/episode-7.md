@@ -8,7 +8,7 @@ date: '2021-05-11'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Episode 7
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: '[embed code]'
