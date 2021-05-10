@@ -1,6 +1,9 @@
 ---
 title: 07. Paralysis of Choice
-subtitle: lorem-ipsum
+subtitle: >-
+  Do you have a bad case of GAS? If so, you probably have a lot of choices to
+  make regarding the cameras and lenses you’re using. And, you're probably
+  making the creative process harder on yourself.
 date: '2021-05-10'
 categories: []
 tags: []
