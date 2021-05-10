@@ -4,7 +4,7 @@ subtitle: >-
   Do you have a bad case of GAS? If so, you probably have a lot of choices to
   make regarding the cameras and lenses you’re using. And, you're probably
   making the creative process harder on yourself.
-date: '2021-05-10'
+date: '2021-05-11'
 categories: []
 tags: []
 excerpt: lorem-ipsum
