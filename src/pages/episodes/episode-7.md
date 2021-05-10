@@ -9,7 +9,7 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 thumb_image_alt: Episode 7
-image_alt: lorem-ipsum
+image_alt: Episode 7
 image_position: top
 episode_embed_html: '[embed code]'
 seo:
