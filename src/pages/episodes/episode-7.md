@@ -5,7 +5,8 @@ subtitle: >-
   make regarding the cameras and lenses you’re using. And, you're probably
   making the creative process harder on yourself.
 date: '2021-05-11'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
