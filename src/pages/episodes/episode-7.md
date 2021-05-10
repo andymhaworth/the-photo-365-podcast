@@ -10,7 +10,7 @@ categories:
 tags: []
 thumb_image_alt: Episode 7
 image_alt: Episode 7
-image_position: top
+image_position: right
 episode_embed_html: '[embed code]'
 seo:
   title: ''
