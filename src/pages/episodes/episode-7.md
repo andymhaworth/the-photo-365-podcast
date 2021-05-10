@@ -24,6 +24,7 @@ excerpt: >-
   make regarding the cameras and lenses you’re using. And, you're probably
   making the creative process harder on yourself.
 thumb_image: /images/E7.jpg
+image: /images/E7.jpg
 ---
 ### Show Notes
 
