@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 07. Paralysis of Choice
 subtitle: lorem-ipsum
 date: '2021-05-10'
 categories: []
