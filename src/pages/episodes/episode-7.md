@@ -11,7 +11,10 @@ tags: []
 thumb_image_alt: Episode 7
 image_alt: Episode 7
 image_position: right
-episode_embed_html: '[embed code]'
+episode_embed_html: >-
+  <iframe
+  src="https://anchor.fm/photo365/embed/episodes/Limit-choices-to-maximize-creativity-evno8h"
+  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   title: ''
   description: ''
