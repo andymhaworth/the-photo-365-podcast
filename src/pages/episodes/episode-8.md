@@ -1,5 +1,5 @@
 ---
-title: '08. The '
+title: 08. The Limited Viewpoint
 subtitle: lorem-ipsum
 date: '2021-05-17'
 categories: []
