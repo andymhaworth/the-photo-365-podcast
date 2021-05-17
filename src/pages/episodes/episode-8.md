@@ -15,7 +15,7 @@ excerpt: >-
   confines of their own home.
 thumb_image_alt: Episode 8
 image_alt: Episode 8
-image_position: top
+image_position: right
 episode_embed_html: '[EMBED CODE]'
 seo:
   title: ''
