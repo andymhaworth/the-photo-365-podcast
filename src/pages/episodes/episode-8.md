@@ -8,7 +8,11 @@ subtitle: >-
 date: '2021-05-17'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Kitchen tables, windows, televisions and vases. On the surface, these may not
+  sound like worthy artistic subjects, until you realize some of the world’s
+  greatest photographers achieved success making images of these objects in the
+  confines of their own home.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
