@@ -13,7 +13,7 @@ excerpt: >-
   sound like worthy artistic subjects, until you realize some of the world’s
   greatest photographers achieved success making images of these objects in the
   confines of their own home.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Episode 8
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: '[EMBED CODE]'
