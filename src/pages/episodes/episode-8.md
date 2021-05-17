@@ -11,9 +11,9 @@ categories:
 tags: []
 excerpt: >-
   Kitchen tables, windows, televisions and vases. On the surface, these may not
-  sound like worthy artistic subjects, until you realize some of the world’s
-  greatest photographers achieved success making images of these objects in the
-  confines of their own home.
+  sound like worthy artistic subjects, but some of the world’s greatest
+  photographers achieved success making images of these objects in the confines
+  of their own home.
 thumb_image_alt: Episode 8
 image_alt: Episode 8
 image_position: right
