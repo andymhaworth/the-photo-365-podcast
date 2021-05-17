@@ -2,9 +2,9 @@
 title: 08. The Limited Viewpoint
 subtitle: >-
   Kitchen tables, windows, televisions and vases. On the surface, these may not
-  sound like worthy artistic subjects, until you realize some of the world’s
-  greatest photographers achieved success making images of these objects in the
-  confines of their own home.
+  sound like worthy artistic subjects, but some of the world’s greatest
+  photographers achieved success making images of these objects in the confines
+  of their own home.
 date: '2021-05-18'
 categories:
   - src/data/categories/season-1.yaml
