@@ -1,6 +1,10 @@
 ---
 title: 08. The Limited Viewpoint
-subtitle: lorem-ipsum
+subtitle: >-
+  Kitchen tables, windows, televisions and vases. On the surface, these may not
+  sound like worthy artistic subjects, until you realize some of the world’s
+  greatest photographers achieved success making images of these objects in the
+  confines of their own home.
 date: '2021-05-17'
 categories: []
 tags: []
