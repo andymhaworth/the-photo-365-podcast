@@ -14,7 +14,7 @@ excerpt: >-
   greatest photographers achieved success making images of these objects in the
   confines of their own home.
 thumb_image_alt: Episode 8
-image_alt: lorem-ipsum
+image_alt: Episode 8
 image_position: top
 episode_embed_html: '[EMBED CODE]'
 seo:
