@@ -15,7 +15,10 @@ excerpt: >-
 thumb_image_alt: Episode 8
 image_alt: Episode 8
 image_position: right
-episode_embed_html: '[EMBED CODE]'
+episode_embed_html: >-
+  <iframe
+  src="https://anchor.fm/photo365/embed/episodes/A-Limited-Viewpoint-Photography-at-Home-e1139o5"
+  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
 seo:
   title: ''
   description: ''
