@@ -1,5 +1,5 @@
 ---
-title: '08. The Limited Viewpoint: Photography at Home'
+title: 08. The Limited Viewpoint
 subtitle: >-
   Kitchen tables, windows, televisions and vases. On the surface, these may not
   sound like worthy artistic subjects, but many photographers have achieved
