@@ -3,7 +3,8 @@ subtitle: >-
   Long form visual storytelling, race and class in the deep south: A
   conversation with Atlanta-based visual storyteller Chris Aluka Berry.
 date: '2021-05-25'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: >-
   Long form visual storytelling, race and class in the deep south: A
