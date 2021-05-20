@@ -1,5 +1,7 @@
 ---
-subtitle: lorem-ipsum
+subtitle: >-
+  Long form visual storytelling, race and class in the deep south, and raw
+  intimacy. Today I’m having a conversation with photographer Chris Aluka Berry
 date: '2021-05-20'
 categories: []
 tags: []
