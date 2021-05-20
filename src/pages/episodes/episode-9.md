@@ -21,6 +21,7 @@ seo:
 template: post
 title: '09. Raw Intimacy: An interview with Chris Aluka Berry'
 thumb_image: /images/Aluka-1.JPG
+image: /images/Aluka-1-Main.jpg
 ---
 ### Show Notes
 
