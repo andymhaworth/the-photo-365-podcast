@@ -1,7 +1,7 @@
 ---
 subtitle: >-
   Long form visual storytelling examining race and class in the deep south: A
-  conversation with Atlanta-based visual storyteller Chris Aluka Berry.
+  conversation with Atlanta-based photographer Chris Aluka Berry.
 date: '2021-05-25'
 categories:
   - src/data/categories/season-1.yaml
