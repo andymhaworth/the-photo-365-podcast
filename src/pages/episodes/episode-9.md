@@ -8,7 +8,7 @@ categories:
 tags: []
 excerpt: >-
   Long form visual storytelling examining race and class in the deep south: A
-  conversation with Atlanta-based visual storyteller Chris Aluka Berry.
+  conversation with Atlanta-based photographer Chris Aluka Berry.
 thumb_image_alt: 'Episode 9: Chris Aluka Berry'
 image_alt: 'Episode 9: Chris Aluka Berry'
 image_position: right
