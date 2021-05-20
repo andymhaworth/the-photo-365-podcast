@@ -17,7 +17,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-title: '09. Raw Intimacy: Chris Aluka Berry'
+title: '09. Raw Intimacy: An interview with Chris Aluka Berry'
 ---
 ## Lorem ipsum
 
