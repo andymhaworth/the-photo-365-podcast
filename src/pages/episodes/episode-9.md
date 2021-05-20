@@ -22,6 +22,7 @@ seo:
   type: stackbit_page_meta
 template: post
 title: '09. Raw Intimacy: An interview with Chris Aluka Berry'
+thumb_image: /images/Aluka-1.JPG
 ---
 ## Lorem ipsum
 
