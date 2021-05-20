@@ -8,7 +8,7 @@ tags: []
 excerpt: >-
   Long form visual storytelling, race and class in the deep south. A
   conversation with visual storyteller Chris Aluka Berry.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: 'Episode 9: Chris Aluka Berry'
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: >-
