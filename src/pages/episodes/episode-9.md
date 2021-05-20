@@ -32,8 +32,6 @@ Photoville: [Affrilachia: The Remnant That Remains](https://fence.photoville.com
 
 Chris Aluka Berry on Instagram: [@alukastories](https://www.instagram.com/alukastories)
 
-
-
 Support the show: [Buy Me a Coffee](https://www.buymeacoffee.com/photo365)
 
 Need a portfolio site to showcase your work? We love [Format.com](https://format.grsm.io/andrewhaworth8239)! (Affiliate)
@@ -41,3 +39,33 @@ Need a portfolio site to showcase your work? We love [Format.com](https://format
 ### Transcript
 
 xxxx xxxx xxxx
+
+![](/\_static/app-assets/Aluka-4.jpg)
+
+*Photo Caption: xxxxx xxxxx xxxxx*
+
+xxxxx xxxxx xxxxx
+
+![](/\_static/app-assets/Aluka-6.jpg)
+
+*Photo Caption: xxxxx xxxxx xxxxx*
+
+xxxxx xxxxx xxxxx
+
+![](/\_static/app-assets/Aluka-5.jpg)
+
+*Photo Caption: xxxxx xxxxx xxxxx*
+
+xxxxx xxxxx xxxxx
+
+![](/\_static/app-assets/Aluka-2.jpg)
+
+*Photo Caption: xxxxx xxxxx xxxxx*
+
+xxxxx xxxxx xxxxx
+
+![](/\_static/app-assets/Aluka-3.jpg)
+
+*Photo Caption: xxxxx xxxxx xxxxx*
+
+xxxxx xxxxx xxxxx
