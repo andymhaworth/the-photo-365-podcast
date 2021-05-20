@@ -22,9 +22,20 @@ template: post
 title: '09. Raw Intimacy: An interview with Chris Aluka Berry'
 thumb_image: /images/Aluka-1.JPG
 ---
-## Lorem ipsum
+### Show Notes
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Chris Aluka Berry's online portfolio: [Aluka Storytelling Photography](https://www.alukastorytellingphotography.com/index)
 
-- Lorem ipsum
-- dolor sit amet
+Photoville: [Affrilachia: The Remnant That Remains](https://fence.photoville.com/affrilachia-remnant-that-remains/)
+
+Chris Aluka Berry on Instagram: [@alukastories](https://www.instagram.com/alukastories)
+
+
+
+Support the show: [Buy Me a Coffee](https://www.buymeacoffee.com/photo365)
+
+Need a portfolio site to showcase your work? We love [Format.com](https://format.grsm.io/andrewhaworth8239)! (Affiliate)
+
+### Transcript
+
+xxxx xxxx xxxx
