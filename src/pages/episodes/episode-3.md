@@ -12,9 +12,9 @@ image: /images/February_3-Canon_03.jpg
 image_alt: 'Episode 3 '
 image_position: left
 episode_embed_html: >-
-  <iframe
-  src="https://anchor.fm/photo365/embed/episodes/Enhance-your-photographic-Spidey-sense-eug605"
-  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://open.spotify.com/embed/episode/3gyPox2DDGvNK24QFoiKqi"
+  width="100%" height="232" frameborder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
   title: Episode 3 - Enhance your photographic Spidey-sense
