@@ -28,6 +28,8 @@ image: /images/Aluka-1-Main.jpg
 ---
 ### Show Notes
 
+Long form visual storytelling, race and class in the deep self and raw intimacy. Today I'm having a conversation with Atlanta-based photographer Chris Aluka Berry, 
+
 Chris Aluka Berry's online portfolio: [Aluka Storytelling Photography](https://www.alukastorytellingphotography.com/index)
 
 Photoville: [Affrilachia: The Remnant That Remains](https://fence.photoville.com/affrilachia-remnant-that-remains/)
@@ -40,7 +42,7 @@ Need a portfolio site to showcase your work? We love [Format.com](https://format
 
 ### Transcript
 
-Andy: Long form visual storytelling, race and class in the deep self and raw intimacy today. I'm having a conversation with photographer Chris, Aluka Berry, and you'll want to stick around for all of it, because he's about to give us a master class and documentary photography.
+Andy: Long form visual storytelling, race and class in the deep self and raw intimacy today. I'm having a conversation with photographer Chris Aluka Berry, and you'll want to stick around for all of it, because he's about to give us a master class and documentary photography.
 
 Hello, and welcome to this episode of photo 365. My name is Andrew Haworth.
 
@@ -50,7 +52,7 @@ Chris is a regular contributor to the European press photo agency and Reuters. H
 
 When he's not busy with corporate photography, Chris is chasing his true passion: Visual storytelling. His longform essays challenge cultural norms and racial stereotypes by exploring race, faith, and class in underrepresented communities.
 
-For the past six years, he's been photographing African American culture in the Appalachian mountains for his series Affrilachia: The Remnant that Remains. A selection of images from that project are part of the Photoville FENCE initiative, and his photographs are currently on display outdoors on the Eastside Trail of the Atlanta Beltline.
+For the past six years, he's been photographing African American culture in the Appalachian mountains for his series Affrilachia: The Remnant that Remains. A selection of images from that project are part of the Photoville FENCE initiative, and his photographs are currently on display outdoors on the Westside Trail of the Atlanta Beltline.
 
 His work has been an inspiration for me for many, many years and I know he'll be an inspiration for you too. Chris, welcome to the show.
 
