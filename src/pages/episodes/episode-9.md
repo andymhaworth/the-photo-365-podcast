@@ -66,6 +66,10 @@ I did not identify with the white side of my heritage at all. I identified with 
 
 I remember kids picking on me because I didn't know how to climb a tree, you know, or stupid stuff. And then people would use the N-word all the time. And then I went to high school in St. Matthews and like, those kids could not understand where we were coming from because most of those kids had never left South Carolina.
 
+![](/\_static/app-assets/Aluka-4.jpg)
+
+###### *From "Affrilachia: The Remnant That Remains"*
+
 Andy: And just for our listeners, St. Matthews is a very small little town in Calhoun County, which, not that long ago, Calhoun County was one of the most rural and one of the poorest counties in South Carolina. What, what was life like there?
 
 Chris: It was rough man, me and my brother, we were bad little kids, man. We got into a lot of fights. I had a lot of anger inside of me back then because of my dad leaving. And my dad used to beat the shit out of my mom, like terrible, like breaking bones and stuff. Anyhow, I had a lot of anger and stuff back in the day. Even though my skin looks like a white dude, because I've got dark hair, dark eyes, my eyebrows used to be really, really thick, I did not look like the average white boy in St. Matthews. So although my skin was white, I still faced a lot of persecution within the white community.
@@ -106,6 +110,10 @@ Andy: Well, when I look at your work, that's the first word that comes to mind, 
 
 Chris: a hundred percent and like Tim Dominick -- I mean, like literally I learned something from everybody there. Rich Glickstein, Tracy Glantz, Kim Kim Foster. I mean, you know, everybody. I learned a little bit from everybody and I would say, ‘Ooh, I like that.’ Even if, even if I learned what not to do from somebody, you know what I'm saying? So, yeah. I'd have all these voices in my head when I'd be shooting back in the day. Now those voices have become like my voice. I feel like.
 
+![](/\_static/app-assets/Aluka-5.jpg)
+
+###### From "Affrilachia: The Remnant That Remains"
+
 Andy: and not long after you arrived there, you started racking up journalism awards. And yet this still wasn't your full time job.
 
 Chris: They wouldn't hire me at the newspaper because I didn't have a college degree. And then in ‘07 or ‘08, I won more awards, like more single category awards, than any of the staffers did.
@@ -145,6 +153,10 @@ Chris: The newspaper never ran that. Those photos have only been in photo contes
 Andy: It definitely has to be frustrating when you put the work in and you, and you can't get the work out.
 
 Chris: That's like right now I'm sitting on multiple projects that I can't find anybody to run. Like even Affrilachia, I pitched it to several news agencies. They don't care because it's not about hate. It's not about sensationalism. It's not about COVID, you know, it doesn't have a news hook. It's about people, you know, it's about life.
+
+![](/\_static/app-assets/Aluka-6.jpg)
+
+###### From "Affrilachia: The Remnant That Remains"
 
 Andy: That’s a good segue actually. Let's talk about Affrilachia, because this set of images got me really excited when I saw you post them. I guess it was on social media sometime last year. You're documenting black life in the Appalachian mountains. Now, I apologize in advance if I come off sounding really ignorant here, but I had no idea there were African-American folks in Appalachia. I mean, is that the general perception?
 
@@ -199,6 +211,10 @@ My wife wouldn't be cool with it.’ Then you always agree with them. I'd say, �
 And then a little bit later, I'll say, ‘But, you know, man, if I come in. If there's something that you don't’  -- a lot of times, it's fear a lot of times it's fear why people won't let you do anything in this life --  And then at some point later I'll just act like, ‘Hey, that's cool. No problem.’ Right? And then a little bit later, I'll ask them again. Or maybe I come back a week later, ‘Hey, can I come back next week, ask your wife and see if she thinks it's cool or not.’ And then sometimes it's still no, but then a lot of times, once you agree with the person and they feel like you understand where they're coming from, then they'll be like, ‘You know what, man, come on in. You know, come on in, are you hungry? You want something to eat?’ And then, and then sometimes I won't even make any photos.
 
 Andy: The persistence is paying off for you because you've uncovered something really unique here. And I know it's an ongoing project for you and a very small portion of the work is being exhibited right now. So where do you ultimately want to take this project?
+
+![](/\_static/app-assets/Aluka-2.jpg)
+
+###### From "Fear, Death, and the Other Side"
 
 Chris: Well, thanks man. I'm just thankful to have been doing it and to keep doing it and yeah, I might be printing a book, hopefully, with the University of Kentucky. They're doing a whole series on diversity in the mountains. And then, the work is slowly getting out there, but I tell you it's so disappointing when I've pitched it to like news organizations and they're just not interested. And it's like, don't y'all get it. Like, this is important, you know? I know we’ve got to do stories on COVID and I know we've got to do stories on all these terrible racial things and all of that, but don't you know, that people also want to have stories that educate them and enlighten them and let them experience something that they wouldn't experience?
 
@@ -308,6 +324,10 @@ Chris: But like, just go, just pick up your camera and go. And it doesn't have t
 
 Andy: That's beautiful philosophy.
 
+![](/\_static/app-assets/Aluka-3.jpg)
+
+###### From "Fear, Death, and the Other Side"
+
 Chris: There's this great author named Melissa Robbins. And it's the five second rule. If you want to do something, this is especially relevant with photography, especially if you're trying to approach someone or go take a photo, count backwards from five and do it.
 
 You see a photo, don't sit there and try and logic out this five, four, three, two, one, bam! Go do it. Go do it. What's the worst that could happen? You know, I've never had anybody punch me in the face for making their photo. I've had people threaten to do that, but I would say that first of all, you have to love yourself and recognize that brother, you can't be out all day everyday making great work.
@@ -331,4 +351,3 @@ That's going to do it for this episode of the Photo 365 podcast. If you enjoyed 
 Also, I'd love to hear from you and see what you're working on. If you enjoy the show, please consider sliding some caffeine my way at buymeacoffee.com/photo365.
 
 Keep looking out for great images, keep shooting. We'll see you next time.
-
