@@ -68,7 +68,7 @@ I remember kids picking on me because I didn't know how to climb a tree, you kno
 
 ![](/\_static/app-assets/Aluka-4.jpg)
 
-###### *From "Affrilachia: The Remnant That Remains"*
+*From "Affrilachia: The Remnant That Remains"*
 
 Andy: And just for our listeners, St. Matthews is a very small little town in Calhoun County, which, not that long ago, Calhoun County was one of the most rural and one of the poorest counties in South Carolina. What, what was life like there?
 
@@ -112,7 +112,7 @@ Chris: a hundred percent and like Tim Dominick -- I mean, like literally I learn
 
 ![](/\_static/app-assets/Aluka-5.jpg)
 
-###### From "Affrilachia: The Remnant That Remains"
+*From "Affrilachia: The Remnant That Remains"*
 
 Andy: and not long after you arrived there, you started racking up journalism awards. And yet this still wasn't your full time job.
 
@@ -156,7 +156,7 @@ Chris: That's like right now I'm sitting on multiple projects that I can't find 
 
 ![](/\_static/app-assets/Aluka-6.jpg)
 
-###### From "Affrilachia: The Remnant That Remains"
+*From "Affrilachia: The Remnant That Remains"*
 
 Andy: That’s a good segue actually. Let's talk about Affrilachia, because this set of images got me really excited when I saw you post them. I guess it was on social media sometime last year. You're documenting black life in the Appalachian mountains. Now, I apologize in advance if I come off sounding really ignorant here, but I had no idea there were African-American folks in Appalachia. I mean, is that the general perception?
 
@@ -214,7 +214,7 @@ Andy: The persistence is paying off for you because you've uncovered something r
 
 ![](/\_static/app-assets/Aluka-2.jpg)
 
-###### From "Fear, Death, and the Other Side"
+*From "Fear, Death, and the Other Side"*
 
 Chris: Well, thanks man. I'm just thankful to have been doing it and to keep doing it and yeah, I might be printing a book, hopefully, with the University of Kentucky. They're doing a whole series on diversity in the mountains. And then, the work is slowly getting out there, but I tell you it's so disappointing when I've pitched it to like news organizations and they're just not interested. And it's like, don't y'all get it. Like, this is important, you know? I know we’ve got to do stories on COVID and I know we've got to do stories on all these terrible racial things and all of that, but don't you know, that people also want to have stories that educate them and enlighten them and let them experience something that they wouldn't experience?
 
@@ -326,7 +326,7 @@ Andy: That's beautiful philosophy.
 
 ![](/\_static/app-assets/Aluka-3.jpg)
 
-###### From "Fear, Death, and the Other Side"
+*From "Fear, Death, and the Other Side"*
 
 Chris: There's this great author named Melissa Robbins. And it's the five second rule. If you want to do something, this is especially relevant with photography, especially if you're trying to approach someone or go take a photo, count backwards from five and do it.
 
