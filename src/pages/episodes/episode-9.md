@@ -28,7 +28,7 @@ image: /images/Aluka-1-Main.jpg
 ---
 ### Show Notes
 
-Long form visual storytelling, race and class in the deep self and raw intimacy. Today I'm having a conversation with Atlanta-based photographer Chris Aluka Berry, 
+Long form visual storytelling, race and class in the deep self and raw intimacy. Today I'm having a conversation with Atlanta-based photographer Chris Aluka Berry.
 
 Chris Aluka Berry's online portfolio: [Aluka Storytelling Photography](https://www.alukastorytellingphotography.com/index)
 
