@@ -14,7 +14,7 @@ image_alt: 'Episode 9: Chris Aluka Berry'
 image_position: right
 episode_embed_html: '[EMBED CODE]'
 seo:
-  title: ''
+  title: 'Raw Intimacy: An interview with Chris Aluka Berry'
   description: ''
   robots: []
   extra: []
