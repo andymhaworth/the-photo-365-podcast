@@ -286,6 +286,10 @@ Chris: -- But like that back room kind of stuff. It's stuff that they don't want
 
 But I was always thinking that this man is only going to be around for so long and I need to make photos that'll carry on. And then when I got the assignment to photograph his funeral services and everything, that was really epic.
 
+![](/\_static/app-assets/Aluka-7.jpg)
+
+*The Funeral for Congressman John Lewis, Crossing the Edmund Pettus Bridge, 2020*
+
 Andy: Yeah. I can imagine that. Must've been a little strange at the same time. Looking through your gallery from that day. I paused at the image of the funeral procession going over the Pettus Bridge. Now, knowing his history with that bridge in 1965, a day that would later become known as ‘Bloody Sunday’ -- he was nearly beaten to death on that bridge. And here you've captured this moment where he's literally being ferried back across the bridge in the afterlife. It's haunting.
 
 Chris: You know how it is. You're always trying to find an angle where the other photographers aren't and sometimes you hit a home run. Sometimes you get the base hit. Sometimes you strike out. You know, I knew I was taking a chance because all the other photographers were on the other side of the bridge or most of the photographers were right there at the bridge to get it coming over. But I knew that if I was in front of him, I would just be getting the front of the horse drawn carriage. So yeah, I shot it from behind and took a chance and yeah, I'm thankful that I did.
