@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Episode 2 - Themes, shot lists, luck and lifelines'
+      value: 'Raw Intimacy: An interview with Chris Aluka Berry'
     - name: 'twitter:description'
       value: >-
         Has your creative well has suddenly run dry? Hopefully, you have a
