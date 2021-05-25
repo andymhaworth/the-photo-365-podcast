@@ -45,7 +45,7 @@ Chris Aluka Berry on Instagram: [@alukastories](https://www.instagram.com/alukas
 
 Support the show: [Buy Me a Coffee](https://www.buymeacoffee.com/photo365)
 
-Need a portfolio site to showcase your work? We love [Format.com](https://format.grsm.io/andrewhaworth8239)! (Affiliate)
+Need a portfolio site to showcase your work? We love [Format.com](https://format.grsm.io/andrewhaworth8239)! (affiliate link)
 
 ### Transcript
 
