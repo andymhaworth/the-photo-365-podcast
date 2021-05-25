@@ -77,7 +77,7 @@ I did not identify with the white side of my heritage at all. I identified with 
 
 I remember kids picking on me because I didn't know how to climb a tree, you know, or stupid stuff. And then people would use the N-word all the time. And then I went to high school in St. Matthews and like, those kids could not understand where we were coming from because most of those kids had never left South Carolina.
 
-![](/\_static/app-assets/Aluka-4.jpg)
+![](/images/Aluka-4.jpg)
 
 *From "Affrilachia: The Remnant That Remains"*
 
@@ -121,7 +121,7 @@ Andy: Well, when I look at your work, that's the first word that comes to mind, 
 
 Chris: a hundred percent and like Tim Dominick -- I mean, like literally I learned something from everybody there. Rich Glickstein, Tracy Glantz, Kim Kim Foster. I mean, you know, everybody. I learned a little bit from everybody and I would say, ‘Ooh, I like that.’ Even if, even if I learned what not to do from somebody, you know what I'm saying? So, yeah. I'd have all these voices in my head when I'd be shooting back in the day. Now those voices have become like my voice. I feel like.
 
-![](/\_static/app-assets/Aluka-5.jpg)
+![](/images/Aluka-5.jpg)
 
 *From "Affrilachia: The Remnant That Remains"*
 
@@ -165,7 +165,7 @@ Andy: It definitely has to be frustrating when you put the work in and you, and 
 
 Chris: That's like right now I'm sitting on multiple projects that I can't find anybody to run. Like even Affrilachia, I pitched it to several news agencies. They don't care because it's not about hate. It's not about sensationalism. It's not about COVID, you know, it doesn't have a news hook. It's about people, you know, it's about life.
 
-![](/\_static/app-assets/Aluka-6.jpg)
+![](/images/Aluka-6.jpg)
 
 *From "Affrilachia: The Remnant That Remains"*
 
@@ -223,7 +223,7 @@ And then a little bit later, I'll say, ‘But, you know, man, if I come in. If t
 
 Andy: The persistence is paying off for you because you've uncovered something really unique here. And I know it's an ongoing project for you and a very small portion of the work is being exhibited right now. So where do you ultimately want to take this project?
 
-![](/\_static/app-assets/Aluka-2.jpg)
+![](/images/app-assets/Aluka-2.jpg)
 
 *From "Fear, Death, and the Other Side"*
 
@@ -297,7 +297,7 @@ Chris: -- But like that back room kind of stuff. It's stuff that they don't want
 
 But I was always thinking that this man is only going to be around for so long and I need to make photos that'll carry on. And then when I got the assignment to photograph his funeral services and everything, that was really epic.
 
-![](/\_static/app-assets/Aluka-7.jpg)
+![](/images/app-assets/Aluka-7.jpg)
 
 *The Funeral for Congressman John Lewis, Crossing the Edmund Pettus Bridge, 2020*
 
@@ -339,7 +339,7 @@ Chris: But like, just go, just pick up your camera and go. And it doesn't have t
 
 Andy: That's a beautiful philosophy.
 
-![](/\_static/app-assets/Aluka-3.jpg)
+![](/images/app-assets/Aluka-3.jpg)
 
 *From "Fear, Death, and the Other Side"*
 
