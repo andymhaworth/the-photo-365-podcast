@@ -12,7 +12,10 @@ excerpt: >-
 thumb_image_alt: 'Episode 9: Chris Aluka Berry'
 image_alt: 'Episode 9: Chris Aluka Berry'
 image_position: right
-episode_embed_html: '[EMBED CODE]'
+episode_embed_html: >-
+  <iframe src="https://open.spotify.com/embed/episode/1hVWjAXwqJlfZuEzjnMgL2"
+  width="100%" height="232" frameborder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   title: 'Raw Intimacy: An interview with Chris Aluka Berry'
   description: >-
