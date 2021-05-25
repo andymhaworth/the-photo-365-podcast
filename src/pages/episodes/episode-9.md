@@ -165,7 +165,7 @@ Andy: It definitely has to be frustrating when you put the work in and you, and 
 
 Chris: That's like right now I'm sitting on multiple projects that I can't find anybody to run. Like even Affrilachia, I pitched it to several news agencies. They don't care because it's not about hate. It's not about sensationalism. It's not about COVID, you know, it doesn't have a news hook. It's about people, you know, it's about life.
 
-![](/\_static/app-assets/Aluka-6.jpg)
+![](/images/Aluka-6.jpg)
 
 *From "Affrilachia: The Remnant That Remains"*
 
