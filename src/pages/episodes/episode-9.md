@@ -77,7 +77,7 @@ I did not identify with the white side of my heritage at all. I identified with 
 
 I remember kids picking on me because I didn't know how to climb a tree, you know, or stupid stuff. And then people would use the N-word all the time. And then I went to high school in St. Matthews and like, those kids could not understand where we were coming from because most of those kids had never left South Carolina.
 
-![](/\_static/app-assets/Aluka-4.jpg)
+![](/images/Aluka-4.jpg)
 
 *From "Affrilachia: The Remnant That Remains"*
 
