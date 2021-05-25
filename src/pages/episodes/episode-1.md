@@ -13,9 +13,9 @@ image: /images/riverwalk-dusk-2.jpg
 image_alt: Podcast 1 placeholder image
 image_position: right
 episode_embed_html: >-
-  <iframe
-  src="https://anchor.fm/photo365/embed/episodes/Before-you-begin--visualize-the-ending-eufqno"
-  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://open.spotify.com/embed/episode/6eb37IL8wsnfQYhLECjzEM"
+  width="100%" height="232" frameborder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
   title: 'Episode 1 - Before you begin, visualize the ending'

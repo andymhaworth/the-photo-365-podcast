@@ -16,9 +16,9 @@ thumb_image_alt: Episode 5 Image
 image_alt: lorem-ipsum
 image_position: right
 episode_embed_html: >-
-  <iframe
-  src="https://anchor.fm/photo365/embed/episodes/Are-you-seizing-every-opportunity-ev1sm4"
-  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://open.spotify.com/embed/episode/6korlnkbZ6Uy5TeN1JJRn6"
+  width="100%" height="232" frameborder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   title: ''
   description: ''

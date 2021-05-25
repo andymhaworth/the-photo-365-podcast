@@ -10,9 +10,9 @@ image: /images/house-july-5-2.jpg
 image_alt: Podcast 2 placeholder image
 image_position: right
 episode_embed_html: >-
-  <iframe
-  src="https://anchor.fm/photo365/embed/episodes/Themes--shot-lists--luck-and-lifelines-eug2b1"
-  height="180px" width="100%" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://open.spotify.com/embed/episode/56Jfnh0GEP3jO45PAMjDUM"
+  width="100%" height="232" frameborder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
   title: 'Episode 2 - Themes, shot lists, luck and lifelines'
