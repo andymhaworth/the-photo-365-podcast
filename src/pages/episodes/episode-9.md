@@ -18,7 +18,7 @@ episode_embed_html: >-
   allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
-  title: 'Episode 2 - Themes, shot lists, luck and lifelines'
+  title: 'Raw Intimacy: An interview with Chris Aluka Berry'
   description: 'Has your creative well has suddenly run dry? Hopefully, you have a lifeline!'
   extra:
     - name: 'og:type'
