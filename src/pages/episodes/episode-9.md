@@ -28,7 +28,11 @@ image: /images/Aluka-1-Main.jpg
 ---
 ### Show Notes
 
-Long form visual storytelling, race and class in the deep self and raw intimacy. Today I'm having a conversation with Atlanta-based photographer Chris Aluka Berry.
+Today we talk with Atlanta documentary photographer Chris Aluka Berry about long-form visual storytelling, race and class in the deep south, and raw intimacy. 
+
+Chris is a regular contributor to the European PressPhoto Agency and Reuters. His work has been published in Time Magazine, the New York Times, the Wall Street Journal, Washington Post and many others.
+
+For the past six years, he’s been photographing African American culture in the Appalachian Mountains for his series, Affrilachia: The Remnant that Remains.
 
 Chris Aluka Berry's online portfolio: [Aluka Storytelling Photography](https://www.alukastorytellingphotography.com/index)
 
