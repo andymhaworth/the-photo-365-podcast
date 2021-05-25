@@ -29,8 +29,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Has your creative well has suddenly run dry? Hopefully, you have a
-        lifeline!
+        Long form visual storytelling examining race and class in the deep south: A conversation with Atlanta-based photographer Chris Aluka Berry.
       keyName: property
     - name: 'og:image'
       value: /images/house-july-5-2.jpg
