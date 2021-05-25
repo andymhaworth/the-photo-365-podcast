@@ -16,42 +16,7 @@ episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/6eb37IL8wsnfQYhLECjzEM"
   width="100%" height="232" frameborder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
-seo:
-  type: stackbit_page_meta
-  title: 'Episode 1 - Before you begin, visualize the ending'
-  description: >-
-    Starting a photo-a-day project is daunting, and maybe it even sounds
-    impossible. But before you begin a long-term project, you first need to know
-    how it might end.
-  extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: 'Episode 1 - Before you begin, visualize the ending'
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        Starting a photo-a-day project is daunting, and maybe it even sounds
-        impossible. But before you begin a long-term project, you first need to
-        know how it might end.
-      keyName: property
-    - name: 'og:image'
-      value: /images/riverwalk-dusk-2.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: 'Episode 1 - Before you begin, visualize the ending'
-    - name: 'twitter:description'
-      value: >-
-        Starting a photo-a-day project is daunting, and maybe it even sounds
-        impossible. But before you begin a long-term project, you first need to
-        know how it might end.
-    - name: 'twitter:image'
-      value: /images/riverwalk-dusk-2.jpg
-      relativeUrl: true
+
 template: post
 excerpt: 'Before you begin a long-term project, you first need to know how it might end.'
 ---
