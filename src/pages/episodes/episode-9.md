@@ -15,8 +15,12 @@ image_position: right
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/1hVWjAXwqJlfZuEzjnMgL2"
   width="100%" height="232" frameborder="0" allowtransparency="true"
-  allow="encrypted-media"></iframe> seo: type: stackbit_page_meta title: 'Raw
-  Intimacy: An interview with Chris Aluka Berry' description: >-
+  allow="encrypted-media"></iframe> 
+seo:
+  type: stackbit_page_meta
+  title: 'Raw
+  Intimacy: An interview with Chris Aluka Berry'
+  description: >-
     Long form visual storytelling examining race and class in the deep south: A
     conversation with Atlanta-based photographer Chris Aluka Berry.
   extra:
@@ -24,7 +28,8 @@ episode_embed_html: >-
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Raw Intimacy: An interview with Chris Aluka Berry'
+      value: 'Raw
+  Intimacy: An interview with Chris Aluka Berry'
       keyName: property
     - name: 'og:description'
       value: >-
@@ -38,23 +43,16 @@ episode_embed_html: >-
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Raw Intimacy: An interview with Chris Aluka Berry'
+      value: 'Raw
+  Intimacy: An interview with Chris Aluka Berry'
     - name: 'twitter:description'
       value: >-
-        Long form visual storytelling examining race and class in the deep south: A
-    conversation with Atlanta-based photographer Chris Aluka Berry.
+        Starting a photo-a-day project is daunting, and maybe it even sounds
+        impossible. But before you begin a long-term project, you first need to
+        know how it might end.
     - name: 'twitter:image'
       value: /images/Aluka-1-Main.jpg
       relativeUrl: true
-template: post
-title: '09. Raw Intimacy: An interview with Chris Aluka Berry'
-thumb_image: /images/Aluka-1.JPG
-image: /images/Aluka-1-Main.jpg
-seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
   type: stackbit_page_meta
 ---
 ### Show Notes
