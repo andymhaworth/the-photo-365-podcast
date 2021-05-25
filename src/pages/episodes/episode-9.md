@@ -19,7 +19,9 @@ episode_embed_html: >-
 seo:
   type: stackbit_page_meta
   title: 'Raw Intimacy: An interview with Chris Aluka Berry'
-  description: 'Long form visual storytelling examining race and class in the deep south: A conversation with Atlanta-based photographer Chris Aluka Berry.'
+  description: >-
+    Long form visual storytelling examining race and class in the deep south: A
+    conversation with Atlanta-based photographer Chris Aluka Berry.
   extra:
     - name: 'og:type'
       value: article
@@ -29,7 +31,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Long form visual storytelling examining race and class in the deep south: A conversation with Atlanta-based photographer Chris Aluka Berry.
+        Long form visual storytelling examining race and class in the deep
+        south: A conversation with Atlanta-based photographer Chris Aluka Berry.
       keyName: property
     - name: 'og:image'
       value: /images/Aluka-1-Main.jpg
@@ -41,7 +44,8 @@ seo:
       value: 'Raw Intimacy: An interview with Chris Aluka Berry'
     - name: 'twitter:description'
       value: >-
-        Long form visual storytelling examining race and class in the deep south: A conversation with Atlanta-based photographer Chris Aluka Berry.
+        Long form visual storytelling examining race and class in the deep
+        south: A conversation with Atlanta-based photographer Chris Aluka Berry.
     - name: 'twitter:image'
       value: /images/Aluka-1-Main.jpg
       relativeUrl: true
@@ -70,9 +74,9 @@ Need a portfolio site to showcase your work? We love [Format.com](https://format
 
 ### Transcript
 
-Andy: Long form visual storytelling, race and class in the deep self and raw intimacy today. I'm having a conversation with photographer Chris Aluka Berry, and you'll want to stick around for all of it, because he's about to give us a master class and documentary photography.
+Andy: Long form visual storytelling, race and class in the deep south and raw intimacy. Today, I'm having a conversation with photographer Chris Aluka Berry, and you'll want to stick around for all of it, because he's about to give us a master class on documentary photography.
 
-Hello, and welcome to this episode of photo 365. My name is Andrew Haworth.
+Hello, and welcome to this episode of Photo 365. My name is Andrew Haworth.
 
 Today's guest is Atlanta-based documentary photographer, Chris Aluka Berry. Now in full disclosure. I got to know Chris over a seven-year period while we were both working at The State newspaper in Columbia, South Carolina. During his time there, he was named South Carolina's Photographer of the Year, four times, along with earning countless awards from the state press association year-after-year.
 
