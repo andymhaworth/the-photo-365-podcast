@@ -19,7 +19,7 @@ episode_embed_html: >-
 seo:
   type: stackbit_page_meta
   title: 'Raw Intimacy: An interview with Chris Aluka Berry'
-  description: 'Has your creative well has suddenly run dry? Hopefully, you have a lifeline!'
+  description: 'Long form visual storytelling examining race and class in the deep south: A conversation with Atlanta-based photographer Chris Aluka Berry.'
   extra:
     - name: 'og:type'
       value: article
