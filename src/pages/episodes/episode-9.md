@@ -28,7 +28,7 @@ image: /images/Aluka-1-Main.jpg
 ---
 ### Show Notes
 
-Today we talk with Atlanta documentary photographer Chris Aluka Berry about long-form visual storytelling, race and class in the deep south, and raw intimacy. 
+Today we talk with Atlanta documentary photographer Chris Aluka Berry about long-form visual storytelling, race and class in the deep south, and raw intimacy.
 
 Chris is a regular contributor to the European PressPhoto Agency and Reuters. His work has been published in Time Magazine, the New York Times, the Wall Street Journal, Washington Post and many others.
 
@@ -334,7 +334,7 @@ Andy: Right.
 
 Chris: But like, just go, just pick up your camera and go. And it doesn't have to be that you have to come back with a great photo for it to be a success. It is a success just because you went.
 
-Andy: That's beautiful philosophy.
+Andy: That's a beautiful philosophy.
 
 ![](/\_static/app-assets/Aluka-3.jpg)
 
