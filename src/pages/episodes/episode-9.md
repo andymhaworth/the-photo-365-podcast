@@ -32,7 +32,7 @@ seo:
         Long form visual storytelling examining race and class in the deep south: A conversation with Atlanta-based photographer Chris Aluka Berry.
       keyName: property
     - name: 'og:image'
-      value: /images/house-july-5-2.jpg
+      value: https://photo365podcast.com/images/Aluka-1-Main.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
