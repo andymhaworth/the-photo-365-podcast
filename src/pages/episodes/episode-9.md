@@ -297,7 +297,7 @@ Chris: -- But like that back room kind of stuff. It's stuff that they don't want
 
 But I was always thinking that this man is only going to be around for so long and I need to make photos that'll carry on. And then when I got the assignment to photograph his funeral services and everything, that was really epic.
 
-![](/\_static/app-assets/Aluka-7.jpg)
+![](/images/app-assets/Aluka-7.jpg)
 
 *The Funeral for Congressman John Lewis, Crossing the Edmund Pettus Bridge, 2020*
 
