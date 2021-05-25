@@ -17,13 +17,36 @@ episode_embed_html: >-
   width="100%" height="232" frameborder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  title: 'Raw Intimacy: An interview with Chris Aluka Berry'
-  description: >-
-    Long form visual storytelling examining race and class in the deep south: A
-    conversation with Atlanta-based photographer Chris Aluka Berry.
-  robots: []
-  extra: []
   type: stackbit_page_meta
+  title: 'Episode 2 - Themes, shot lists, luck and lifelines'
+  description: 'Has your creative well has suddenly run dry? Hopefully, you have a lifeline!'
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: 'Episode 2 - Themes, shot lists, luck and lifelines'
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        Has your creative well has suddenly run dry? Hopefully, you have a
+        lifeline!
+      keyName: property
+    - name: 'og:image'
+      value: /images/house-july-5-2.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: 'Episode 2 - Themes, shot lists, luck and lifelines'
+    - name: 'twitter:description'
+      value: >-
+        Has your creative well has suddenly run dry? Hopefully, you have a
+        lifeline!
+    - name: 'twitter:image'
+      value: /images/house-july-5-2.jpg
+      relativeUrl: true
 template: post
 title: '09. Raw Intimacy: An interview with Chris Aluka Berry'
 thumb_image: /images/Aluka-1.JPG
