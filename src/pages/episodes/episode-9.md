@@ -223,7 +223,7 @@ And then a little bit later, I'll say, ‘But, you know, man, if I come in. If t
 
 Andy: The persistence is paying off for you because you've uncovered something really unique here. And I know it's an ongoing project for you and a very small portion of the work is being exhibited right now. So where do you ultimately want to take this project?
 
-![](/images/app-assets/Aluka-2.jpg)
+![](/images/Aluka-2.jpg)
 
 *From "Fear, Death, and the Other Side"*
 
@@ -297,7 +297,7 @@ Chris: -- But like that back room kind of stuff. It's stuff that they don't want
 
 But I was always thinking that this man is only going to be around for so long and I need to make photos that'll carry on. And then when I got the assignment to photograph his funeral services and everything, that was really epic.
 
-![](/images/app-assets/Aluka-7.jpg)
+![](/images/Aluka-7.jpg)
 
 *The Funeral for Congressman John Lewis, Crossing the Edmund Pettus Bridge, 2020*
 
@@ -339,7 +339,7 @@ Chris: But like, just go, just pick up your camera and go. And it doesn't have t
 
 Andy: That's a beautiful philosophy.
 
-![](/images/app-assets/Aluka-3.jpg)
+![](/images/Aluka-3.jpg)
 
 *From "Fear, Death, and the Other Side"*
 
