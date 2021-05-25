@@ -121,7 +121,7 @@ Andy: Well, when I look at your work, that's the first word that comes to mind, 
 
 Chris: a hundred percent and like Tim Dominick -- I mean, like literally I learned something from everybody there. Rich Glickstein, Tracy Glantz, Kim Kim Foster. I mean, you know, everybody. I learned a little bit from everybody and I would say, ‘Ooh, I like that.’ Even if, even if I learned what not to do from somebody, you know what I'm saying? So, yeah. I'd have all these voices in my head when I'd be shooting back in the day. Now those voices have become like my voice. I feel like.
 
-![](/\_static/app-assets/Aluka-5.jpg)
+![](/images/Aluka-5.jpg)
 
 *From "Affrilachia: The Remnant That Remains"*
 
