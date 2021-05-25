@@ -339,7 +339,7 @@ Chris: But like, just go, just pick up your camera and go. And it doesn't have t
 
 Andy: That's a beautiful philosophy.
 
-![](/\_static/app-assets/Aluka-3.jpg)
+![](/images/app-assets/Aluka-3.jpg)
 
 *From "Fear, Death, and the Other Side"*
 
