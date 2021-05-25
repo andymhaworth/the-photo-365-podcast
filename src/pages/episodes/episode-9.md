@@ -15,45 +15,19 @@ image_position: right
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/1hVWjAXwqJlfZuEzjnMgL2"
   width="100%" height="232" frameborder="0" allowtransparency="true"
-  allow="encrypted-media"></iframe> 
+  allow="encrypted-media"></iframe>
 seo:
-  type: stackbit_page_meta
-  title: 'Raw
-  Intimacy: An interview with Chris Aluka Berry'
+  title: 'Raw Intimacy: An interview with Chris Aluka Berry'
   description: >-
     Long form visual storytelling examining race and class in the deep south: A
     conversation with Atlanta-based photographer Chris Aluka Berry.
-  extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: 'Raw
-  Intimacy: An interview with Chris Aluka Berry'
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        Long form visual storytelling examining race and class in the deep south: A
-    conversation with Atlanta-based photographer Chris Aluka Berry.
-      keyName: property
-    - name: 'og:image'
-      value: /images/Aluka-1-Main.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: 'Raw
-  Intimacy: An interview with Chris Aluka Berry'
-    - name: 'twitter:description'
-      value: >-
-        Starting a photo-a-day project is daunting, and maybe it even sounds
-        impossible. But before you begin a long-term project, you first need to
-        know how it might end.
-    - name: 'twitter:image'
-      value: /images/Aluka-1-Main.jpg
-      relativeUrl: true
+  robots: []
+  extra: []
   type: stackbit_page_meta
+template: post
+title: '09. Raw Intimacy: An interview with Chris Aluka Berry'
+thumb_image: /images/Aluka-1.JPG
+image: /images/Aluka-1-Main.jpg
 ---
 ### Show Notes
 
@@ -71,7 +45,7 @@ Chris Aluka Berry on Instagram: [@alukastories](https://www.instagram.com/alukas
 
 Support the show: [Buy Me a Coffee](https://www.buymeacoffee.com/photo365)
 
-Need a portfolio site to showcase your work? We love [Format.com](https://format.grsm.io/andrewhaworth8239)! (affiliate link)
+Need a portfolio site to showcase your work? We love [Format.com](https://format.grsm.io/andrewhaworth8239)! (Affiliate)
 
 ### Transcript
 
