@@ -223,7 +223,7 @@ And then a little bit later, I'll say, ‘But, you know, man, if I come in. If t
 
 Andy: The persistence is paying off for you because you've uncovered something really unique here. And I know it's an ongoing project for you and a very small portion of the work is being exhibited right now. So where do you ultimately want to take this project?
 
-![](/images/app-assets/Aluka-2.jpg)
+![](/images/Aluka-2.jpg)
 
 *From "Fear, Death, and the Other Side"*
 
