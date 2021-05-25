@@ -15,11 +15,8 @@ image_position: right
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/1hVWjAXwqJlfZuEzjnMgL2"
   width="100%" height="232" frameborder="0" allowtransparency="true"
-  allow="encrypted-media"></iframe>
-  seo:
-  type: stackbit_page_meta
-  title: 'Raw Intimacy: An interview with Chris Aluka Berry'
-  description: >-
+  allow="encrypted-media"></iframe> seo: type: stackbit_page_meta title: 'Raw
+  Intimacy: An interview with Chris Aluka Berry' description: >-
     Long form visual storytelling examining race and class in the deep south: A
     conversation with Atlanta-based photographer Chris Aluka Berry.
   extra:
@@ -53,6 +50,12 @@ template: post
 title: '09. Raw Intimacy: An interview with Chris Aluka Berry'
 thumb_image: /images/Aluka-1.JPG
 image: /images/Aluka-1-Main.jpg
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+  type: stackbit_page_meta
 ---
 ### Show Notes
 
