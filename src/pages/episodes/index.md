@@ -12,7 +12,7 @@ sections:
     background_image_opacity: 20
   - type: blog_feed_section
     blog_feed_cols: three
-    enable_cards: true
+    enable_cards: false
     show_recent: false
     show_date: true
     show_categories: false
