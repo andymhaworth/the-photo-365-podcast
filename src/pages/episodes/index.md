@@ -18,7 +18,7 @@ sections:
     show_categories: false
     show_author: false
     show_excerpt: true
-    show_image: false
+    show_image: true
     padding_top: small
     padding_bottom: large
     has_border: true
