@@ -25,7 +25,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/ep10-narrative.jpg
+thumb_image: /images/EP10-Alt.jpg
 image: /images/ep10-narrative.jpg
 ---
 ### Show Notes
