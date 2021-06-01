@@ -14,7 +14,10 @@ episode_embed_html: >-
   incididunt ut labore et dolore magna aliqua.
 seo:
   title: Crafting a Photographic Narrative
-  description: ''
+  description: >-
+    Humans have been sharing stories since time immemorial, by word of mouth,
+    paintings, books, and eventually the camera. Every image tells a story, but
+    are you telling stories with your images?
   robots: []
   extra: []
   type: stackbit_page_meta
