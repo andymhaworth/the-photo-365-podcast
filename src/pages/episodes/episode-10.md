@@ -13,7 +13,7 @@ episode_embed_html: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
 seo:
-  title: Crafting a Photographic Narrative
+  title: 'Episode 10: Crafting a Photographic Narrative'
   description: >-
     Humans have been sharing stories since time immemorial, by word of mouth,
     paintings, books, and eventually the camera. Every image tells a story, but
