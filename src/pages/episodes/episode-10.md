@@ -5,7 +5,10 @@ date: '2021-06-01'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: 'Every image tells a story, but are you telling stories with your images?'
+excerpt: >-
+  Humans have been sharing stories since time immemorial, by word of mouth,
+  paintings, books, and eventually the camera. Every image tells a story, but
+  are you telling stories with your images?
 thumb_image_alt: Episode 10 Image
 image_alt: Episode 10 Image
 image_position: right
