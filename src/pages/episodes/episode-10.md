@@ -1,9 +1,6 @@
 ---
 title: 10. Crafting a Photogaphic Narrative
-subtitle: >-
-  Humans have been sharing stories since time immemorial, by word of mouth,
-  paintings, books, and eventually the camera. Every image tells a story, but
-  are you telling stories with your images?
+subtitle: 'Every image tells a story, but are you telling stories with your images?'
 date: '2021-06-01'
 categories: []
 tags: []
