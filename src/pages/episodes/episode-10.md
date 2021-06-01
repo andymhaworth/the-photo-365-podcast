@@ -13,8 +13,9 @@ thumb_image_alt: Episode 10 Image
 image_alt: Episode 10 Image
 image_position: right
 episode_embed_html: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  <iframe src="https://open.spotify.com/embed/episode/364MYVB1KCwuIje9ps8QGn"
+  width="100%" height="232" frameborder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   title: 'Episode 10: Crafting a Photographic Narrative'
   description: >-
