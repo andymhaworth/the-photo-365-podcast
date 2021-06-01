@@ -2,7 +2,8 @@
 title: 10. Crafting a Photogaphic Narrative
 subtitle: 'Every image tells a story, but are you telling stories with your images?'
 date: '2021-06-01'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
