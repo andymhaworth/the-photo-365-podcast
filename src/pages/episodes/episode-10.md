@@ -22,6 +22,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/ep10-narrative.jpg
+image: /images/ep10-narrative.jpg
 ---
 ## Lorem ipsum
 
