@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 10. Crafting a Photogaphic Narrative
 subtitle: lorem-ipsum
 date: '2021-06-01'
 categories: []
