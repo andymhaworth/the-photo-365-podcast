@@ -5,7 +5,7 @@ date: '2021-06-01'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: 'Every image tells a story, but are you telling stories with your images?'
 thumb_image_alt: lorem-ipsum
 image_alt: Episode 10 Image
 image_position: right
