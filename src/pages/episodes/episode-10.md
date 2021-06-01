@@ -1,5 +1,5 @@
 ---
-title: 10. Crafting a Photogaphic Narrative
+title: 10. Crafting a Narrative with Photogaphy
 subtitle: 'Every image tells a story, but are you telling stories with your images?'
 date: '2021-06-01'
 categories:
