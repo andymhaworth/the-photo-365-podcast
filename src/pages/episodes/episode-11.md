@@ -48,8 +48,6 @@ Along the way Cecil befriended John F. Kennedy. He photographed Sam Cooke, Althe
 
 After writing Freedom & Justice, Cecil created his own publishing company, and has gone on to write three more books, while publishing more than 200 for other clients. He’s also an inventor, and his most recent product, the FilmToaster, is designed to help photographers quickly digitize film.
 
-![](/\_static/app-assets/cecil-1.jpg)
-
 In recent years Cecil’s photography has been exposed to a new generation of activists thanks to an iconic, meme-ready image of him in 1956 defiantly drinking from a “whites only” water fountain. This image routinely shows up on social media, and according to one website, it “breaks the Internet every February” during Black History Month.
 
 Just last year, he opened the Cecil Williams South Carolina Civil Rights Museum, the first of its kind in the state.
@@ -92,7 +90,7 @@ Andy: In your book, you mention the influence of one of your photographic mentor
 
 Cecil: I was introduced to what was happening in Clarendon county, Summerton, in South Carolina, of course, being the the name of the city, in two different ways.
 
-![](/\_static/app-assets/cecil-4.jpg)
+![](/\_static/app-assets/cecil-2.jpg)
 
 Number one, E.C. Jones, frequently on Sundays, was contacted by the NAACP, to come into Clarendon county to take pictures. During those days, photography was nowhere near as simple as it is today, you had to take a lot of film. And the film was put in two carriers that had to be inserted in the camera itself. And you'd really only have a film holder, with two pieces of film. So it meant that you really had to carry a lot of film, just to accompany whatever normal pictures you would take.
 
@@ -122,6 +120,8 @@ And so that's why I have this famous attorney getting off the train in Charlesto
 
 Andy: While a lot of your work focused on the struggle for equality in communities, with marches, and protests and so on, many of your images also captured the very ugly side of racism in the south. There’s a gas station in Calhoun County that is covered in signs with hateful racist warnings. You photographed the Klan. And there’s the famous image of you drinking from the whites-only water fountain. How did you summon up the courage at such a young age to tackle these subjects?
 
+![](/\_static/app-assets/cecil-1.jpg)
+
 Cecil: In a way, Andrew as I look back on all those years, I really believe that again, I think that I had a divine inspiration to be involved in capturing this part of history. Like it is today, photography then it was rare to have cameras in the house or because it again, it took a lot of effort to go from putting the film in your camera. And then you had to pay to have the film developed and almost no one other than me, except the professional studio in downtown Orangeburg, at that time had a darkroom to process their own film.
 
 Andy: People were taking notice of your work, and that’s around the time you started working for Jet magazine? How did you get involved with them?
@@ -150,6 +150,8 @@ Because we here in South Carolina, most of the important and trendsetting and ne
 Andy: Orangeburg has two historically black colleges and universities, and you got your art degree from one of them, Claflin, but your passion was architecture, and Clemson was one of the few schools at that time that offered an architecture degree. You couldn’t attend Clemson because of your race, but you did photograph the first black student who attended Clemson. What was that experience like?
 
 Cecil: That was a wonderful day. South Carolina, in its high education had also barred people of color. When I was a high school senior, I wrote to Clemson because I really didn't think I could make a living in photography. And I wanted to be an architect. And this was an extension of my drawing and that kind of thing. But I can't say that Clemson rejected me that they just very simply would not even send me the application blank. So so I couldn't even reply. My guidance counselor tried to get an application. And whenever you would put on there Wilkinson High School, they knew that was a black school.
+
+![](/\_static/app-assets/cecil-5.jpg)
 
 But later on, it became my great pleasure to be there. In fact, one of the three people of color on Clemson when Harvey Gantt becomes the first person since, again, reconstruction to really set foot on become a student at a major higher education institution, Clemson University. This was a proud moment in South Carolina's history, because there was not any incident of again, violence, or even a threat of violence.
 
@@ -192,6 +194,8 @@ There were protecting people getting on and off because several days earlier, so
 And that was a closest call you might say I ever had, in that, I was fortunate enough not to be there because I believe that had I been there I could possibly have been wounded or shot myself. It is a very emotional event because again, I knew all three of the students. I’d photographed Smith, and Middleton and Hamilton. The two state college students were on the football team. And I’d also photographed Middleton at on the football team and I photographed him close up for the yearbook at Wilkinson High School. So I know all three of them. I mean, you know not, you know, as someone that I encounter every day, but there were people that you know, I often saw in my work for the yearbooks that I did photography for.
 
 But to see them murdered at the hands of law enforcement was indeed something that affected me for a long time. And I believe that it was a senseless act, something that really has not been dealt with a record with the how the highway patrolmen were found to be innocent. And I believe that was a tragedy that, again, where it was no doubt that they were the ones that killed the students. The FBI, over the years have thought about bringing this to the forefront again, but chose not to. So it's really an event that although it happened so many years ago, 1968, is something that really is still has an open end to it so to speak. The families were never compensated compensated for their losses, and again, the highway patrol one got away scot-free.
+
+![](/\_static/app-assets/cecil-6.jpg)
 
 Andy: In your first book you described the campus as “ground zero,” and you wrote about how horrifying the scene was.
 
@@ -237,6 +241,8 @@ I have really not yet had a grand opening day because again, museums cost millio
 And four months into the making the museum. Again, I had to, again, close back down again because the COVID pandemic started, and it was the safe thing to do to close it up. But in the four to six months, I think that I started a museum, I had 9,000 visitors and I would have to say about 25% of them were white. So I believe that this museum can serve a good function in the community and hopefully the people of South Carolina will visit the museum now that we're coming off COVID, and welcome them, invite the public, to make an appointment and come see the museum and see this history, and really celebrate the people and give thanks to the people whose shoulders we stand on today.
 
 Andy: I’d like to close by having you tell us about your favorite image. I believe it’s the one that graces the cover of Freedom and Justice?
+
+![](/\_static/app-assets/cecil-7.jpg)
 
 Cecil: One of my favorite and most requested images is of a little boy holding his mother's hand. I took that picture during a 1960, maybe ’61 or ’62 event in Columbia, where you had protesters and marches around the state capitol, asking that the Confederate flag be removed.
 
