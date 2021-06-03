@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 11. Freedom & Justice
 subtitle: lorem-ipsum
 date: '2021-06-03'
 categories: []
