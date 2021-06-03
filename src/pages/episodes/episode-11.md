@@ -1,5 +1,5 @@
 ---
-title: '11. Freedom & Justice: A conversation with Cecil J. Williams'
+title: '11. Freedom a Justice: A conversation with Cecil J. Williams'
 subtitle: lorem-ipsum
 date: '2021-06-03'
 categories: []
