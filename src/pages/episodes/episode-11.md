@@ -7,7 +7,10 @@ subtitle: >-
 date: '2021-06-08'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  For more than 40 years photographer Cecil J. Williams documented the civil
+  rights struggle in the deep south. Now in his 80s, he's still fighting for
+  freedom, justice and equality.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
