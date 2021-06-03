@@ -24,7 +24,13 @@ template: post
 ---
 ### Show Notes
 
-xxxx
+*   [The Cecil Williams South Carolina Civil Rights Museum](http://cecilwilliams.com)
+
+*   [Museum virtual tour](https://my.matterport.com/show/?m=2DmpozTzVqa)
+
+*   [Freedom & Justice: Four Decades of the Civil Rights Struggle As Seen by a Black Photographer of the Deep South](https://www.amazon.com/dp/0865544786/ref=cm_sw_em_r_mt_dp_CZSWX4QWMQA1WJ52T0PZ)
+
+*   [The FilmToaster scanning system](https://www.filmtoaster.photography/)
 
 ### Transcript
 
