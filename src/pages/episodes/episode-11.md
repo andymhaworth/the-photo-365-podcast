@@ -12,7 +12,7 @@ excerpt: >-
   rights struggle in the deep south. Now in his 80s, he's still fighting for
   freedom, justice and equality.
 thumb_image_alt: 'Episode 11: Cecil Williams'
-image_alt: lorem-ipsum
+image_alt: 'Episode 11: Cecil Williams'
 image_position: top
 episode_embed_html: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
