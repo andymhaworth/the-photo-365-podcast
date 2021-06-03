@@ -26,8 +26,6 @@ template: post
 
 xxxx
 
-
-
 ### Transcript
 
 Freedom, justice and equality. XXXXX. Today, I’m having a conversation with renowned civil rights photographer, Cecil J. Williams.
@@ -50,7 +48,9 @@ Along the way Cecil befriended John F. Kennedy. He photographed Sam Cooke, Althe
 
 After writing Freedom & Justice, Cecil created his own publishing company, and has gone on to write three more books, while publishing more than 200 for other clients. He’s also an inventor, and his most recent product, the FilmToaster, is designed to help photographers quickly digitize film.
 
-![](/\_static/app-assets/cecil-1.jpg)In recent years Cecil’s photography has been exposed to a new generation of activists thanks to an iconic, meme-ready image of him in 1956 defiantly drinking from a “whites only” water fountain. This image routinely shows up on social media, and according to one website, it “breaks the Internet every February” during Black History Month.
+![](/\_static/app-assets/cecil-1.jpg)
+
+In recent years Cecil’s photography has been exposed to a new generation of activists thanks to an iconic, meme-ready image of him in 1956 defiantly drinking from a “whites only” water fountain. This image routinely shows up on social media, and according to one website, it “breaks the Internet every February” during Black History Month.
 
 Just last year, he opened the Cecil Williams South Carolina Civil Rights Museum, the first of its kind in the state.
 
@@ -91,6 +91,8 @@ And as I'm sitting here now, reflecting on those years, I go back to that time i
 Andy: In your book, you mention the influence of one of your photographic mentors, Edward C. Jones, and how he exposed you to the movement that would eventually lead to Brown vs. Board of Education. How did he influence you?
 
 Cecil: I was introduced to what was happening in Clarendon county, Summerton, in South Carolina, of course, being the the name of the city, in two different ways.
+
+![](/\_static/app-assets/cecil-4.jpg)
 
 Number one, E.C. Jones, frequently on Sundays, was contacted by the NAACP, to come into Clarendon county to take pictures. During those days, photography was nowhere near as simple as it is today, you had to take a lot of film. And the film was put in two carriers that had to be inserted in the camera itself. And you'd really only have a film holder, with two pieces of film. So it meant that you really had to carry a lot of film, just to accompany whatever normal pictures you would take.
 
