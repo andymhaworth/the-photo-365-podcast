@@ -1,5 +1,5 @@
 ---
-title: '11. Freedom a Justice: A conversation with Cecil J. Williams'
+title: '11. Freedom and Justice: A conversation with Cecil J. Williams'
 subtitle: >-
   For more than 40 years photographer Cecil J. Williams documented the civil
   rights struggle in the deep south. Now in his 80s, he's still fighting for
