@@ -5,7 +5,8 @@ subtitle: >-
   rights struggle in the deep south. Now in his 80s, he's still fighting for
   freedom, justice and equality.
 date: '2021-06-08'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: >-
   For more than 40 years photographer Cecil J. Williams documented the civil
