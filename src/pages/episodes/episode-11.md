@@ -25,6 +25,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: /images/cecil-williams-ah-0.jpg
 ---
 ### Show Notes
 
