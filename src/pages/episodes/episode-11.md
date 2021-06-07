@@ -17,7 +17,7 @@ image_alt: 'Episode 11: Cecil Williams'
 image_position: top
 episode_embed_html: '[EMBED CODE]'
 seo:
-  title: ''
+  title: 'Freedom and Justice: A conversation with Cecil J. Williams'
   description: ''
   robots: []
   extra: []
