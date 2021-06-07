@@ -27,7 +27,7 @@ seo:
   type: stackbit_page_meta
 seo:
   type: stackbit_page_meta
-  title: 'Raw Intimacy: An interview with Chris Aluka Berry'
+  title: 'Freedom and Justice: A conversation with Cecil J. Williams'
   description: >-
     Long form visual storytelling examining race and class in the deep south: A
     conversation with Atlanta-based photographer Chris Aluka Berry.
