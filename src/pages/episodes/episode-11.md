@@ -38,9 +38,41 @@ image: /images/cecil-williams-ah-0_1.jpg
 
 *   [The FilmToaster scanning system](https://www.filmtoaster.photography/)
 
+**Topics discussed:**
+
+*   (04:01) Growing up segregated
+
+*   (06:19) Photography at age 9
+
+*   (08:42) Documenting his community
+
+*   (11:10) Learning from his mentor
+
+*   (14:57) Photographing Thurgood Marshall
+
+*   (17:49) Shooting for national publications
+
+*   (22:29) Orangeburg, the 'epicenter' for civil rights
+
+*   (24:37) Integrating Clemson
+
+*   (28:51) Friendship with JFK
+
+*   (35:08) Photographing MLK
+
+*   (37:40) The Orangeburg Massacre
+
+*   (44:20) Racial harmony
+
+*   (49:20) A conflict between justice and injustice
+
+*   (51:31) Cecil's civil rights museum
+
+*   (55:30) Cecil's favorite image
+
 ### Transcript
 
-Freedom, justice and equality. XXXXX. Today, I’m having a conversation with renowned civil rights photographer, Cecil J. Williams.
+For more than 40 years his lens captured the struggle for freedom, justice and equality.  Today he's still fighting for those values. On this episode I’m having a conversation with renowned civil rights photographer, Cecil J. Williams.
 
 Hello and welcome to Photo 365. My name is Andrew Haworth.
 
@@ -62,6 +94,8 @@ After writing Freedom & Justice, Cecil created his own publishing company, and h
 
 In recent years Cecil’s photography has been exposed to a new generation of activists thanks to an iconic, meme-ready image of him in 1956 defiantly drinking from a “whites only” water fountain. This image routinely shows up on social media, and according to one website, it “breaks the Internet every February” during Black History Month.
 
+![](/\_static/app-assets/cecil-1.jpg)
+
 Just last year, he opened the Cecil Williams South Carolina Civil Rights Museum, the first of its kind in the state.
 
 Andy: Cecil, it’s always a pleasure to be speaking with you, welcome to the show.
@@ -81,6 +115,8 @@ Andy: Nine years old? How did you get access to a camera at such a young age?
 Cecil: My brother was the holder of the Kodak Baby Brownie, you know. My mother had bought it from Sears Roebuck for $2.50. And he was the one taking pictures around the house. But he took a liking to music, and blowing the saxophone. And he gave me that camera.
 
 Because I like to sketch and just drew things as a child, the camera opened up a new opportunity for me, so I immediately gravitated towards it, because it could do what I wanted to do, and was an exercise in expressing myself better. Also, I discovered at nine years old, that I could make a few dollars using my camera, at nine years old, I would go to the Edisto Gardens on Sundays, and take pictures of people who were dressed up in their fine clothing, visiting the gardens, and the roses and so forth. And I would charge them $1 take their picture, have the pictures developed, and then send them back to them. So that was very encouraging to me, because in a way I was developing my craft, but I was also earning money.
+
+![](/\_static/app-assets/cecil-sultan.jpg)
 
 And $1 back during those days, of course, you know, had a different value to it than $1 today. It meant so much for a youth of 9-10 years old to be earning anything. Sometimes I would make as much as $10, which today I think could be an equivalent maybe $100. So that was quite an extraordinary experience for a young man or person growing up to really be able to, you know, bring that kind of income, you know, at my age. It enabled me to buy better cameras.
 
@@ -126,15 +162,11 @@ Andy: You’re 13 years old, using a film camera, shooting at night, and Thurgoo
 
 Cecil: Yes, and it turns out that I was the only person out with a camera or taking him. I was taken to Charleston, by the president of the NAACP, a gentleman, a an attorney, who's the president, and also he had a law practice here. His last name was Morgan. And he wanted to record this. And we really wanted to stay the next day to see the Briggs vs. Elliot case, really, as it came into being at the trial going on there. But it turned out that we didn’t, but we met Thurgood Marshall at the train, and kind of give you an idea of how different photography was then, as it is now, you know, in order to take a picture at nighttime or under adverse conditions, you had to use a flash bulb to put into the flash attachment, which was connected to the camera.
 
+![](/\_static/app-assets/cecil-thurgood.jpg)
+
 Even though the film was relatively inexpensive, you could buy a roll of film for around 55 cents, I believe, but a flashbulb even then cost $1. The bad thing about the flashbulb is that once you press the shutter and it flashes, that’s it, the flashbulb is  good, you have to throw it away.
 
 And so that's why I have this famous attorney getting off the train in Charleston, I took one film and that film, after developing it became so important. That picture has appeared in about 60 history books besides my own books that I have written. But um, it marked again a point when this very famous attorney was handling this case for the NAACP, a gentleman who later becomes on the Supreme Court himself, Thurgood Marshall, where he is engaged in again suing on behalf of the Briggs vs. Elliot citizens, trying to get better educational opportunities for the people of Clarendon County and their children.
-
-Andy: While a lot of your work focused on the struggle for equality in communities, with marches, and protests and so on, many of your images also captured the very ugly side of racism in the south. There’s a gas station in Calhoun County that is covered in signs with hateful racist warnings. You photographed the Klan. And there’s the famous image of you drinking from the whites-only water fountain. How did you summon up the courage at such a young age to tackle these subjects?
-
-![](/\_static/app-assets/cecil-1.jpg)
-
-Cecil: In a way, Andrew as I look back on all those years, I really believe that again, I think that I had a divine inspiration to be involved in capturing this part of history. Like it is today, photography then it was rare to have cameras in the house or because it again, it took a lot of effort to go from putting the film in your camera. And then you had to pay to have the film developed and almost no one other than me, except the professional studio in downtown Orangeburg, at that time had a darkroom to process their own film.
 
 Andy: People were taking notice of your work, and that’s around the time you started working for Jet magazine? How did you get involved with them?
 
@@ -262,7 +294,7 @@ Cecil: One of my favorite and most requested images is of a little boy holding h
 
 And the right after the march and the demonstration they were singing, I believe “We Shall Overcome.” And I happened to look to my left, and I saw a little boy who was really shadowed by all the adults around him. And he was holding his mother's hand. But the lighting was not very good. As I turned my camera around, I noticed that almost if it was a divine moment, the clouds kind of open up, a little ray of light came down on this little boy's face. And that has become one of my favorite pictures.
 
-I've used it on the cover of two of my books. It also has appeared in many history books. And it's become a favorite of mine, because in a way, it is kind of iconic of what the civil rights movement is all about. The name of the picture is “Wandering, Waiting and Wanting.” And I believe that is so reflective of the total African American struggle. Coming to America as slaves and having to lift themselves out of these kind of circumstances in order to become productive citizens. But citizens who also want the freedom, the justice and equality as all other people want. That's a very simple thing for them to ask, but they so much deserve that. Sll people deserve that.
+I've used it on the cover of two of my books. It also has appeared in many history books. And it's become a favorite of mine, because in a way, it is kind of iconic of what the civil rights movement is all about. The name of the picture is “Wandering, Waiting and Wanting.” And I believe that is so reflective of the total African American struggle. Coming to America as slaves and having to lift themselves out of these kind of circumstances in order to become productive citizens. But citizens who also want the freedom, the justice and equality as all other people want. That's a very simple thing for them to ask, but they so much deserve that. Still, people deserve that.
 
 Andy: Wonderful image. Cecil thanks for taking the time to talk with me today, it’s always a pleasure catching up with you. You're always doing so many interesting things, and I just can’t thank you enough.
 
