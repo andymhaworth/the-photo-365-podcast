@@ -51,8 +51,7 @@ seo:
       value: 'Raw Intimacy: An interview with Chris Aluka Berry'
     - name: 'twitter:description'
       value: >-
-        Long form visual storytelling examining race and class in the deep
-        south: A conversation with Atlanta-based photographer Chris Aluka Berry.
+        For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
     - name: 'twitter:image'
       value: /images/Aluka-1-Main.jpg
       relativeUrl: true
