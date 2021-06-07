@@ -18,7 +18,10 @@ image_position: top
 episode_embed_html: '[EMBED CODE]'
 seo:
   title: 'Freedom and Justice: A conversation with Cecil J. Williams'
-  description: ''
+  description: >-
+    For more than 40 years photographer Cecil J. Williams documented the civil
+    rights struggle in the deep south. Now in his 80s, he's still fighting for
+    freedom, justice and equality.
   robots: []
   extra: []
   type: stackbit_page_meta
