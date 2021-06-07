@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Raw Intimacy: An interview with Chris Aluka Berry'
+      value: 'Freedom and Justice: A conversation with Cecil J. Williams'
     - name: 'twitter:description'
       value: >-
         For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
