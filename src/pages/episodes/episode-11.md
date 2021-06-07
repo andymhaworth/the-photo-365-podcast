@@ -29,8 +29,7 @@ seo:
   type: stackbit_page_meta
   title: 'Freedom and Justice: A conversation with Cecil J. Williams'
   description: >-
-    Long form visual storytelling examining race and class in the deep south: A
-    conversation with Atlanta-based photographer Chris Aluka Berry.
+    For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
   extra:
     - name: 'og:type'
       value: article
