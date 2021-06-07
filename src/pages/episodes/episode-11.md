@@ -17,14 +17,35 @@ image_alt: 'Episode 11: Cecil Williams'
 image_position: top
 episode_embed_html: '[EMBED CODE]'
 seo:
+  type: stackbit_page_meta
   title: 'Freedom and Justice: A conversation with Cecil J. Williams'
   description: >-
-    For more than 40 years photographer Cecil J. Williams documented the civil
-    rights struggle in the deep south. Now in his 80s, he's still fighting for
-    freedom, justice and equality.
-  robots: []
-  extra: []
-  type: stackbit_page_meta
+    For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: 'Freedom and Justice: A conversation with Cecil J. Williams'
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
+      keyName: property
+    - name: 'og:image'
+      value: /images/cecil-williams-ah-0_1.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: 'Freedom and Justice: A conversation with Cecil J. Williams'
+    - name: 'twitter:description'
+      value: >-
+        For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
+    - name: 'twitter:image'
+      value: /images/cecil-williams-ah-0_1.jpg
+      relativeUrl: true
 template: post
 thumb_image: /images/cecil-williams-portrait.jpg
 image: /images/cecil-williams-ah-0_1.jpg
