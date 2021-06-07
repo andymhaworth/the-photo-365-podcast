@@ -35,7 +35,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Raw Intimacy: An interview with Chris Aluka Berry'
+      value: 'Freedom and Justice: A conversation with Cecil J. Williams'
       keyName: property
     - name: 'og:description'
       value: >-
