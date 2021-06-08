@@ -125,7 +125,7 @@ After writing Freedom & Justice, Cecil created his own publishing company, and h
 
 In recent years Cecil’s photography has been exposed to a new generation of activists thanks to an iconic, meme-ready image of him in 1956 defiantly drinking from a “whites only” water fountain. This image routinely shows up on social media, and according to one website, it “breaks the Internet every February” during Black History Month.
 
-![](/\_static/app-assets/cecil-1.jpg)
+![](/images/cecil-1.jpg)
 
 *Image captured by Rendall Harper, a friend of the photographer. (1956)*
 
@@ -149,7 +149,7 @@ Cecil: My brother was the holder of the Kodak Baby Brownie, you know. My mother 
 
 Because I like to sketch and just drew things as a child, the camera opened up a new opportunity for me, so I immediately gravitated towards it, because it could do what I wanted to do, and was an exercise in expressing myself better. Also, I discovered at nine years old, that I could make a few dollars using my camera, at nine years old, I would go to the Edisto Gardens on Sundays, and take pictures of people who were dressed up in their fine clothing, visiting the gardens, and the roses and so forth. And I would charge them $1 take their picture, have the pictures developed, and then send them back to them. So that was very encouraging to me, because in a way I was developing my craft, but I was also earning money.
 
-![](/\_static/app-assets/cecil-sultan.jpg)
+![](/images/cecil-sultan.jpg)
 
 *James Sultan, Unconquerable Foe Against Jim Crow (1956)*
 
@@ -173,7 +173,7 @@ Andy: In your book, you mention the influence of one of your photographic mentor
 
 Cecil: I was introduced to what was happening in Clarendon county, Summerton, in South Carolina, of course, being the the name of the city, in two different ways.
 
-![](/\_static/app-assets/cecil-2.jpg)
+![](/images/cecil-2.jpg)
 
 *Demonstrations Against Segregation, Columbia, S.C. (1962)*
 
@@ -199,7 +199,7 @@ Andy: You’re 13 years old, using a film camera, shooting at night, and Thurgoo
 
 Cecil: Yes, and it turns out that I was the only person out with a camera or taking him. I was taken to Charleston, by the president of the NAACP, a gentleman, a an attorney, who's the president, and also he had a law practice here. His last name was Morgan. And he wanted to record this. And we really wanted to stay the next day to see the Briggs vs. Elliot case, really, as it came into being at the trial going on there. But it turned out that we didn’t, but we met Thurgood Marshall at the train, and kind of give you an idea of how different photography was then, as it is now, you know, in order to take a picture at nighttime or under adverse conditions, you had to use a flash bulb to put into the flash attachment, which was connected to the camera.
 
-![](/\_static/app-assets/cecil-thurgood.jpg)
+![](/images/cecil-thurgood.jpg)
 
 *Thurgood Marshall Arriving in Charleston for the Briggs vs. Elliott Hearing (1951)*
 
@@ -234,7 +234,7 @@ Andy: Orangeburg has two historically black colleges and universities, and you g
 
 Cecil: That was a wonderful day. South Carolina, in its high education had also barred people of color. When I was a high school senior, I wrote to Clemson because I really didn't think I could make a living in photography. And I wanted to be an architect. And this was an extension of my drawing and that kind of thing. But I can't say that Clemson rejected me that they just very simply would not even send me the application blank. So so I couldn't even reply. My guidance counselor tried to get an application. And whenever you would put on there Wilkinson High School, they knew that was a black school.
 
-![](/\_static/app-assets/cecil-5.jpg)
+![](/images/cecil-5.jpg)
 
 *Harvey Gantt and the Sea of Reporters (1963)*
 
@@ -260,7 +260,7 @@ Unfortunately, he was assassinated after serving only three years. And again, I 
 
 However, a former segregationist, President Johnson, really took the legislature, the congressmen and the senators and the house of representatives and senators are into pass on legislation that really probably went beyond what Kennedy was trying to get passed and became really the president that was able to have the Civil Rights Act of 1963, the Voting Rights Act 63, 64, 65 passed. And that really kind of changed America from all the legislation that happened there. But again, some of my favorite memories again that time went on be when this larger than life figure, JFK, again, becomes a very good friend and a very good acquaintance.
 
-![](/\_static/app-assets/cecil-8.jpg)
+![](/images/cecil-8.jpg)
 
 *Senator John F. Kennedy (1962)*
 
@@ -284,7 +284,7 @@ And that was a closest call you might say I ever had, in that, I was fortunate e
 
 But to see them murdered at the hands of law enforcement was indeed something that affected me for a long time. And I believe that it was a senseless act, something that really has not been dealt with a record with the how the highway patrolmen were found to be innocent. And I believe that was a tragedy that, again, where it was no doubt that they were the ones that killed the students. The FBI, over the years have thought about bringing this to the forefront again, but chose not to. So it's really an event that although it happened so many years ago, 1968, is something that really is still has an open end to it so to speak. The families were never compensated compensated for their losses, and again, the highway patrol one got away scot-free.
 
-![](/\_static/app-assets/cecil-6.jpg)
+![](/images/cecil-6.jpg)
 
 *Evidence of Death (1968)*
 
@@ -333,7 +333,7 @@ And four months into the making the museum. Again, I had to, again, close back d
 
 Andy: I’d like to close by having you tell us about your favorite image. I believe it’s the one that graces the cover of Freedom and Justice?
 
-![](/\_static/app-assets/cecil-7.jpg)
+![](/images/cecil-7.jpg)
 
 *Wondering, Wanting, Waiting (1963)*
 
