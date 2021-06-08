@@ -125,7 +125,7 @@ After writing Freedom & Justice, Cecil created his own publishing company, and h
 
 In recent years Cecil’s photography has been exposed to a new generation of activists thanks to an iconic, meme-ready image of him in 1956 defiantly drinking from a “whites only” water fountain. This image routinely shows up on social media, and according to one website, it “breaks the Internet every February” during Black History Month.
 
-![](/\_static/app-assets/cecil-1.jpg)
+![](/images/cecil-1.jpg)
 
 *Image captured by Rendall Harper, a friend of the photographer. (1956)*
 
