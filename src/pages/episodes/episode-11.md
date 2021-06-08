@@ -20,7 +20,9 @@ seo:
   type: stackbit_page_meta
   title: 'Freedom and Justice: A conversation with Cecil J. Williams'
   description: >-
-    For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
+    For more than 40 years photographer Cecil J. Williams documented the civil
+    rights struggle in the deep south. Now in his 80s, he's still fighting for
+    freedom, justice and equality.
   extra:
     - name: 'og:type'
       value: article
@@ -30,7 +32,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
+        For more than 40 years photographer Cecil J. Williams documented the
+        civil rights struggle in the deep south. Now in his 80s, he's still
+        fighting for freedom, justice and equality.
       keyName: property
     - name: 'og:image'
       value: /images/cecil-williams-ah-0_1.jpg
@@ -42,7 +46,9 @@ seo:
       value: 'Freedom and Justice: A conversation with Cecil J. Williams'
     - name: 'twitter:description'
       value: >-
-        For more than 40 years photographer Cecil J. Williams documented the civil rights struggle in the deep south. Now in his 80s, he's still fighting for freedom, justice and equality.
+        For more than 40 years photographer Cecil J. Williams documented the
+        civil rights struggle in the deep south. Now in his 80s, he's still
+        fighting for freedom, justice and equality.
     - name: 'twitter:image'
       value: /images/cecil-williams-ah-0_1.jpg
       relativeUrl: true
@@ -118,6 +124,8 @@ In recent years Cecil’s photography has been exposed to a new generation of ac
 
 ![](/\_static/app-assets/cecil-1.jpg)
 
+*Image captured by Rendall Harper, a friend of the photographer. (1956)*
+
 Just last year, he opened the Cecil Williams South Carolina Civil Rights Museum, the first of its kind in the state.
 
 Andy: Cecil, it’s always a pleasure to be speaking with you, welcome to the show.
@@ -140,6 +148,8 @@ Because I like to sketch and just drew things as a child, the camera opened up a
 
 ![](/\_static/app-assets/cecil-sultan.jpg)
 
+*James Sultan, Unconquerable Foe Against Jim Crow (1956)*
+
 And $1 back during those days, of course, you know, had a different value to it than $1 today. It meant so much for a youth of 9-10 years old to be earning anything. Sometimes I would make as much as $10, which today I think could be an equivalent maybe $100. So that was quite an extraordinary experience for a young man or person growing up to really be able to, you know, bring that kind of income, you know, at my age. It enabled me to buy better cameras.
 
 It enabled me to buy a camera later that had a flash unit, because my first camera did not have a flash unit. And I could not take pictures in adverse lighting situations or in the evening or after dark. So I was able to support my newly-found hobby that had has slowly began to turn into an occupation.
@@ -161,6 +171,8 @@ Andy: In your book, you mention the influence of one of your photographic mentor
 Cecil: I was introduced to what was happening in Clarendon county, Summerton, in South Carolina, of course, being the the name of the city, in two different ways.
 
 ![](/\_static/app-assets/cecil-2.jpg)
+
+*Demonstrations Against Segregation, Columbia, S.C. (1962)*
 
 Number one, E.C. Jones, frequently on Sundays, was contacted by the NAACP, to come into Clarendon county to take pictures. During those days, photography was nowhere near as simple as it is today, you had to take a lot of film. And the film was put in two carriers that had to be inserted in the camera itself. And you'd really only have a film holder, with two pieces of film. So it meant that you really had to carry a lot of film, just to accompany whatever normal pictures you would take.
 
@@ -185,6 +197,8 @@ Andy: You’re 13 years old, using a film camera, shooting at night, and Thurgoo
 Cecil: Yes, and it turns out that I was the only person out with a camera or taking him. I was taken to Charleston, by the president of the NAACP, a gentleman, a an attorney, who's the president, and also he had a law practice here. His last name was Morgan. And he wanted to record this. And we really wanted to stay the next day to see the Briggs vs. Elliot case, really, as it came into being at the trial going on there. But it turned out that we didn’t, but we met Thurgood Marshall at the train, and kind of give you an idea of how different photography was then, as it is now, you know, in order to take a picture at nighttime or under adverse conditions, you had to use a flash bulb to put into the flash attachment, which was connected to the camera.
 
 ![](/\_static/app-assets/cecil-thurgood.jpg)
+
+*Thurgood Marshall Arriving in Charleston for the Briggs vs. Elliott Hearing (1951)*
 
 Even though the film was relatively inexpensive, you could buy a roll of film for around 55 cents, I believe, but a flashbulb even then cost $1. The bad thing about the flashbulb is that once you press the shutter and it flashes, that’s it, the flashbulb is  good, you have to throw it away.
 
@@ -219,6 +233,8 @@ Cecil: That was a wonderful day. South Carolina, in its high education had also 
 
 ![](/\_static/app-assets/cecil-5.jpg)
 
+*Harvey Gantt and the Sea of Reporters (1963)*
+
 But later on, it became my great pleasure to be there. In fact, one of the three people of color on Clemson when Harvey Gantt becomes the first person since, again, reconstruction to really set foot on become a student at a major higher education institution, Clemson University. This was a proud moment in South Carolina's history, because there was not any incident of again, violence, or even a threat of violence.
 
 People were so nice, I was treated with great respect. I was even put up on the campus of Clemson because again, I get there on a Sunday, I remember was a cold day in February, and again, the very next morning early, here comes Harvey Gantt getting out of his attorney's car, and walking on the campus of Clemson University.
@@ -243,6 +259,8 @@ However, a former segregationist, President Johnson, really took the legislature
 
 ![](/\_static/app-assets/cecil-8.jpg)
 
+*Senator John F. Kennedy (1962)*
+
 Andy: Those images of JFK, there’s a magical quality to them. It’s like you can almost reach out and touch him in these pictures.
 
 Cecil: I think the mind plays tricks on us. I too get that same feeling  from it. Each picture just is really um, you know, as I look at the negatives, by the way, my negatives, oh, one of the Kennedys, again, beginning to fee It is one of the reasons why later on five years ago, I developed a device called the film toaster to address the issue of having to scan my family and just scan it very rapidly to save and preserve the film, images, of course, photograph all through my life because, again, a lot of people don't realize it, but digital came about just about 1996. It was pretty well developed about 2000. And I transition from using film to digital in 2000. So still yet, you know, it's really been really about 22-23 years where we have this phenomenal way of capturing images that we use to date, and has also helped to popularize again, photography, wherein everyone has a digital camera, or cell phone that can take fairly good photographs.
@@ -264,6 +282,8 @@ And that was a closest call you might say I ever had, in that, I was fortunate e
 But to see them murdered at the hands of law enforcement was indeed something that affected me for a long time. And I believe that it was a senseless act, something that really has not been dealt with a record with the how the highway patrolmen were found to be innocent. And I believe that was a tragedy that, again, where it was no doubt that they were the ones that killed the students. The FBI, over the years have thought about bringing this to the forefront again, but chose not to. So it's really an event that although it happened so many years ago, 1968, is something that really is still has an open end to it so to speak. The families were never compensated compensated for their losses, and again, the highway patrol one got away scot-free.
 
 ![](/\_static/app-assets/cecil-6.jpg)
+
+*Evidence of Death (1968)*
 
 Andy: In your first book you described the campus as “ground zero,” and you wrote about how horrifying the scene was.
 
@@ -311,6 +331,8 @@ And four months into the making the museum. Again, I had to, again, close back d
 Andy: I’d like to close by having you tell us about your favorite image. I believe it’s the one that graces the cover of Freedom and Justice?
 
 ![](/\_static/app-assets/cecil-7.jpg)
+
+*Wondering, Wanting, Waiting (1963)*
 
 Cecil: One of my favorite and most requested images is of a little boy holding his mother's hand. I took that picture during a 1960, maybe ’61 or ’62 event in Columbia, where you had protesters and marches around the state capitol, asking that the Confederate flag be removed.
 
