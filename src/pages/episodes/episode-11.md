@@ -260,7 +260,7 @@ Unfortunately, he was assassinated after serving only three years. And again, I 
 
 However, a former segregationist, President Johnson, really took the legislature, the congressmen and the senators and the house of representatives and senators are into pass on legislation that really probably went beyond what Kennedy was trying to get passed and became really the president that was able to have the Civil Rights Act of 1963, the Voting Rights Act 63, 64, 65 passed. And that really kind of changed America from all the legislation that happened there. But again, some of my favorite memories again that time went on be when this larger than life figure, JFK, again, becomes a very good friend and a very good acquaintance.
 
-![](/\_static/app-assets/cecil-8.jpg)
+![](/images/cecil-8.jpg)
 
 *Senator John F. Kennedy (1962)*
 
