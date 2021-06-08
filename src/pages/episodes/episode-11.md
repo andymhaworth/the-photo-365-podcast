@@ -15,7 +15,10 @@ excerpt: >-
 thumb_image_alt: 'Episode 11: Cecil Williams'
 image_alt: 'Episode 11: Cecil Williams'
 image_position: top
-episode_embed_html: '[EMBED CODE]'
+episode_embed_html: >-
+  <iframe src="https://open.spotify.com/embed/episode/2yMREZlubwg0iQIemE5PE1"
+  width="100%" height="232" frameborder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
   title: 'Freedom and Justice: A conversation with Cecil J. Williams'
