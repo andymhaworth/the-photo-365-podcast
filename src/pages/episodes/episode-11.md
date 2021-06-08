@@ -234,7 +234,7 @@ Andy: Orangeburg has two historically black colleges and universities, and you g
 
 Cecil: That was a wonderful day. South Carolina, in its high education had also barred people of color. When I was a high school senior, I wrote to Clemson because I really didn't think I could make a living in photography. And I wanted to be an architect. And this was an extension of my drawing and that kind of thing. But I can't say that Clemson rejected me that they just very simply would not even send me the application blank. So so I couldn't even reply. My guidance counselor tried to get an application. And whenever you would put on there Wilkinson High School, they knew that was a black school.
 
-![](/\_static/app-assets/cecil-5.jpg)
+![](/images/cecil-5.jpg)
 
 *Harvey Gantt and the Sea of Reporters (1963)*
 
