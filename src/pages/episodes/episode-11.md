@@ -173,7 +173,7 @@ Andy: In your book, you mention the influence of one of your photographic mentor
 
 Cecil: I was introduced to what was happening in Clarendon county, Summerton, in South Carolina, of course, being the the name of the city, in two different ways.
 
-![](/\_static/app-assets/cecil-2.jpg)
+![](/images/cecil-2.jpg)
 
 *Demonstrations Against Segregation, Columbia, S.C. (1962)*
 
