@@ -199,7 +199,7 @@ Andy: You’re 13 years old, using a film camera, shooting at night, and Thurgoo
 
 Cecil: Yes, and it turns out that I was the only person out with a camera or taking him. I was taken to Charleston, by the president of the NAACP, a gentleman, a an attorney, who's the president, and also he had a law practice here. His last name was Morgan. And he wanted to record this. And we really wanted to stay the next day to see the Briggs vs. Elliot case, really, as it came into being at the trial going on there. But it turned out that we didn’t, but we met Thurgood Marshall at the train, and kind of give you an idea of how different photography was then, as it is now, you know, in order to take a picture at nighttime or under adverse conditions, you had to use a flash bulb to put into the flash attachment, which was connected to the camera.
 
-![](/\_static/app-assets/cecil-thurgood.jpg)
+![](/images/cecil-thurgood.jpg)
 
 *Thurgood Marshall Arriving in Charleston for the Briggs vs. Elliott Hearing (1951)*
 
