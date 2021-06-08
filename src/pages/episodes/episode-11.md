@@ -333,7 +333,7 @@ And four months into the making the museum. Again, I had to, again, close back d
 
 Andy: I’d like to close by having you tell us about your favorite image. I believe it’s the one that graces the cover of Freedom and Justice?
 
-![](/\_static/app-assets/cecil-7.jpg)
+![](/images/cecil-7.jpg)
 
 *Wondering, Wanting, Waiting (1963)*
 
