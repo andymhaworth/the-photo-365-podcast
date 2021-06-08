@@ -284,7 +284,7 @@ And that was a closest call you might say I ever had, in that, I was fortunate e
 
 But to see them murdered at the hands of law enforcement was indeed something that affected me for a long time. And I believe that it was a senseless act, something that really has not been dealt with a record with the how the highway patrolmen were found to be innocent. And I believe that was a tragedy that, again, where it was no doubt that they were the ones that killed the students. The FBI, over the years have thought about bringing this to the forefront again, but chose not to. So it's really an event that although it happened so many years ago, 1968, is something that really is still has an open end to it so to speak. The families were never compensated compensated for their losses, and again, the highway patrol one got away scot-free.
 
-![](/\_static/app-assets/cecil-6.jpg)
+![](/images/cecil-6.jpg)
 
 *Evidence of Death (1968)*
 
