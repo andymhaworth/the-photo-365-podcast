@@ -149,7 +149,7 @@ Cecil: My brother was the holder of the Kodak Baby Brownie, you know. My mother 
 
 Because I like to sketch and just drew things as a child, the camera opened up a new opportunity for me, so I immediately gravitated towards it, because it could do what I wanted to do, and was an exercise in expressing myself better. Also, I discovered at nine years old, that I could make a few dollars using my camera, at nine years old, I would go to the Edisto Gardens on Sundays, and take pictures of people who were dressed up in their fine clothing, visiting the gardens, and the roses and so forth. And I would charge them $1 take their picture, have the pictures developed, and then send them back to them. So that was very encouraging to me, because in a way I was developing my craft, but I was also earning money.
 
-![](/\_static/app-assets/cecil-sultan.jpg)
+![](/images/cecil-sultan.jpg)
 
 *James Sultan, Unconquerable Foe Against Jim Crow (1956)*
 
