@@ -33,18 +33,13 @@ image: /images/EP10-Alt.jpg
 
 The following artists are mentioned in this episode:
 
-
 Chris Aluka Berry, "Affrilachia": <https://www.alukastorytellingphotography.com/portfolio/G00002bm1OCwPMFA>
-
 
 Kaja Rata, "Kajnikaj": <http://lenscratch.com/2020/04/kaja-rata-kajnikaj/>
 
-
 Forest Kelley, "Michael": <http://lenscratch.com/2020/04/forest-kelley-michael/>
 
-
 Tabitha Barnard, "Sisterhood Summer":[ http://lenscratch.com/2019/07/2019-lenscratch-student-prize-tabitha-barnard/](http://lenscratch.com/2019/07/2019-lenscratch-student-prize-tabitha-barnard/)
-
 
 ### Transcript
 
@@ -54,7 +49,7 @@ Hello friends and welcome to this episode of Photo 365, my name is Andrew Hawort
 
 Today, I’d like to offer up some thoughts and advice regarding narrative photography, photojournalism, and documentary work -- essentially, telling stories with images.
 
-If you missed the last episode of the show, please go back and check it out, because I interviewed documentary photographer Chris Aluka Berry, and he offers up some really great advice on shooting long-form stories. Talking with Chris got me thinking about my own narrative efforts. And the most recent episode of the Hulu show, “Exposure,” was all about photojournalism, even if the contestants mostly botched their assignments -- I promise I’m not going to review the show again!
+If you missed the last episode of the show, please go back and check it out, because I interviewed documentary photographer Chris Aluka Berry, and he offers up some really great advice on shooting long-form stories. Talking with Chris got me thinking about my own narrative efforts. And the most recent episode of the Hulu show, “Exposure,” was all about photojournalism -- I promise I’m not going to review the show again!
 
 I think we all have some story or narrative in mind when we’re out shooting. Even if it’s subconscious. Visual storytelling, like any other skill, can be learned. Initially, you might create very linear, literal narratives. For instance, maybe a friend asks you to shoot their sister’s wedding. You show up to get photos of people getting dressed, you shoot the ceremony, you take photos at the reception, and end with the happy couple driving off in the end. That’s a straightforward, linear narrative.
 
