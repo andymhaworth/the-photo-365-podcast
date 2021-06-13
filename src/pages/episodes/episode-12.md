@@ -1,6 +1,9 @@
 ---
 title: 'Imaging Infinity: Shooting the stars with Hap Griffin'
-subtitle: lorem-ipsum
+subtitle: >-
+  His images represent a journey through space and time. They transport us to
+  alien, glowing worlds on the edges of the universe, while still reminding us
+  of what it means to be human.
 date: '2021-06-13'
 categories: []
 tags: []
