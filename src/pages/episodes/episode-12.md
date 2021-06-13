@@ -12,7 +12,7 @@ excerpt: >-
   His images represent a journey through space and time. They transport us to
   alien, glowing worlds on the edges of the universe, while still reminding us
   of what it means to be human.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Shooting the stars with Hap Griffin
 image_alt: Astrophotographer Hap Griffin in his workshop
 image_position: top
 episode_embed_html: '[EMBED CODE]'
