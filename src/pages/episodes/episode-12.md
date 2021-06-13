@@ -19,9 +19,9 @@ episode_embed_html: '[EMBED CODE]'
 seo:
   title: 'Imaging Infinity: Shooting the stars with Hap Griffin'
   description: >-
-    His images represent a journey through space and time. They transport us to
-    alien, glowing worlds on the edges of the universe, while still reminding us
-    of what it means to be human.
+    His images are a journey through space and time. They transport us to the
+    edges of the universe, while still reminding us of what it means to be
+    human.
   robots: []
   extra: []
   type: stackbit_page_meta
