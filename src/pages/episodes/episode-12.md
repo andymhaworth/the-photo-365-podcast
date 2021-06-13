@@ -5,7 +5,8 @@ subtitle: >-
   alien, glowing worlds on the edges of the universe, while still reminding us
   of what it means to be human.
 date: '2021-06-15'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
