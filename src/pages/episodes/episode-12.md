@@ -8,7 +8,10 @@ date: '2021-06-15'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  His images represent a journey through space and time. They transport us to
+  alien, glowing worlds on the edges of the universe, while still reminding us
+  of what it means to be human.
 thumb_image_alt: lorem-ipsum
 image_alt: Astrophotographer Hap Griffin in his workshop
 image_position: top
