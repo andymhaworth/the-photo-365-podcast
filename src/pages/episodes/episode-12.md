@@ -9,7 +9,7 @@ categories: []
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: Astrophotographer Hap Griffin in his workshop
 image_position: top
 episode_embed_html: '[EMBED CODE]'
 seo:
