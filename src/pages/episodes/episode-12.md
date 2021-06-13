@@ -50,7 +50,7 @@ xxxxx xxxxx xxxxxx
 
 ![](/\_static/app-assets/hap-1.jpg)
 
-*xxx xxxx xxxxx *
+\*xxx xxxx xxxxx \*
 
 xxxx xxxx xxx xx xxx
 
@@ -60,3 +60,10 @@ xxx xxx xxxx xxxxx x
 
 *xxx xxxx xxxxx (Photo by Andrew Haworth)*
 
+*xxx xxxxx xxxxx xxxxx xxxx x*
+
+**![](/\_static/app-assets/hap-3.jpg)
+
+*The Milky Way over Hap's observatory (far left) at the MAC-Hunter observation site in Bethune, SC. (Photo by Andrew Haworth)*
+
+xxxx xxxx xxxx xxxx xxxx xxxx
