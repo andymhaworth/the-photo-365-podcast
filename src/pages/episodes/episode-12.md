@@ -17,7 +17,7 @@ image_alt: Astrophotographer Hap Griffin in his workshop
 image_position: top
 episode_embed_html: '[EMBED CODE]'
 seo:
-  title: ''
+  title: 'Imaging Infinity: Shooting the stars with Hap Griffin'
   description: ''
   robots: []
   extra: []
