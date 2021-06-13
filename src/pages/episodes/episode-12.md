@@ -26,9 +26,37 @@ template: post
 image: /images/hap-workshop.jpg
 thumb_image: /images/hap-index.jpg
 ---
-## Lorem ipsum
+### Show Notes
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   xxx
 
-- Lorem ipsum
-- dolor sit amet
+*   xxx
+
+*   xxx
+
+*   xx
+
+**Topics discussed:**
+
+*   xxx
+
+*   xxx
+
+*   xxx
+
+### Transcript
+
+xxxxx xxxxx xxxxxx
+
+![](/\_static/app-assets/hap-1.jpg)
+
+*xxx xxxx xxxxx *
+
+xxxx xxxx xxx xx xxx
+
+xxx xxx xxxx xxxxx x
+
+![](/\_static/app-assets/hap-2.jpg)
+
+*xxx xxxx xxxxx (Photo by Andrew Haworth)*
+
