@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Imaging Infinity: Shooting the stars with Hap Griffin'
 subtitle: lorem-ipsum
 date: '2021-06-13'
 categories: []
