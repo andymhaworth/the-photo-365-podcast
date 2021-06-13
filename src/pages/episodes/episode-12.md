@@ -24,6 +24,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/hap-workshop.jpg
+thumb_image: /images/hap-index.jpg
 ---
 ## Lorem ipsum
 
