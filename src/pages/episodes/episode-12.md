@@ -245,7 +245,7 @@ Andy: What are some of your favorite objects to photograph?
 
 Hap: Oh, gosh. Well, there's always, as in with any hobby, you've got the basics. The Great Orion Nebula is one that everybody loves. The Andromeda galaxy is one that everybody loves. The Horsehead is one that everybody loves. I like going for the more obscure galaxies. And now I've gotten into quasars. Which is basically like a star. So there's really nothing much to look at unless you know what you're looking at.
 
-And just the concept of that, you know, I'm shooting something that's eight and a half billion light years away, you know, that just blows me away. So I like stuff like that. But I've also gotten into -- a friend of mine that is from Kosov -- she's studying for a masters in planetary science out in California. She and I became sort of project partners in astronomy, and we've done some talks together, some national conference talks together and things like that. And she is all into asteroids. And matter of fact, she has an asteroid named for her.
+And just the concept of that, you know, I'm shooting something that's eight and a half billion light years away, you know, that just blows me away. So I like stuff like that. But I've also gotten into -- a friend of mine that is from Kosovo -- she's studying for a masters in planetary science out in California. She and I became sort of project partners in astronomy, and we've done some talks together, some national conference talks together and things like that. And she is all into asteroids. And matter of fact, she has an asteroid named for her.
 
 ![](/\_static/app-assets/NGC%207293%20-%20The%20Helix%20Nebula.jpg)
 
