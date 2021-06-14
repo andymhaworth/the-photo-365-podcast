@@ -113,7 +113,6 @@ Hap: Well, I’ve always been into photography a little bit. And I've done some 
 
 Andy: Now, it's my understanding that when you're setting up a telescope for this type of deep sky photography, that the setup process is very tedious and precise, and you end up breaking it down and setting it back up again. Obviously, one of your goals was to create an observatory of some sort and you did.
 
-
 Hap: I really wanted to have something where I can permanently set up and align the equipment and have it ready to go when I was ready to go and just roll a roof back on a shared or small building and turn things on and be ready already aligned and ready to go. So I had been looking for like the corner of a farmer's cornfield or something like that, that I could lease and build a little small observatory.
 
 There's a place on the internet called Astro Mart, which is basically eBay for astronomical equipment. I was looking through there one day and I saw this ad that said, ‘free land for your observatory.’ And I thought, well, what is this and you know, I said, it's got to be out in California someplace or something like that. And turns out, it was only about 45 minutes up the road from where I live. And so I called and met the gentleman that owned the property. His name was Gene Hunter, and I went up there and met him. Turns out that he was an astronomer who had a lot of the same interests that I did; we almost had the same equipment.
@@ -178,7 +177,7 @@ Andy: One of the things that has always struck me is that these objects are rela
 
 ![](/\_static/app-assets/hap-1.jpg)
 
-*xxxxxx xxxxxxx *
+*M51, The Whirlpool Galaxy*
 
 Hap: A lot of the things that we shoot deep sky, what I say deep sky mean anything outside of our solar system. Which is ironic that things that are closest to us, the planets are tiny, and they, they, they're very tiny against the background sky, and you need specialized, long focal length telescopes and things to really photograph those. And that's not my cup of tea, I really go more for the deep sky objects that are outside our solar system, and even outside of our own galaxy.
 
@@ -246,6 +245,10 @@ Hap: Oh, gosh. Well, there's always, as in with any hobby, you've got the basics
 
 And just the concept of that, you know, I'm shooting something that's eight and a half billion light years away, you know, that just blows me away. So I like stuff like that. But I've also gotten into -- a friend of mine that is from Kosov -- she's studying for a masters in planetary science out in California. She and I became sort of project partners in astronomy, and we've done some talks together, some national conference talks together and things like that. And she is all into asteroids. And matter of fact, she has an asteroid named for her.
 
+![](/\_static/app-assets/NGC%207293%20-%20The%20Helix%20Nebula.jpg)
+
+*The Helix Nebula*
+
 So when we became friends a couple of years ago, about three years ago, I started trying to photograph the asteroid that was named for her. And I was successful at that. And then I got further into asteroid photography, where it turns out that, you know, asteroids are usually very small objects, they're, you know, anywhere from 1,000 yards or so to a mile or two and, you know, several miles in diameter. So they're the runts of the solar system, so to speak, they're planets that never came together, pieces of planets that never came together. So they're small. And so they're, they're also, they're not spherical. They are odd, they might be shaped like a peanut or something like that. And as they fly through space around the sun, they rotate. And so there's some measurements that you can make by measuring the brightness of an asteroid over time, extremely accurately by comparing its brightness to known stars that are in the background. And you can develop what's called a light curve. And you can, you can tell from this light curve, how fast that object is rotating. So that fascinates me.
 
 And that's something that my friend Pranvera and I have gotten into lately. And my goal was to find the rotational rate of her asteroid. And I've gotten most of the way there, but not quite all the way. I haven't got a full light curve yet. I need some more exposure time. And it's out of view right now on the other side of the world.
@@ -272,6 +275,10 @@ Andy: And these are incredible photos by the way. They're very, very dramatic. B
 
 Hap: Well, it's more work. Because you have to go out like say the day before. And they have a window of time where they let photographers, credentialed photographers, on the pads, and you have to get your work done really quickly. And when they say go, you gotta go. So I generally try to put out at least two still cameras and at least two video cameras at each launch. And sometimes I'm successful. And sometimes not. Sometimes things don't work right and end up with nothing. But for the most part, it's been very successful.
 
+![](/\_static/app-assets/NROL-37%20Launch%20-%20June%202016-2.jpg)
+
+*NROL-37 Launch, June 2016*
+
 Andy: And you have to keep those cameras powered on?
 
 Hap: Correct. Yeah, they have to be in the standby mode and waiting for a shutter click, basically, you have a sound sensor, that is a homemade sound sensor that listens for the sound of the rocket engine starting. At that point, it starts clicking the shutter as fast as the shutter will go. And, it clicks as many objects or as many images as it can before the rocket goes. You know, out of sight. And one of the things that I found that early on, when I was shooting down there, was that a lot of guys, we would ride out to the sites together and buses and things like that. And so we would talk about lots of things. And one of the things that the other photographers were wanting was some way to actually track the rocket as it went up. Because if you just set a camera there on a tripod, you're going to get the rocket on the pad. And when it leaves the pad, it flies up out of the field of view. And so you've only got so many usable images, if you could somehow track that rocket on the way up automatically without having to be there, that would be a cool thing.
@@ -295,10 +302,3 @@ Hap: Not at all, I guess it's appropriate that my grandmother said that the firs
 Andy: Absolutely. Hap you're such an inspiration and I'm so glad you took the time to talk with us today and come on the show and I can't thank you enough.
 
 Hap: Glad to be here.
-
-
-
-
-
-
-
