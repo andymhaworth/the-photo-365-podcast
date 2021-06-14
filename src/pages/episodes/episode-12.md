@@ -81,7 +81,11 @@ Hap is Vice President of Engineering for South Carolina Educational Television, 
 
 He's a contributor to Sky & Telescope Magazine, and a regular speaker at astronomy conferences. He's a longtime member of the Midlands Astronomy Club, and one of the founders of the MAC-Hunter observation site in Bethune, South Carolina. Oh, and he also photographs rocket launches at Cape Kennedy -- from the launchpad!
 
-His photography was recently selected for inclusion in a time capsule destined for the surface of the Moon, where it will survive for millenia.
+His photography was recently selected for inclusion in a time capsule destined for the surface of the Moon, where it will survive for millennia.
+
+![](/\_static/app-assets/Hap-image-1.jpg)
+
+*The Andromeda Galaxy*
 
 Hap, it's such a pleasure to be talking with you today, welcome to the show.
 
@@ -108,6 +112,8 @@ Andy: Absolutely. At what point did you start thinking about taking photos of th
 Hap: Well, I’ve always been into photography a little bit. And I've done some astronomy, astronomical photography, just working with cameras and tripods and things like that. But once I got into astronomy heavily, and got to a telescope that was worth anything, the next step was to hook a camera to it. And I quickly found out that it's a lot harder than it looks. There is a very steep learning curve. And I didn't have the right equipment at the time, the wrong type of mount for one thing. So it took the next several years of building, purchasing and putting together equipment and getting to where I was able to get some successful, deep sky shots, and it just went from there.
 
 Andy: Now, it's my understanding that when you're setting up a telescope for this type of deep sky photography, that the setup process is very tedious and precise, and you end up breaking it down and setting it back up again. Obviously, one of your goals was to create an observatory of some sort and you did.
+
+
 Hap: I really wanted to have something where I can permanently set up and align the equipment and have it ready to go when I was ready to go and just roll a roof back on a shared or small building and turn things on and be ready already aligned and ready to go. So I had been looking for like the corner of a farmer's cornfield or something like that, that I could lease and build a little small observatory.
 
 There's a place on the internet called Astro Mart, which is basically eBay for astronomical equipment. I was looking through there one day and I saw this ad that said, ‘free land for your observatory.’ And I thought, well, what is this and you know, I said, it's got to be out in California someplace or something like that. And turns out, it was only about 45 minutes up the road from where I live. And so I called and met the gentleman that owned the property. His name was Gene Hunter, and I went up there and met him. Turns out that he was an astronomer who had a lot of the same interests that I did; we almost had the same equipment.
@@ -115,6 +121,10 @@ There's a place on the internet called Astro Mart, which is basically eBay for a
 So we started talking about building an observatory on his property up there near Bethune, South Carolina, which is in one of the darker areas of the state. We decided, rather than building two observatories, we’d build one that was big enough to house both of our equipment. And over the next few months, we did that. Then, as members of the Astronomy Club came up to visit, they wanted to do the same thing. And so he donated the land. And we ended up with several more observatories there. And then finally, we decided that, you know, hey, we need to incorporate and Gene donated the land to the group. So we now jointly own the land up there, where we are, and we have five roll-off roof observatories and nine of us are members.
 
 And it’s just a great, great time to be up there on a weekend and have everybody there and we cook out and we sit out on the deck and play guitar, and we eat and observe satellites going over, while the cameras in the observatories are taking pictures.
+
+![](/\_static/app-assets/Hap-image-3.jpg)
+
+*The Pleiades cluster*
 
 Andy: I've had the pleasure to visit out there a few times. And it's a really amazing site. It's one of the few places I can think of in South Carolina where we can really get that dark, dark sky, which is so crucial to astrophotography. And in terms of photographing the night sky. Prior to digital technology, we had to worry about things like reciprocity failure in film, hyper sensitizing the film in various ways, but digital technology, it really changed all that. But there was a little bit of a problem in that some of these new digital cameras weren't able to see all of the spectrum that you would like to see as an astrophotographer. So you developed a solution to that. How did that come about?
 
@@ -125,6 +135,10 @@ But then it became apparent that DSLRs have a filter in them that fits over the 
 Unfortunately, one of the colors that is extremely important in astrophotography is a very deep red color that is given off by hydrogen gas that is glowing. And since you know 90% of the universe is hydrogen, we're missing out on a lot of the deep red color in a lot of the emission nebula, the deep, deep, deep sky objects. And the only way to capture that with a DSLR since they're nearly blind to it right out of the box, is to go in and modify the camera where you replace that internal filter with one that has a modified spectral response so that it can actually pass that deep red color that a stock camera is almost blind to.
 
 So anyway, I started back in 2003 modifying my own camera and then the word got around and I modified a few more for locals and had some people that were on some of the various internet chat groups that wanted me to modify theres. So I put together a website, so I didn't have to keep sending the same email out over and over again. And it just, it just exploded. And since 2003, I have modified over 3,500 cameras. So they're all over the world.
+
+![](/\_static/app-assets/hap-2.jpg)
+
+*The sensor is at the heart of a digital camera. Here, Hap has removed the sensor to install a hydrogen alpha filter. (Photo by Andrew Haworth)*
 
 Andy: Yeah, if you search for your name, of course, you find a lot of people talking about your camera modifications. And it's almost as if you've become a folk hero of sorts in the astrophotography world by providing this very important service. And speaking of imaging, I would love to hear about your process about how you get your fantastic images. Can you talk a little bit about that?
 
@@ -137,6 +151,10 @@ So there's a whole lot of estimated data in a single-shot color camera. And the 
 Andy: Essentially you're taking multiple exposures and stacking those exposures to create your final image. Is that correct?
 
 Hap: As it turns out again, we're looking at light that is so dim that it's coming in photon by photon actually. And if you really dive in and look closely at an individual image, say an individual 10 minute exposure, you think, you know, if you're shooting daylight 10 minutes is immensely long, but really not when you're shooting something that is so dark. And if you look really close at the image, what you'll find is that not all pixels are lit up at the same time. I mean, you have these individual photons that come in and form a sort of a spotty pattern. Then if you shoot another 10 minute exposure, what you'll find is that other pixels will pick up photons. And so if you combine 10 or 20 or 30 of these images together, then things fill in and all of the pixels are lit and you get a much smoother image by combining and averaging a number of exposures versus just a single exposure.
+
+![](/\_static/app-assets/Lagoon%20Nebula.jpg)
+
+*The Lagoon Nebula*
 
 Andy: I think a lot of photographers are familiar with the concept of noise in images, particularly as you start working in low light situations. As you increase the gain or increase your ISO on a camera you generally increase noise. You have a very unique way of dealing with noise and these very long exposures. When you're doing astrophotography, can you talk a little bit about that?
 
@@ -157,6 +175,10 @@ Hap: That's right, for instance, then you talk about the Horsehead. The Horsehea
 But if you can soak up all those photons over several hours, then yeah, you can make a dynamite image. And that's what's really there. I mean, you're not, we're not adding anything that's not there, we're just bringing up the contrast and showing the details and things that are exceedingly dim.
 
 Andy: One of the things that has always struck me is that these objects are relatively large in the sky. For instance, Andromeda is a really large object, and we can just barely see it. So it's not always about magnification so much as it is about light gathering capability.
+
+![](/\_static/app-assets/hap-1.jpg)
+
+*xxxxxx xxxxxxx *
 
 Hap: A lot of the things that we shoot deep sky, what I say deep sky mean anything outside of our solar system. Which is ironic that things that are closest to us, the planets are tiny, and they, they, they're very tiny against the background sky, and you need specialized, long focal length telescopes and things to really photograph those. And that's not my cup of tea, I really go more for the deep sky objects that are outside our solar system, and even outside of our own galaxy.
 
@@ -183,6 +205,10 @@ So what we're seeing is two images, two quasars that look like a star basically.
 
 And so it just, you know, it's mind blowing to think that we really have at our hands a real time machine here with a telescope.
 Andy: I get chills hearing you describe that. And I know the few times I've been out shooting under the stars -- and I'll preface this by saying I'm not a religious person -- but when I'm shooting the stars, I feel some sort of spiritual connection to something there. Do you have that feeling of wonderment when you're making these images in your observatory?
+
+![](/\_static/app-assets/hap-3.jpg)
+
+*The MAC-Hunter observation site. Hap's observatory is the first from left. (Photo by Andrew Haworth)*
 
 Hap: Being out under the night sky and seeing these things, and actually knowing what I'm seeing -- a lot of people see stars, and they don't really realize what they are, and where they are, and how distant they are. And they don't get that. That feeling of awe that someone who has studied the subject and really knows what, what they're seeing is.
 
@@ -270,22 +296,9 @@ Andy: Absolutely. Hap you're such an inspiration and I'm so glad you took the ti
 
 Hap: Glad to be here.
 
-![](/\_static/app-assets/hap-1.jpg)
 
-\*xxx xxxx xxxxx \*
 
-xxxx xxxx xxx xx xxx
 
-xxx xxx xxxx xxxxx x
 
-![](/\_static/app-assets/hap-2.jpg)
 
-*xxx xxxx xxxxx (Photo by Andrew Haworth)*
 
-*xxx xxxxx xxxxx xxxxx xxxx x*
-
-\*\*![](/\_static/app-assets/hap-3.jpg)
-
-*The Milky Way over Hap's observatory (far left) at the MAC-Hunter observation site in Bethune, SC. (Photo by Andrew Haworth)*
-
-xxxx xxxx xxxx xxxx xxxx xxxx
