@@ -79,7 +79,7 @@ Digital technology and software has revolutionized astrophotography. As photogra
 
 That turned into a side business, appropriately named ImagingInfinity, and to-date, he's modified thousands of cameras for clients, cementing his legacy in the astrophotography world, and earning him the 2012 Clyde Tombaugh Memorial Award for Innovation in Astronomy (and listeners, if you don't know who Clyde Tombaugh is, he's the guy that discovered Pluto).
 
-Hap is Vice President of Engineering for South Carolina Educational Television, where he oversees broadcast technology for 11 TV stations, 8 radio stations, and a multi-channel digital satellite network.
+Hap retired as Vice President of Engineering for South Carolina Educational Television in 2012, where he oversaw broadcast technology for 11 TV stations, 8 radio stations, and a multi-channel digital satellite network. He's still with the station as a consultant and project manager.
 
 He's a contributor to Sky & Telescope Magazine, and a regular speaker at astronomy conferences. He's a longtime member of the Midlands Astronomy Club, and one of the founders of the MAC-Hunter observation site in Bethune, South Carolina. Oh, and he also photographs rocket launches at Cape Kennedy -- from the launchpad!
 
