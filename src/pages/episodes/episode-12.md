@@ -53,8 +53,6 @@ thumb_image: /images/hap-index.jpg
 
 ### Transcript
 
-Imaging Infinity: A conversation with astrophotographer Hap Griffin
-
 His images represent a journey through space and time. They transport us to alien, glowing worlds on the edges of the universe, while still reminding us of what it means to be human.
 
 Today, I’m having a conversation with astrophotographer Hap Griffin.
