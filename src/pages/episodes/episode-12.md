@@ -31,13 +31,17 @@ thumb_image: /images/hap-index.jpg
 ---
 ### Show Notes
 
-*   xxx
+*   [ImagingInfinity, DSLR modifications by Hap Griffin](http://www.imaginginfinity.com/)
 
-*   xxx
+*   [The MAC-Hunter Observation Site](http://www.machunter.org/)
 
-*   xxx
+*   [Midlands Astronomy Club](https://midlandsastronomyclub.org/)
 
-*   xx
+*   [Slideshow of Hap's photography (set to music of Pink Floyd)](https://vimeo.com/496345933)
+
+*   [Hap's AstroBin gallery](https://www.astrobin.com/users/HapGriffin/)
+
+*   [The MoonArk](http://moonarts.org/)
 
 **Topics discussed:**
 
