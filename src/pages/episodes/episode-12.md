@@ -20,7 +20,7 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  title: 'Imaging Infinity: Shooting the stars with Hap Griffin'
+  title: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
   description: >-
     His images are a journey through space and time. They transport us to the
     edges of the universe, while still reminding us of what it means to be
