@@ -49,9 +49,9 @@ seo:
       value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
     - name: 'twitter:description'
       value: >-
-        For more than 40 years photographer Cecil J. Williams documented the
-        civil rights struggle in the deep south. Now in his 80s, he's still
-        fighting for freedom, justice and equality.
+        His images are a journey through space and time. They transport us to the
+        edges of the universe, while still reminding us of what it means to be
+        human.
     - name: 'twitter:image'
       value: /images/cecil-williams-ah-0_1.jpg
       relativeUrl: true
