@@ -40,7 +40,7 @@ seo:
         human.
       keyName: property
     - name: 'og:image'
-      value: /images/cecil-williams-ah-0_1.jpg
+      value: /images/hap-index.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -53,7 +53,7 @@ seo:
         edges of the universe, while still reminding us of what it means to be
         human.
     - name: 'twitter:image'
-      value: /images/cecil-williams-ah-0_1.jpg
+      value: /images/hap-index.jpg
       relativeUrl: true
 template: post
 image: /images/hap-workshop.jpg
