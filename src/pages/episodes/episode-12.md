@@ -36,8 +36,8 @@ seo:
     - name: 'og:description'
       value: >-
         His images are a journey through space and time. They transport us to the
-    edges of the universe, while still reminding us of what it means to be
-    human.
+        edges of the universe, while still reminding us of what it means to be
+        human.
       keyName: property
     - name: 'og:image'
       value: /images/cecil-williams-ah-0_1.jpg
