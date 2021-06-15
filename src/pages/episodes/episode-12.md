@@ -296,7 +296,7 @@ Andy: And these are incredible photos by the way. They're very, very dramatic. B
 
 Hap: Well, it's more work. Because you have to go out like say the day before. And they have a window of time where they let photographers, credentialed photographers, on the pads, and you have to get your work done really quickly. And when they say go, you gotta go. So I generally try to put out at least two still cameras and at least two video cameras at each launch. And sometimes I'm successful. And sometimes not. Sometimes things don't work right and end up with nothing. But for the most part, it's been very successful.
 
-![](/\_static/app-assets/NROL-37%20Launch%20-%20June%202016-2.jpg)
+![](/images/NROL-37%20Launch%20-%20June%202016-2.jpg)
 
 *NROL-37 Launch, June 2016*
 
