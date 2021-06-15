@@ -35,9 +35,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        His images are a journey through space and time. They transport us to the
-        edges of the universe, while still reminding us of what it means to be
-        human.
+        His images are a journey through space and time. They transport us to
+        the edges of the universe, while still reminding us of what it means to
+        be human.
       keyName: property
     - name: 'og:image'
       value: /images/hap-index.jpg
@@ -49,9 +49,9 @@ seo:
       value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
     - name: 'twitter:description'
       value: >-
-        His images are a journey through space and time. They transport us to the
-        edges of the universe, while still reminding us of what it means to be
-        human.
+        His images are a journey through space and time. They transport us to
+        the edges of the universe, while still reminding us of what it means to
+        be human.
     - name: 'twitter:image'
       value: /images/hap-index.jpg
       relativeUrl: true
@@ -293,9 +293,9 @@ Hap: Oh, gosh. Well, there's always, as in with any hobby, you've got the basics
 
 And just the concept of that, you know, I'm shooting something that's eight and a half billion light years away, you know, that just blows me away. So I like stuff like that. But I've also gotten into -- a friend of mine that is from Kosovo -- she's studying for a masters in planetary science out in California. She and I became sort of project partners in astronomy, and we've done some talks together, some national conference talks together and things like that. And she is all into asteroids. And matter of fact, she has an asteroid named for her.
 
-![](/images/NGC%207293%20-%20The%20Helix%20Nebula.jpg)
+**![](/\_static/app-assets/hap-comet-lovejoy.jpg)
 
-*The Helix Nebula*
+*Comet C/2014 Q2 Lovejoy*
 
 So when we became friends a couple of years ago, about three years ago, I started trying to photograph the asteroid that was named for her. And I was successful at that. And then I got further into asteroid photography, where it turns out that, you know, asteroids are usually very small objects, they're, you know, anywhere from 1,000 yards or so to a mile or two and, you know, several miles in diameter. So they're the runts of the solar system, so to speak, they're planets that never came together, pieces of planets that never came together. So they're small. And so they're, they're also, they're not spherical. They are odd, they might be shaped like a peanut or something like that. And as they fly through space around the sun, they rotate. And so there's some measurements that you can make by measuring the brightness of an asteroid over time, extremely accurately by comparing its brightness to known stars that are in the background. And you can develop what's called a light curve. And you can, you can tell from this light curve, how fast that object is rotating. So that fascinates me.
 
