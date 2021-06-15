@@ -21,7 +21,7 @@ episode_embed_html: >-
   allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
-  title: 'Freedom and Justice: A conversation with Cecil J. Williams'
+  title: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
   description: >-
     For more than 40 years photographer Cecil J. Williams documented the civil
     rights struggle in the deep south. Now in his 80s, he's still fighting for
@@ -31,7 +31,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Freedom and Justice: A conversation with Cecil J. Williams'
+      value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
       keyName: property
     - name: 'og:description'
       value: >-
