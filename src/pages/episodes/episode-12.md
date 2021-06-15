@@ -104,7 +104,7 @@ He's a contributor to Sky & Telescope Magazine, and a regular speaker at astrono
 
 His photography was recently selected for inclusion in a time capsule destined for the surface of the Moon, where it will survive for millennia.
 
-![](/\_static/app-assets/Hap-image-1.jpg)
+![](/images//Hap-image-1.jpg)
 
 *The Andromeda Galaxy*
 
