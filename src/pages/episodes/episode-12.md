@@ -172,7 +172,7 @@ Andy: Essentially you're taking multiple exposures and stacking those exposures 
 
 Hap: As it turns out again, we're looking at light that is so dim that it's coming in photon by photon actually. And if you really dive in and look closely at an individual image, say an individual 10 minute exposure, you think, you know, if you're shooting daylight 10 minutes is immensely long, but really not when you're shooting something that is so dark. And if you look really close at the image, what you'll find is that not all pixels are lit up at the same time. I mean, you have these individual photons that come in and form a sort of a spotty pattern. Then if you shoot another 10 minute exposure, what you'll find is that other pixels will pick up photons. And so if you combine 10 or 20 or 30 of these images together, then things fill in and all of the pixels are lit and you get a much smoother image by combining and averaging a number of exposures versus just a single exposure.
 
-![](/\_static/app-assets/Lagoon%20Nebula.jpg)
+![](/images/Lagoon%20Nebula.jpg)
 
 *The Lagoon Nebula*
 
