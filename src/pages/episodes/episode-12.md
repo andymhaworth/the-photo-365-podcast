@@ -226,7 +226,7 @@ So what we're seeing is two images, two quasars that look like a star basically.
 And so it just, you know, it's mind blowing to think that we really have at our hands a real time machine here with a telescope.
 Andy: I get chills hearing you describe that. And I know the few times I've been out shooting under the stars -- and I'll preface this by saying I'm not a religious person -- but when I'm shooting the stars, I feel some sort of spiritual connection to something there. Do you have that feeling of wonderment when you're making these images in your observatory?
 
-![](/\_static/app-assets/hap-3.jpg)
+![](/images/hap-3.jpg)
 
 *The MAC-Hunter observation site. Hap's observatory is the first from left. (Photo by Andrew Haworth)*
 
