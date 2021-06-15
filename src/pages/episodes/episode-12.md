@@ -142,7 +142,7 @@ So we started talking about building an observatory on his property up there nea
 
 And it’s just a great, great time to be up there on a weekend and have everybody there and we cook out and we sit out on the deck and play guitar, and we eat and observe satellites going over, while the cameras in the observatories are taking pictures.
 
-![](/\_static/app-assets/Hap-image-3.jpg)
+![](/images/Hap-image-3.jpg)
 
 *The Pleiades cluster*
 
