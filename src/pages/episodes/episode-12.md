@@ -196,7 +196,7 @@ But if you can soak up all those photons over several hours, then yeah, you can 
 
 Andy: One of the things that has always struck me is that these objects are relatively large in the sky. For instance, Andromeda is a really large object, and we can just barely see it. So it's not always about magnification so much as it is about light gathering capability.
 
-![](/\_static/app-assets/hap-1.jpg)
+![](/images/hap-1.jpg)
 
 *M51, The Whirlpool Galaxy*
 
