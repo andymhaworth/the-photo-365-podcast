@@ -15,7 +15,10 @@ excerpt: >-
 thumb_image_alt: Shooting the stars with Hap Griffin
 image_alt: Astrophotographer Hap Griffin in his workshop
 image_position: top
-episode_embed_html: '[EMBED CODE]'
+episode_embed_html: >-
+  <iframe src="https://open.spotify.com/embed/episode/5SLJ1CCDc1bi1a71k0a7qP"
+  width="100%" height="232" frameBorder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   title: 'Imaging Infinity: Shooting the stars with Hap Griffin'
   description: >-
