@@ -20,14 +20,41 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  title: 'Imaging Infinity: Shooting the stars with Hap Griffin'
+  type: stackbit_page_meta
+  title: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
   description: >-
     His images are a journey through space and time. They transport us to the
     edges of the universe, while still reminding us of what it means to be
     human.
-  robots: []
-  extra: []
-  type: stackbit_page_meta
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        His images are a journey through space and time. They transport us to the
+        edges of the universe, while still reminding us of what it means to be
+        human.
+      keyName: property
+    - name: 'og:image'
+      value: /images/hap-index.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
+    - name: 'twitter:description'
+      value: >-
+        His images are a journey through space and time. They transport us to the
+        edges of the universe, while still reminding us of what it means to be
+        human.
+    - name: 'twitter:image'
+      value: /images/hap-index.jpg
+      relativeUrl: true
 template: post
 image: /images/hap-workshop.jpg
 thumb_image: /images/hap-index.jpg
@@ -104,7 +131,7 @@ He's a contributor to Sky & Telescope Magazine, and a regular speaker at astrono
 
 His photography was recently selected for inclusion in a time capsule destined for the surface of the Moon, where it will survive for millennia.
 
-![](/\_static/app-assets/Hap-image-1.jpg)
+![](/images/Hap-image-1.jpg)
 
 *The Andromeda Galaxy*
 
@@ -142,7 +169,7 @@ So we started talking about building an observatory on his property up there nea
 
 And it’s just a great, great time to be up there on a weekend and have everybody there and we cook out and we sit out on the deck and play guitar, and we eat and observe satellites going over, while the cameras in the observatories are taking pictures.
 
-![](/\_static/app-assets/Hap-image-3.jpg)
+![](/images/Hap-image-3.jpg)
 
 *The Pleiades cluster*
 
@@ -156,7 +183,7 @@ Unfortunately, one of the colors that is extremely important in astrophotography
 
 So anyway, I started back in 2003 modifying my own camera and then the word got around and I modified a few more for locals and had some people that were on some of the various internet chat groups that wanted me to modify theres. So I put together a website, so I didn't have to keep sending the same email out over and over again. And it just, it just exploded. And since 2003, I have modified over 3,500 cameras. So they're all over the world.
 
-![](/\_static/app-assets/hap-2.jpg)
+![](/images/hap-2.jpg)
 
 *The sensor is at the heart of a digital camera. Here, Hap has removed the sensor to install a hydrogen alpha filter. (Photo by Andrew Haworth)*
 
@@ -172,7 +199,7 @@ Andy: Essentially you're taking multiple exposures and stacking those exposures 
 
 Hap: As it turns out again, we're looking at light that is so dim that it's coming in photon by photon actually. And if you really dive in and look closely at an individual image, say an individual 10 minute exposure, you think, you know, if you're shooting daylight 10 minutes is immensely long, but really not when you're shooting something that is so dark. And if you look really close at the image, what you'll find is that not all pixels are lit up at the same time. I mean, you have these individual photons that come in and form a sort of a spotty pattern. Then if you shoot another 10 minute exposure, what you'll find is that other pixels will pick up photons. And so if you combine 10 or 20 or 30 of these images together, then things fill in and all of the pixels are lit and you get a much smoother image by combining and averaging a number of exposures versus just a single exposure.
 
-![](/\_static/app-assets/Lagoon%20Nebula.jpg)
+![](/images/Lagoon%20Nebula.jpg)
 
 *The Lagoon Nebula*
 
@@ -196,7 +223,7 @@ But if you can soak up all those photons over several hours, then yeah, you can 
 
 Andy: One of the things that has always struck me is that these objects are relatively large in the sky. For instance, Andromeda is a really large object, and we can just barely see it. So it's not always about magnification so much as it is about light gathering capability.
 
-![](/\_static/app-assets/hap-1.jpg)
+![](/images/hap-1.jpg)
 
 *M51, The Whirlpool Galaxy*
 
@@ -226,7 +253,7 @@ So what we're seeing is two images, two quasars that look like a star basically.
 And so it just, you know, it's mind blowing to think that we really have at our hands a real time machine here with a telescope.
 Andy: I get chills hearing you describe that. And I know the few times I've been out shooting under the stars -- and I'll preface this by saying I'm not a religious person -- but when I'm shooting the stars, I feel some sort of spiritual connection to something there. Do you have that feeling of wonderment when you're making these images in your observatory?
 
-![](/\_static/app-assets/hap-3.jpg)
+![](/images/hap-3.jpg)
 
 *The MAC-Hunter observation site. Hap's observatory is the first from left. (Photo by Andrew Haworth)*
 
@@ -266,7 +293,7 @@ Hap: Oh, gosh. Well, there's always, as in with any hobby, you've got the basics
 
 And just the concept of that, you know, I'm shooting something that's eight and a half billion light years away, you know, that just blows me away. So I like stuff like that. But I've also gotten into -- a friend of mine that is from Kosovo -- she's studying for a masters in planetary science out in California. She and I became sort of project partners in astronomy, and we've done some talks together, some national conference talks together and things like that. And she is all into asteroids. And matter of fact, she has an asteroid named for her.
 
-![](/\_static/app-assets/NGC%207293%20-%20The%20Helix%20Nebula.jpg)
+![](/images/NGC%207293%20-%20The%20Helix%20Nebula.jpg)
 
 *The Helix Nebula*
 
@@ -296,7 +323,7 @@ Andy: And these are incredible photos by the way. They're very, very dramatic. B
 
 Hap: Well, it's more work. Because you have to go out like say the day before. And they have a window of time where they let photographers, credentialed photographers, on the pads, and you have to get your work done really quickly. And when they say go, you gotta go. So I generally try to put out at least two still cameras and at least two video cameras at each launch. And sometimes I'm successful. And sometimes not. Sometimes things don't work right and end up with nothing. But for the most part, it's been very successful.
 
-![](/\_static/app-assets/NROL-37%20Launch%20-%20June%202016-2.jpg)
+![](/images/NROL-37%20Launch%20-%20June%202016-2.jpg)
 
 *NROL-37 Launch, June 2016*
 
