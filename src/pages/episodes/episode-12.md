@@ -45,11 +45,27 @@ thumb_image: /images/hap-index.jpg
 
 **Topics discussed:**
 
-*   xxx
+*   (05:44) Growing up, loving space
 
-*   xxx
+*   (08:07) Getting serious about astronomy
 
-*   xxx
+*   (10:12) Building an observatory
+
+*   (13:17) Modifying cameras
+
+*   (16:16) Hap's photographic process
+
+*   (29:53) Reflections on time
+
+*   (34:30) Art vs. science
+
+*   (38:44) Advice for beginners
+
+*   (40:16) His favorite objects to photograph
+
+*   (43:35) Photographing rockets
+
+*   (52:28) The MoonArk project
 
 ### Transcript
 
