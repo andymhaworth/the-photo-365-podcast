@@ -46,7 +46,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Freedom and Justice: A conversation with Cecil J. Williams'
+      value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
     - name: 'twitter:description'
       value: >-
         For more than 40 years photographer Cecil J. Williams documented the
