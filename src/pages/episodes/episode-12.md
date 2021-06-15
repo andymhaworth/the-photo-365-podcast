@@ -156,7 +156,7 @@ Unfortunately, one of the colors that is extremely important in astrophotography
 
 So anyway, I started back in 2003 modifying my own camera and then the word got around and I modified a few more for locals and had some people that were on some of the various internet chat groups that wanted me to modify theres. So I put together a website, so I didn't have to keep sending the same email out over and over again. And it just, it just exploded. And since 2003, I have modified over 3,500 cameras. So they're all over the world.
 
-![](/\_static/app-assets/hap-2.jpg)
+![](/images/hap-2.jpg)
 
 *The sensor is at the heart of a digital camera. Here, Hap has removed the sensor to install a hydrogen alpha filter. (Photo by Andrew Haworth)*
 
