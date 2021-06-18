@@ -13,7 +13,7 @@ sections:
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
-    show_recent: true
+    show_recent: false
     show_date: true
     show_categories: false
     show_author: false
