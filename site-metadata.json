@@ -29,6 +29,17 @@
                 "url": "https://www.buymeacoffee.com/photo365",
                 "style": "link",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "apple-podcasts",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_secondary_nav": true,
