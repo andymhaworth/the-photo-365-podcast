@@ -31,17 +31,6 @@
                 "new_window": true
             },
             {
-                "label": "Our Facebook page",
-                "url": "http://facebook.com/photo365podcast",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "center",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Instagram",
                 "url": "http://instagram.com/photo365podcast",
                 "style": "link",
