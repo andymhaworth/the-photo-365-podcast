@@ -29,17 +29,6 @@
                 "url": "https://www.buymeacoffee.com/photo365",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/photo365podcast",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_secondary_nav": true,
