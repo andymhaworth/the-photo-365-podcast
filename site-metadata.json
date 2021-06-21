@@ -34,7 +34,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "koobecaF",
+                "label": "Facebook",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
