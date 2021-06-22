@@ -148,11 +148,3 @@ Put the information in your images to use, and enjoy looking back at them a year
 I’m going to close with a quote from Sontag. As I mentioned in an earlier episode, her collection of essays titled *On Photography* is essential reading for any photographer.
 
 She says: “Photographs are a way of imprisoning reality ... One can’t possess reality, one can possess images -- one can’t possess the present but one can possess the past.”
-
-Folks, thanks for listening to this episode of Photo 365.
-
-If you enjoy the show, please share it with friends, and if you’re a photographer, I’d love to hear from you or see what you’re working on. You can contact me at the show website, photo365podcast.com.
-
-Photo 365 is my hobby, but if you find some value in what I’m doing here, you can support the show by sliding some virtual coffees my way at buymeacoffee.com/photo365.
-
-Keep looking out for great images, keep shooting, and we’ll see you next time!
