@@ -13,7 +13,7 @@ excerpt: >-
   media, and so on. But what about the more mundane days of our lives?
   Photography can help you remember those too.
 thumb_image_alt: Episode 13
-image_alt: lorem-ipsum
+image_alt: Episode 13
 image_position: top
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/4yVh5VSkcwKmQeFEJV8rh7"
