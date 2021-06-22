@@ -27,6 +27,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/April_1_03.jpg
+image: /images/April_1_03.jpg
 ---
 ### Show Notes
 
