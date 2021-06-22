@@ -105,7 +105,7 @@ I like to use photography to form what some note-taking gurus refer to as their 
 
 By the way, have you noticed there are SO many note-taking applications available to us nowadays? From old standards like Evernote and Google Keep, to new hot apps like Roam Research, Mem, and Notion. And there are the “analog” methods, pen and paper, bullet journals, day planners and so on. I’ve always been partial to a nice fountain pen and a Field Notes journal.
 
-![](/\_static/app-assets/May%205.jpg)
+![](/images/May%205.jpg)
 
 *May 5, 2018 (Andrew Haworth)*
 
