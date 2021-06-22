@@ -36,7 +36,7 @@ seo:
         We take photos to document life events; we post memorable moments to social media, and so on. But what about the more mundane days of our lives? Photography can help you remember those too.
       keyName: property
     - name: 'og:image'
-      value: /images/hap-index.jpg
+      value: /images/April_1_03.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -47,7 +47,7 @@ seo:
       value: >-
         We take photos to document life events; we post memorable moments to social media, and so on. But what about the more mundane days of our lives? Photography can help you remember those too.
     - name: 'twitter:image'
-      value: /images/hap-index.jpg
+      value: /images/April_1_03.jpg
       relativeUrl: true
 template: post
 thumb_image: /images/April_1_03.jpg
