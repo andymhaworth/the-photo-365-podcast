@@ -21,7 +21,7 @@ episode_embed_html: >-
   allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
-  title: 'Building a 'second brain' with photography'
+  title: 'Building a second brain with photography'
   description: >-
     We take photos to document life events; we post memorable moments to social media, and so on. But what about the more mundane days of our lives? Photography can help you remember those too.
   extra:
