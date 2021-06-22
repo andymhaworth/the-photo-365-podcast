@@ -46,7 +46,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
+      value: 'Building a 'second brain' with photography'
     - name: 'twitter:description'
       value: >-
         His images are a journey through space and time. They transport us to
