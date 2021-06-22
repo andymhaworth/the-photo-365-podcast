@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Building a 'second brain' with photography
 subtitle: lorem-ipsum
 date: '2021-06-22'
 categories: []
