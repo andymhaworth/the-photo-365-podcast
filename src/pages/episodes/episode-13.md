@@ -137,7 +137,7 @@ The study theorized, the only kind of photo, then, which does not impair your me
 
 Memory experts offer up some practical tips when trying to learn: Put information to use, learn in “packets” of data -- smaller chunks that are easier to deal with. They also suggest sharing information with others. The interaction and resulting feedback are both shown to help you recall memories later.
 
-![](/\_static/app-assets/Friday-0001.jpg)
+![](/images/Friday-0001.jpg)
 
 *October 20, 2017 (Andrew Haworth)*
 
