@@ -12,7 +12,7 @@ excerpt: >-
   We take photos to document life events; we post memorable moments to social
   media, and so on. But what about the more mundane days of our lives?
   Photography can help you remember those too.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Episode 13
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: >-
