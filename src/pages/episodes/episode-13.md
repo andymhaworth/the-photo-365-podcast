@@ -20,14 +20,41 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  title: Building a 'second brain' with photography
-  description: >-
-    We take photos to document life events; we post memorable moments to social
-    media, and so on. But what about the more mundane days of our lives?
-    Photography can help you remember those too.
-  robots: []
-  extra: []
   type: stackbit_page_meta
+  title: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
+  description: >-
+    His images are a journey through space and time. They transport us to the
+    edges of the universe, while still reminding us of what it means to be
+    human.
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        His images are a journey through space and time. They transport us to
+        the edges of the universe, while still reminding us of what it means to
+        be human.
+      keyName: property
+    - name: 'og:image'
+      value: /images/hap-index.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
+    - name: 'twitter:description'
+      value: >-
+        His images are a journey through space and time. They transport us to
+        the edges of the universe, while still reminding us of what it means to
+        be human.
+    - name: 'twitter:image'
+      value: /images/hap-index.jpg
+      relativeUrl: true
 template: post
 thumb_image: /images/April_1_03.jpg
 image: /images/April_1_03.jpg
