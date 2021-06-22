@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Building a 'second brain' with photography'
+      value: 'Building a second brain with photography'
     - name: 'twitter:description'
       value: >-
         We take photos to document life events; we post memorable moments to social media, and so on. But what about the more mundane days of our lives? Photography can help you remember those too.
