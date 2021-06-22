@@ -29,7 +29,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Building a 'second brain' with photography'
+      value: 'Building a second brain with photography'
       keyName: property
     - name: 'og:description'
       value: >-
