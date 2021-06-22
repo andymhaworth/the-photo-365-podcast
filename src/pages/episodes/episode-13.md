@@ -45,9 +45,7 @@ seo:
       value: 'Building a 'second brain' with photography'
     - name: 'twitter:description'
       value: >-
-        His images are a journey through space and time. They transport us to
-        the edges of the universe, while still reminding us of what it means to
-        be human.
+        We take photos to document life events; we post memorable moments to social media, and so on. But what about the more mundane days of our lives? Photography can help you remember those too.
     - name: 'twitter:image'
       value: /images/hap-index.jpg
       relativeUrl: true
