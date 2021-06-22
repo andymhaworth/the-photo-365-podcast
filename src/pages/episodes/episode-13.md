@@ -5,7 +5,8 @@ subtitle: >-
   media, and so on. But what about the more mundane days of our lives?
   Photography can help you remember those too.
 date: '2021-06-22'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
