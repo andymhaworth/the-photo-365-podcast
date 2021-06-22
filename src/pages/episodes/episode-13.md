@@ -21,7 +21,7 @@ episode_embed_html: >-
   allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
-  title: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
+  title: 'Building a 'second brain' with photography'
   description: >-
     His images are a journey through space and time. They transport us to the
     edges of the universe, while still reminding us of what it means to be
@@ -31,7 +31,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Imaging Infinity: Shooting the cosmos with Hap Griffin'
+      value: 'Building a 'second brain' with photography'
       keyName: property
     - name: 'og:description'
       value: >-
