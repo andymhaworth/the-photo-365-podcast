@@ -77,7 +77,7 @@ In my case, one of the unexpected and most gratifying consequences of taking pho
 
 Now, I don’t have a remarkable memory. I certainly don’t have an eidetic, or photographic, memory. I struggle to remember little things like chores, people’s names, tasks I need to complete at work, and a host of other short-term applications. But as a photographer, I’ve discovered that if I’ve ever taken a photo of someone, I can often remember their face, especially if it was something I shot for a news story or magazine article.
 
-![](/\_static/app-assets/June%2025.jpg)
+![](/images/June%2025.jpg)
 
 *June 25, 2018 (Andrew Haworth)*
 
