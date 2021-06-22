@@ -77,7 +77,7 @@ In my case, one of the unexpected and most gratifying consequences of taking pho
 
 Now, I don’t have a remarkable memory. I certainly don’t have an eidetic, or photographic, memory. I struggle to remember little things like chores, people’s names, tasks I need to complete at work, and a host of other short-term applications. But as a photographer, I’ve discovered that if I’ve ever taken a photo of someone, I can often remember their face, especially if it was something I shot for a news story or magazine article.
 
-![](/\_static/app-assets/June%2025.jpg)
+![](/images/June%2025.jpg)
 
 *June 25, 2018 (Andrew Haworth)*
 
@@ -105,7 +105,7 @@ I like to use photography to form what some note-taking gurus refer to as their 
 
 By the way, have you noticed there are SO many note-taking applications available to us nowadays? From old standards like Evernote and Google Keep, to new hot apps like Roam Research, Mem, and Notion. And there are the “analog” methods, pen and paper, bullet journals, day planners and so on. I’ve always been partial to a nice fountain pen and a Field Notes journal.
 
-![](/\_static/app-assets/May%205.jpg)
+![](/images/May%205.jpg)
 
 *May 5, 2018 (Andrew Haworth)*
 
@@ -137,7 +137,7 @@ The study theorized, the only kind of photo, then, which does not impair your me
 
 Memory experts offer up some practical tips when trying to learn: Put information to use, learn in “packets” of data -- smaller chunks that are easier to deal with. They also suggest sharing information with others. The interaction and resulting feedback are both shown to help you recall memories later.
 
-![](/\_static/app-assets/Friday-0001.jpg)
+![](/images/Friday-0001.jpg)
 
 *October 20, 2017 (Andrew Haworth)*
 
@@ -148,11 +148,3 @@ Put the information in your images to use, and enjoy looking back at them a year
 I’m going to close with a quote from Sontag. As I mentioned in an earlier episode, her collection of essays titled *On Photography* is essential reading for any photographer.
 
 She says: “Photographs are a way of imprisoning reality ... One can’t possess reality, one can possess images -- one can’t possess the present but one can possess the past.”
-
-Folks, thanks for listening to this episode of Photo 365.
-
-If you enjoy the show, please share it with friends, and if you’re a photographer, I’d love to hear from you or see what you’re working on. You can contact me at the show website, photo365podcast.com.
-
-Photo 365 is my hobby, but if you find some value in what I’m doing here, you can support the show by sliding some virtual coffees my way at buymeacoffee.com/photo365.
-
-Keep looking out for great images, keep shooting, and we’ll see you next time!
