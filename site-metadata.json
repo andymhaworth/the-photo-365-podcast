@@ -34,6 +34,39 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/photo365podcast",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "center",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/photo365podcast/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/photo365podcast",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "type": "action",
                 "label": "Subscribe",
                 "url": "/subscribe",
