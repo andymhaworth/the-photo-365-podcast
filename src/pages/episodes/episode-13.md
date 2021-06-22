@@ -14,7 +14,7 @@ excerpt: >-
   Photography can help you remember those too.
 thumb_image_alt: Episode 13
 image_alt: Episode 13
-image_position: top
+image_position: right
 episode_embed_html: >-
   <iframe src="https://open.spotify.com/embed/episode/4yVh5VSkcwKmQeFEJV8rh7"
   width="100%" height="232" frameBorder="0" allowtransparency="true"
