@@ -53,6 +53,10 @@ In my case, one of the unexpected and most gratifying consequences of taking pho
 
 Now, I don’t have a remarkable memory. I certainly don’t have an eidetic, or photographic, memory. I struggle to remember little things like chores, people’s names, tasks I need to complete at work, and a host of other short-term applications. But as a photographer, I’ve discovered that if I’ve ever taken a photo of someone, I can often remember their face, especially if it was something I shot for a news story or magazine article.
 
+![](/\_static/app-assets/June%2025.jpg)
+
+*June 25, 2018 (Andrew Haworth)*
+
 Here’s an example. A few months back I noticed a guy in a local restaurant who looked vaguely familiar -- keep in mind, everyone was wearing Covid masks -- so it took me a moment to recall where I knew him from. I finally sorted it out, and when he walked by me, I casually asked him if he played drums. He looked confused, and said he was a bass player. But then said he did know how to play drums. I asked him if he’d ever acted in a student film about 15 years prior. Again, the look of confusion, but then he admitted he had.
 
 It turns out this gentleman had played a role in a project I’d worked on when I was in graduate school. In the film, he played the character of a drummer in a garage band. And because I’d stared at this guy through a video camera viewfinder for a few days, and later during the editing process, I’d built some memory pathways.
@@ -76,6 +80,10 @@ How many people do you know who shoot hundreds or thousands of images on their p
 I like to use photography to form what some note-taking gurus refer to as their “second brain.”
 
 By the way, have you noticed there are SO many note-taking applications available to us nowadays? From old standards like Evernote and Google Keep, to new hot apps like Roam Research, Mem, and Notion. And there are the “analog” methods, pen and paper, bullet journals, day planners and so on. I’ve always been partial to a nice fountain pen and a Field Notes journal.
+
+![](/\_static/app-assets/May%205.jpg)
+
+*May 5, 2018 (Andrew Haworth)*
 
 If it makes any difference, I started writing this script in Mem, then transitioned to Obsidian. These are apps that go beyond simple note-taking. They are based on a card-and-box note system called a “zettelkasten,” German for “slip box.” The idea here is that notes can be filed and organized using a method that links information together in a meaningful way. This is an important concept in what’s known as “personal knowledge management,” or the “second brain.”
 
@@ -104,6 +112,10 @@ In another study, this time at Fairfield University, the same so-called “photo
 The study theorized, the only kind of photo, then, which does not impair your memory is the one that forces you to pay attention and, in effect, “be in the moment.” Or as I think of it, interacting with your images.
 
 Memory experts offer up some practical tips when trying to learn: Put information to use, learn in “packets” of data -- smaller chunks that are easier to deal with. They also suggest sharing information with others. The interaction and resulting feedback are both shown to help you recall memories later.
+
+![](/\_static/app-assets/Friday-0001.jpg)
+
+*October 20, 2017 (Andrew Haworth)*
 
 I think you can see parallels there with the photographic process. Photos themselves are “packets” of sorts, and putting your work out there, whether it’s on a personal website, Instagram or in a physical gallery, is an example of sharing.
 
