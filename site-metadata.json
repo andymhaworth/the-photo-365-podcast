@@ -124,16 +124,6 @@
         "social_links": [
             {
                 "type": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/photo365podcast",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "Facebook",
                 "url": "https://www.facebook.com/",
                 "style": "link",
@@ -149,6 +139,16 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/photo365podcast",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
                 "icon_position": "center",
                 "new_window": true
             }
