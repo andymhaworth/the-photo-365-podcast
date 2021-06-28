@@ -6,7 +6,9 @@ subtitle: >-
 date: '2021-06-28'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Are you unhappy with your progress as a photographer? Creatively, do you feel
+  like you’ve reached a plateau, or worse, have you fallen into a valley?
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
