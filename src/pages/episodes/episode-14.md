@@ -23,6 +23,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/May 23_02.jpg
+image: /images/May 23_02.jpg
 ---
 ### Show Notes
 
