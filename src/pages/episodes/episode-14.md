@@ -125,7 +125,7 @@ On an assignment to cover the closure of a textile company, I went out of my way
 
 That was the point where I let go of the window light portrait as my gimmick. Now, it’s just another technique that I use as needed, but I don’t rely on it exclusively. I don’t associate it with my personal style anymore. That was one bad habit I was able to let go of, but there are many more.
 
-![](/\_static/app-assets/PXL\_20210404\_131733336.MP.jpg)
+![](/\_static/app-assets/purple-owl.jpg)
 
 *Snapshots from New Orleans, less than a week after Katrina. Top, my buddy Rodney, who carted me all around New Orleans, and below, a shot he took of me on Bourbon Street. I can't believe I was ever that young and scrawny. Both were shot with the Canon EF 24-70 f/2.8.*
 
