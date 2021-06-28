@@ -9,7 +9,8 @@ categories:
 tags: []
 excerpt: >-
   Are you unhappy with your progress as a photographer? Creatively, do you feel
-  like you’ve reached a plateau, or worse, have you fallen into a valley?
+  like you’ve reached a plateau, or worse, have you fallen into a valley? it may
+  be time to let go of what you’ve done in the past
 thumb_image_alt: Episode 14
 image_alt: lorem-ipsum
 image_position: top
