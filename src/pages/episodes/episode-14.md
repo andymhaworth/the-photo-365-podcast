@@ -55,6 +55,10 @@ Here were the first prime lenses I ever bought, a 24mm and a 20mm, from way back
 
 This was gear that allowed me to support myself and my hobbies, gear that gave me the license and access to work as a journalist. These lenses imaged pets that have come and gone, people, including close family members -- who are no longer with us, faces in anguish on the worst days of their lives, and smiling faces on their happiest days. I captured tragedy, disaster, and celebration alike with this glass, from the devastation of Hurricane Katrina, to sunsets across the vineyards of Sonoma.
 
+![](/\_static/app-assets/sfogle\_1.jpg)
+
+*"Mr. Fair" Sam Fogle, shot in 1998 with a Canon EF 85mm f/1.8 lens (Andrew Haworth)*
+
 I wasn’t just liquidating my Canon gear either. Perhaps the hardest piece of gear to let go of was my Fujifilm X100 -- the camera that went everywhere with me for a solid year, as I churned through my photo-a-day project. I’m not going to lie, as I placed it back in its pristine original packaging, encased it in bubble wrap and sealed up the cardboard shipping box, it felt like I was nailing a coffin shut.
 
 The next morning, I dropped off three large, densely-packed boxes of gear at a local FedEx. As the clerk slapped shipping labels on them, I considered telling him what was inside as if he’d somehow take extra-special care of them as they were ferried off to their new life. I decided he probably didn’t give a damn about what I was shipping or my personal hang-ups.
@@ -88,6 +92,10 @@ I loved my first photography class because it taught me the basics, and it lit a
 Some of these rules are simply basic camera operation guidelines. Worse are the tired cliches regarding creative thinking we seem hellbent on repeating.
 
 Things like, “zoom with your feet,” (guilty as charged, I said this in a previous episode) and “If the photo isn’t good enough, you’re not close enough.” We extol the virtue of the “decisive moment” as if that’s the only motivation for image making. I often cite the Rule of Thirds as the key that unlocked photography for me. Sometimes I wish it wasn’t programmed into my brain.
+
+![](/\_static/app-assets/skipp_pearson\_6.jpg)
+
+*Skipp Pearson, photographed in 2013 with a Canon 5D Mark II and 50mm f/1.2 lens. (Andrew Haworth)*
 
 Have you looked at any photography news sites lately? If you browse Medium, it seems like every other photography article is something like “10 ways to improve your photography now” or “5 ways to take your photography to the next level” and so on. And we click on this stuff, only to find “zoom with your feet,” “leading lines,” “observe light” and -- no kidding -- “look at weather reports,” and similar recycled advice that’s been with us since the era of the Brownie camera.
 
