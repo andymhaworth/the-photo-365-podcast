@@ -3,7 +3,7 @@ title: 14. Let go of the past to define the future
 subtitle: >-
   Are you unhappy with your progress as a photographer? Creatively, do you feel
   like you’ve reached a plateau, or worse, have you fallen into a valley?
-date: '2021-06-28'
+date: '2021-06-29'
 categories: []
 tags: []
 excerpt: >-
