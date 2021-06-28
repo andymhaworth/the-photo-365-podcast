@@ -4,7 +4,8 @@ subtitle: >-
   Are you unhappy with your progress as a photographer? Creatively, do you feel
   like you’ve reached a plateau, or worse, have you fallen into a valley?
 date: '2021-06-29'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: >-
   Are you unhappy with your progress as a photographer? Creatively, do you feel
