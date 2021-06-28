@@ -12,7 +12,7 @@ excerpt: >-
   like you’ve reached a plateau, or worse, have you fallen into a valley?
 thumb_image_alt: Episode 14
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 episode_embed_html: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
