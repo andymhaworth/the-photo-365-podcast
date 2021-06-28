@@ -1,5 +1,5 @@
 ---
-title: '14.'
+title: 14. Let go of the past to define the future
 subtitle: lorem-ipsum
 date: '2021-06-28'
 categories: []
