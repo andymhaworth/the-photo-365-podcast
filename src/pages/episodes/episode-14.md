@@ -127,7 +127,7 @@ That was the point where I let go of the window light portrait as my gimmick. No
 
 ![](/\_static/app-assets/purple-owl.jpg)
 
-*Snapshots from New Orleans, less than a week after Katrina. Top, my buddy Rodney, who carted me all around New Orleans, and below, a shot he took of me on Bourbon Street. I can't believe I was ever that young and scrawny. Both were shot with the Canon EF 24-70 f/2.8.*
+*Snapshots from New Orleans, less than a week after Katrina. Top, my buddy Melvin, who carted me all around New Orleans, and below, a shot he took of me on Bourbon Street. I can't believe I was ever that young and scrawny. Both were shot with the Canon EF 24-70 f/2.8.*
 
 Sadly, I’ve contributed to these issues in my own work teaching photography in colleges and universities. For here on, I won’t be recycling my old lectures. I won’t be teaching the way I was taught.
 
