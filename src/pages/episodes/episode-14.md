@@ -43,7 +43,7 @@ seo:
         Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
       keyName: property
     - name: 'og:image'
-      value: /images/April_1_03.jpg
+      value: /images/May 23_02.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
