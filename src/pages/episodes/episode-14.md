@@ -30,9 +30,7 @@ seo:
   type: stackbit_page_meta
   title: Let go of the past to define the future
   description: >-
-    We take photos to document life events; we post memorable moments to social
-    media, and so on. But what about the more mundane days of our lives?
-    Photography can help you remember those too.
+    Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
   extra:
     - name: 'og:type'
       value: article
