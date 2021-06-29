@@ -15,8 +15,9 @@ thumb_image_alt: Episode 14
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  <iframe src="https://open.spotify.com/embed/episode/5eUwHGoPW8nXxzBNCE79H5"
+  width="100%" height="232" frameBorder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   title: ''
   description: ''
