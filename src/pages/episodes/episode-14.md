@@ -29,7 +29,7 @@ image: /images/May 23_02.jpg
 ---
 ### Show Notes&#xD;
 
-In this episode I talk about letting go of cameras and lenses I've owned for nearly a quarter century; and how letting go of bad habits and preconceptions can make us better, or at least happier, photographers.
+In this episode I talk about letting go of cameras and lenses I've owned for nearly a quarter century, and how letting go of bad habits and preconceptions can make us better, or at least happier, photographers.
 
 ### Transcript
 
