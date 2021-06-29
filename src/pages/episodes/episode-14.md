@@ -19,14 +19,6 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  title: Let go of the past to define the future
-  description: >-
-    Are you unhappy with your progress as a photographer? Creatively, do you
-    feel like you’ve reached a plateau, or worse, have you fallen into a valley?
-  robots: []
-  extra: []
-  type: stackbit_page_meta
-  seo:
   type: stackbit_page_meta
   title: Let go of the past to define the future
   description: >-
