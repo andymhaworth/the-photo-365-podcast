@@ -94,7 +94,7 @@ Some of these rules are simply basic camera operation guidelines. Worse are the 
 
 Things like, “zoom with your feet,” (guilty as charged, I said this in a previous episode) and “If the photo isn’t good enough, you’re not close enough.” We extol the virtue of the “decisive moment” as if that’s the only motivation for image making. I often cite the Rule of Thirds as the key that unlocked photography for me. Sometimes I wish it wasn’t programmed into my brain.
 
-![](/\_static/app-assets/skipp_pearson\_6.jpg)
+![](/images/skipp_pearson\_6.jpg)
 
 *Skipp Pearson, photographed in 2013 with a Canon 5D Mark II and 50mm f/1.2 lens. (Andrew Haworth)*
 
