@@ -63,7 +63,6 @@ seo:
       value: /images/April_1_03.jpg
       relativeUrl: true
 template: post
-template: post
 thumb_image: /images/May 23_02.jpg
 image: /images/May 23_02.jpg
 ---
