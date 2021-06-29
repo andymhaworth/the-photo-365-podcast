@@ -54,7 +54,7 @@ seo:
       value: >-
         Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
     - name: 'twitter:image'
-      value: /images/April_1_03.jpg
+      value: /images/May 23_02.jpg
       relativeUrl: true
 template: post
 thumb_image: /images/May 23_02.jpg
