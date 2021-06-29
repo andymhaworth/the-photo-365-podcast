@@ -28,7 +28,7 @@ seo:
   type: stackbit_page_meta
   seo:
   type: stackbit_page_meta
-  title: Building a second brain with photography
+  title: Let go of the past to define the future
   description: >-
     We take photos to document life events; we post memorable moments to social
     media, and so on. But what about the more mundane days of our lives?
