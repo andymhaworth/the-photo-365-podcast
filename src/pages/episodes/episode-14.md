@@ -19,7 +19,7 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  title: ''
+  title: Let go of the past to define the future
   description: ''
   robots: []
   extra: []
