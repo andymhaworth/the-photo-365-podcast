@@ -56,7 +56,7 @@ Here were the first prime lenses I ever bought, a 24mm and a 20mm, from way back
 
 This was gear that allowed me to support myself and my hobbies, gear that gave me the license and access to work as a journalist. These lenses imaged pets that have come and gone, people, including close family members -- who are no longer with us, faces in anguish on the worst days of their lives, and smiling faces on their happiest days. I captured tragedy, disaster, and celebration alike with this glass, from the devastation of Hurricane Katrina, to sunsets across the vineyards of Sonoma.
 
-![](/\_static/app-assets/sfogle\_1.jpg)
+![](/images/sfogle\_1.jpg)
 
 *"Mr. Fair" Sam Fogle, shot in 1998 with a Canon EF 85mm f/1.8 lens (Andrew Haworth)*
 
