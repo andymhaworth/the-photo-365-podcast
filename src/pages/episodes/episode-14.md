@@ -38,7 +38,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Building a second brain with photography
+      value: Let go of the past to define the future
       keyName: property
     - name: 'og:description'
       value: >-
@@ -53,7 +53,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Building a second brain with photography
+      value: Let go of the past to define the future
     - name: 'twitter:description'
       value: >-
         We take photos to document life events; we post memorable moments to
