@@ -8,7 +8,7 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Episode 15
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: >-
