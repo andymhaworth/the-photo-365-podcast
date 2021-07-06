@@ -100,6 +100,10 @@ If it’s your first roll, I can understand your excitement. But an image of a p
 
 Yes, there is a difficulty curve when it comes to film photography nowadays. Old guys like me take it for granted that once upon a time, you could walk into any gas station or discount store and find an array of film for purchase. It has to feel strange to someone who has never worked with film. Like loading paper into a typewriter, or having to pump your own water from a well.
 
+![](/\_static/app-assets/film-starter-pack.jpg)
+
+*The Film Photographer Starter Pack (Found on Reddit)*
+
 I’ve noticed a lot of new film shooters gravitate towards older cameras. The venerable Canon AE-1 is recommended so often, it’s practically become a starter pack meme. Then there are the Pentax K1000s, old rangefinders and the like. There seems to be a hipster hivemind that tells new film shooters they need a full manual camera to experience film. But don’t sleep on the final generations of film cameras from the late 90s and early 2000s. These function just like a modern DSLR. They have great autofocus and metering, and may work with lenses you already have. You can shoot film with confidence, and not worry about a light seal rotting away, inaccurate shutter speeds, grinding gears, and so on.
 
 But I understand some folks want that full mechanical experience, and that’s a fun journey in and of itself.
