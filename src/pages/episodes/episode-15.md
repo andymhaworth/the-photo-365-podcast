@@ -17,7 +17,7 @@ seo:
   type: stackbit_page_meta
   title: Some thoughts on film photography
   description: >-
-    Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
+    Like vinyl records, typewriters, fountain pens and mechanical watches, film photography seems to be back in vogue. For some of us, it never really left.
   extra:
     - name: 'og:type'
       value: article
