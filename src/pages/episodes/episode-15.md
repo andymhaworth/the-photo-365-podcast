@@ -22,6 +22,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/charming-sun.jpg
+image: /images/fierce-chestnut.jpg
 ---
 ### Show Notes
 
