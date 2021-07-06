@@ -44,7 +44,7 @@ I wasn’t particularly motivated, until a friend of mine from some years back r
 
 ![](/\_static/app-assets/daft-punk-atl.jpg)
 
-*Digital love, analog photo. Atlanta, 2019, Mamiya RB67 on Kodak Portra. (Andrew Haworth)*
+*Digital Love, Analog Photograph. Atlanta, 2019, Mamiya RB67 on Kodak Portra. (Andrew Haworth)*
 
 Fortunately film stocks are still being produced, but there was a dark period some years back when it looked like the industry had dried up and films were going to be left in the hands of small boutique companies. But the medium has survived, and there are scads of old film cameras available for dirt-cheap on the used market, from medium format bodies to vintage stuff, and what I think is an overlooked segment, the feature-packed autofocus film cameras that entered the market right before digital took over.
 
@@ -64,7 +64,7 @@ Yes, that must sound completely insane to Generation Z, but look back at your fa
 
 ![](/\_static/app-assets/oct\_2014\_15.jpg)
 
-*One of the last images taken of my grandmother in October 2014. Shot on Kodak Portra 160 with a Canon 1n. (Andrew Haworth)*
+*One of the last images taken of my grandmother. Shot on Kodak Portra 160 with a Canon 1n in October 2014. (Andrew Haworth)*
 
 One of my earliest memories is of my grandmother using a cheap 110 camera to photograph a wedding cake she’d baked. Then she handed me the camera and I imitated her, thus taking my first-ever photos. I may have been four years old. A few days later, I remember looking at the photos and they were sharp and colorful. Do you think either of us knew what we were doing? Yet, here were usable photos that ended up in an album, along with negatives that may survive hundreds of years if stored properly. In theory, those first photos of mine could be reproduced today. The camera that shot them still works, and resides in my collection.
 
