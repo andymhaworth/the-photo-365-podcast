@@ -43,7 +43,7 @@ I was thinking about film as I was boxing up some gear to sell last week. I load
 
 I wasn’t particularly motivated, until a friend of mine from some years back reached out for advice on film stocks for an upcoming trip. Next thing you know, I’d pulled out boxes of negatives and prints and old cameras and I was reliving the good old days. I’d forgotten just how much film I’d burned through the years. Thinking about it almost felt like a dream.
 
-![](/\_static/app-assets/daft-punk-atl.jpg)
+![](/images/daft-punk-atl.jpg)
 
 *Digital Love, Analog Photograph. Atlanta, 2019, Mamiya RB67 on Kodak Portra. (Andrew Haworth)*
 
