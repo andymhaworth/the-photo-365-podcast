@@ -9,7 +9,7 @@ categories:
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: Episode 15
-image_alt: lorem-ipsum
+image_alt: Episode 15
 image_position: top
 episode_embed_html: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
