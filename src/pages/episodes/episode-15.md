@@ -30,7 +30,7 @@ seo:
         Like vinyl records, typewriters, fountain pens and mechanical watches, film photography seems to be back in vogue. For some of us, it never really left.
       keyName: property
     - name: 'og:image'
-      value: /images/May 23_02.jpg
+      value: /images/fierce-chestnut.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -41,7 +41,7 @@ seo:
       value: >-
         Like vinyl records, typewriters, fountain pens and mechanical watches, film photography seems to be back in vogue. For some of us, it never really left.
     - name: 'twitter:image'
-      value: /images/May 23_02.jpg
+      value: /images/fierce-chestnut.jpg
       relativeUrl: true
 template: post
 thumb_image: /images/charming-sun.jpg
