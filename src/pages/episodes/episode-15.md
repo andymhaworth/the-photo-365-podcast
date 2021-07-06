@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Let go of the past to define the future
+      value: Some thoughts on film photography
     - name: 'twitter:description'
       value: >-
         Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
