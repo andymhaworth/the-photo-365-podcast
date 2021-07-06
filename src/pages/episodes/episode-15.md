@@ -28,9 +28,7 @@ image: /images/fierce-chestnut.jpg
 ---
 ### Show Notes
 
-xxxx
-
-xxxx
+*   My favorite film lab: [The Darkroom](https://thedarkroom.com/)
 
 ### Transcript
 
