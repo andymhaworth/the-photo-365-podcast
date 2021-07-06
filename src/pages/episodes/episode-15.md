@@ -17,7 +17,8 @@ seo:
   type: stackbit_page_meta
   title: Some thoughts on film photography
   description: >-
-    Like vinyl records, typewriters, fountain pens and mechanical watches, film photography seems to be back in vogue. For some of us, it never really left.
+    Like vinyl records, typewriters, fountain pens and mechanical watches, film
+    photography seems to be back in vogue. For some of us, it never really left.
   extra:
     - name: 'og:type'
       value: article
@@ -27,7 +28,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Like vinyl records, typewriters, fountain pens and mechanical watches, film photography seems to be back in vogue. For some of us, it never really left.
+        Like vinyl records, typewriters, fountain pens and mechanical watches,
+        film photography seems to be back in vogue. For some of us, it never
+        really left.
       keyName: property
     - name: 'og:image'
       value: /images/fierce-chestnut.jpg
@@ -39,7 +42,9 @@ seo:
       value: Some thoughts on film photography
     - name: 'twitter:description'
       value: >-
-        Like vinyl records, typewriters, fountain pens and mechanical watches, film photography seems to be back in vogue. For some of us, it never really left.
+        Like vinyl records, typewriters, fountain pens and mechanical watches,
+        film photography seems to be back in vogue. For some of us, it never
+        really left.
     - name: 'twitter:image'
       value: /images/fierce-chestnut.jpg
       relativeUrl: true
@@ -69,7 +74,7 @@ I wasn’t particularly motivated, until a friend of mine from some years back r
 
 ![](/images/daft-punk-atl.jpg)
 
-*Digital Love, Analog Photograph. Atlanta, 2019, Mamiya RB67 on Kodak Portra. (Andrew Haworth)*
+*Digital Love, Analog Photograph. Atlanta, 2018, Mamiya RB67 on Kodak Portra. (Andrew Haworth)*
 
 Fortunately film stocks are still being produced, but there was a dark period some years back when it looked like the industry had dried up and films were going to be left in the hands of small boutique companies. But the medium has survived, and there are scads of old film cameras available for dirt-cheap on the used market, from medium format bodies to vintage stuff, and what I think is an overlooked segment, the feature-packed autofocus film cameras that entered the market right before digital took over.
 
@@ -107,7 +112,7 @@ Film was relatively cheap in the 1990s and you could get it developed in about a
 
 ![](/images/van-guy.jpg)
 
-*Van Guy, Atlanta 2019. Shot on a Mamiya RB67 with Kodak Portra film. (Andrew Haworth)*
+*Van Guy, Atlanta 2018. Shot on a Mamiya RB67 with Kodak Portra film. (Andrew Haworth)*
 
 That brings me to where we are today with film photography. And this is just an observation: A very large majority of film images I see today get posted simply because they are shot on film. They suffer from exposure and development issues, poor scanning, and so on. This isn’t necessarily the fault of the photographers. The last time I took a roll of film to a drug store, they returned my negatives nearly destroyed, folded back on themselves, scratched to death, stained with a sticky substance, with scotch tape on them.
 
@@ -143,7 +148,7 @@ It’s not hard, or even expensive to set up a black and white darkroom at home,
 
 ![](/images/000246780002.jpg)
 
-*The Film Shooter, Atlanta, 2019. Mamiya RB67, Kodak Portra. (Andrew Haworth)*
+*The Film Shooter, Atlanta, 2018. Mamiya RB67, Kodak Portra. (Andrew Haworth)*
 
 Nowadays, I generally only shoot medium format film, using a Mamiya RB67. Medium format has a unique look that digital hasn’t quite caught up with. But it’s pricey. I send mine off to The Darkroom, a lab in California that produces beautiful digital scans. They are fast and they treat my negatives with the utmost care. These services, while excellent, will burn a hole in your wallet.
 
