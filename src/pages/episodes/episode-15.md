@@ -1,6 +1,8 @@
 ---
 title: Thoughts on film photography
-subtitle: lorem-ipsum
+subtitle: >-
+  Like vinyl records, typewriters, fountain pens and mechanical watches, film
+  photography seems to be back in vogue. For some of us, it never really left.
 date: '2021-07-06'
 categories: []
 tags: []
