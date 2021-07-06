@@ -7,7 +7,9 @@ date: '2021-07-06'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Like vinyl records, typewriters, fountain pens and mechanical watches, film
+  photography seems to be back in vogue.
 thumb_image_alt: Episode 15
 image_alt: Episode 15
 image_position: top
