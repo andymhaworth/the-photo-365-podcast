@@ -117,7 +117,7 @@ Two, film is forgiving. Get the exposure in the ballpark and you can pull out a 
 
 It’s not hard, or even expensive to set up a black and white darkroom at home, and I see some shooters are even doing color development at home now. Scanning film isn’t particularly fun, because most of the process is spent waiting on the scanner. Cleaning up dust and scratches is tedious. If you have a scanner that uses infrared light for dust and scratch removal, you’re in better shape, but this doesn’t work on traditional black and white, so you’ll need to make friends with the Healing Brush.
 
-![](/\_static/app-assets/000246780002.jpg)
+![](/images/000246780002.jpg)
 
 *The Film Shooter, Atlanta, 2019. Mamiya RB67, Kodak Portra. (Andrew Haworth)*
 
