@@ -21,7 +21,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/analog-photography.jpg
 ---
 ### Show Notes
 
