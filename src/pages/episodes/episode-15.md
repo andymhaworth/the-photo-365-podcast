@@ -14,11 +14,35 @@ thumb_image_alt: Episode 15
 image_alt: Episode 15
 image_position: top
 seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
   type: stackbit_page_meta
+  title: Let go of the past to define the future
+  description: >-
+    Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: Let go of the past to define the future
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
+      keyName: property
+    - name: 'og:image'
+      value: /images/May 23_02.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Let go of the past to define the future
+    - name: 'twitter:description'
+      value: >-
+        Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
+    - name: 'twitter:image'
+      value: /images/May 23_02.jpg
+      relativeUrl: true
 template: post
 thumb_image: /images/charming-sun.jpg
 image: /images/fierce-chestnut.jpg
