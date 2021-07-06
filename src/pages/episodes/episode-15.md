@@ -42,6 +42,10 @@ I was thinking about film as I was boxing up some gear to sell last week. I load
 
 I wasn’t particularly motivated, until a friend of mine from some years back reached out for advice on film stocks for an upcoming trip. Next thing you know, I’d pulled out boxes of negatives and prints and old cameras and I was reliving the good old days. I’d forgotten just how much film I’d burned through the years. Thinking about it almost felt like a dream.
 
+![](/\_static/app-assets/daft-punk-atl.jpg)
+
+*Digital love, analog photo. Atlanta, 2019, Mamiya RB67 on Kodak Portra. (Andrew Haworth)*
+
 Fortunately film stocks are still being produced, but there was a dark period some years back when it looked like the industry had dried up and films were going to be left in the hands of small boutique companies. But the medium has survived, and there are scads of old film cameras available for dirt-cheap on the used market, from medium format bodies to vintage stuff, and what I think is an overlooked segment, the feature-packed autofocus film cameras that entered the market right before digital took over.
 
 Can you believe you can get a near-mint Nikon F5 body for $350 bucks or so now? Those seemed like Unobtainium when they came out in the mid-90s.
@@ -58,6 +62,10 @@ You didn’t need to be a darkroom technician or even know much of anything abou
 
 Yes, that must sound completely insane to Generation Z, but look back at your family photo albums. Film photography was extremely egalitarian.
 
+![](/\_static/app-assets/oct\_2014\_15.jpg)
+
+*One of the last images taken of my grandmother in October 2014. Shot on Kodak Portra 160 with a Canon 1n. (Andrew Haworth)*
+
 One of my earliest memories is of my grandmother using a cheap 110 camera to photograph a wedding cake she’d baked. Then she handed me the camera and I imitated her, thus taking my first-ever photos. I may have been four years old. A few days later, I remember looking at the photos and they were sharp and colorful. Do you think either of us knew what we were doing? Yet, here were usable photos that ended up in an album, along with negatives that may survive hundreds of years if stored properly. In theory, those first photos of mine could be reproduced today. The camera that shot them still works, and resides in my collection.
 
 Film photography started going out of vogue in the early 2000s, but the writing was on the wall in the years before that. In 1996 I remember seeing the Apple QuickTake camera for the first time while working on the student newspaper during my senior year of journalism school.
@@ -71,6 +79,10 @@ I remember seeing the first digital SLR about a year later while on assignment f
 The irony is, as digital cameras first sprang into the hands of consumers, film cameras were better than ever. With a modern Canon or Nikon SLR, you could slap a roll of film into the camera, it would autoload, automatically set the ISO, (provided the film canister was coded), and in seconds you were ready to shoot. You didn’t have to manually wind the camera, you could shoot 3-5 frames a second or faster in some cases. Autofocus was pretty reliable too, even by today’s standards, especially with lenses using ultrasonic motors. You could easily place the camera in auto mode or program, and get perfectly exposed, sharp photos without any trouble.
 
 Film was relatively cheap in the 1990s and you could get it developed in about an hour at most places. Photos from this era were no different than the photos we shoot today, less Photoshopped maybe, no HDR, or anything computational, but we photographed the same things: Sports action, portraits, weddings, concerts, products, conceptual art, and so on. I remember shooting five 36-exposure rolls of film for a co-worker’s wedding and that seemed like a lot of images. When I shot a wedding with my first digital camera, a Canon 10D, I drained all my batteries and switched to a film body to finish it off. No big deal.
+
+![](/\_static/app-assets/van-guy.jpg)
+
+*Van Guy, Atlanta 2019. Shot on a Mamiya RB67 with Kodak Portra film. (Andrew Haworth)*
 
 That brings me to where we are today with film photography. And this is just an observation: A very large majority of film images I see today get posted simply because they are shot on film. They suffer from exposure and development issues, poor scanning, and so on. This isn’t necessarily the fault of the photographers. The last time I took a roll of film to a drug store, they returned my negatives nearly destroyed, folded back on themselves, scratched to death, stained with a sticky substance, with scotch tape on them.
 
@@ -99,6 +111,10 @@ At the end of the day, film has some advantages: One, the negative itself. You h
 Two, film is forgiving. Get the exposure in the ballpark and you can pull out a usable image. Well, for negative film at least. Slide film requires more accurate exposure. I’m not even certain latitude is a good argument for film anymore since the newer breeds of digital cameras seem to have such a wide dynamic range. And last, you don’t have to jack around in Photoshop trying to create a look with film. The film look is built in, and that’s what draws so many of us back to it.
 
 It’s not hard, or even expensive to set up a black and white darkroom at home, and I see some shooters are even doing color development at home now. Scanning film isn’t particularly fun, because most of the process is spent waiting on the scanner. Cleaning up dust and scratches is tedious. If you have a scanner that uses infrared light for dust and scratch removal, you’re in better shape, but this doesn’t work on traditional black and white, so you’ll need to make friends with the Healing Brush.
+
+![](/\_static/app-assets/000246780002.jpg)
+
+*The Film Shooter, Atlanta, 2019. Mamiya RB67, Kodak Portra. (Andrew Haworth)*
 
 Nowadays, I generally only shoot medium format film, using a Mamiya RB67. Medium format has a unique look that digital hasn’t quite caught up with. But it’s pricey. I send mine off to The Darkroom, a lab in California that produces beautiful digital scans. They are fast and they treat my negatives with the utmost care. These services, while excellent, will burn a hole in your wallet.
 
