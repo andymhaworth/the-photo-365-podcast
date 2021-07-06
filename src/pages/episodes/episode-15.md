@@ -1,5 +1,5 @@
 ---
-title: Some thoughts on film photography
+title: 15. Some thoughts on film photography
 subtitle: >-
   Like vinyl records, typewriters, fountain pens and mechanical watches, film
   photography seems to be back in vogue. For some of us, it never really left.
