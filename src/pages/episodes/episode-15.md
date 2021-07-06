@@ -22,6 +22,10 @@ seo:
 template: post
 thumb_image: /images/charming-sun.jpg
 image: /images/fierce-chestnut.jpg
+episode_embed_html: >-
+  <iframe src="https://open.spotify.com/embed/episode/6VDw2GYfXgw6RhJAserx11"
+  width="100%" height="232" frameBorder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 ---
 ### Show Notes
 
