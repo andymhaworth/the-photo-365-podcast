@@ -9,7 +9,7 @@ categories:
 tags: []
 excerpt: >-
   Like vinyl records, typewriters, fountain pens and mechanical watches, film
-  photography seems to be back in vogue.
+  photography seems to be back in vogue. For some of us, it never really left.
 thumb_image_alt: Episode 15
 image_alt: Episode 15
 image_position: top
