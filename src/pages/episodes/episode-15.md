@@ -15,7 +15,7 @@ image_alt: Episode 15
 image_position: top
 seo:
   type: stackbit_page_meta
-  title: Let go of the past to define the future
+  title: Some thoughts on film photography
   description: >-
     Are you unhappy with your progress as a photographer? Creatively, do you feel like you’ve reached a plateau, or worse, have you fallen into a valley?
   extra:
@@ -23,7 +23,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Let go of the past to define the future
+      value: Some thoughts on film photography
       keyName: property
     - name: 'og:description'
       value: >-
