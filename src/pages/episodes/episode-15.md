@@ -21,6 +21,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: /images/charming-sun.jpg
 ---
 ### Show Notes
 
