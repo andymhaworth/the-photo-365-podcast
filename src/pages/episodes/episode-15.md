@@ -101,7 +101,7 @@ If it’s your first roll, I can understand your excitement. But an image of a p
 
 Yes, there is a difficulty curve when it comes to film photography nowadays. Old guys like me take it for granted that once upon a time, you could walk into any gas station or discount store and find an array of film for purchase. It has to feel strange to someone who has never worked with film. Like loading paper into a typewriter, or having to pump your own water from a well.
 
-![](/\_static/app-assets/film-starter-pack.jpg)
+![](/images/film-starter-pack.jpg)
 
 *The Film Photographer Starter Pack (Found on Reddit)*
 
