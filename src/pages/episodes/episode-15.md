@@ -63,7 +63,7 @@ You didn’t need to be a darkroom technician or even know much of anything abou
 
 Yes, that must sound completely insane to Generation Z, but look back at your family photo albums. Film photography was extremely egalitarian.
 
-![](/\_static/app-assets/oct\_2014\_15.jpg)
+![](/images/oct\_2014\_15.jpg)
 
 *One of the last images taken of my grandmother. Shot on Kodak Portra 160 with a Canon 1n in October 2014. (Andrew Haworth)*
 
