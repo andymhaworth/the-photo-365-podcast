@@ -1,5 +1,5 @@
 ---
-title: lorTem-ipsum
+title: Thoughts on film photography
 subtitle: lorem-ipsum
 date: '2021-07-06'
 categories: []
