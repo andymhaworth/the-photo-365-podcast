@@ -81,7 +81,7 @@ The irony is, as digital cameras first sprang into the hands of consumers, film 
 
 Film was relatively cheap in the 1990s and you could get it developed in about an hour at most places. Photos from this era were no different than the photos we shoot today, less Photoshopped maybe, no HDR, or anything computational, but we photographed the same things: Sports action, portraits, weddings, concerts, products, conceptual art, and so on. I remember shooting five 36-exposure rolls of film for a co-worker’s wedding and that seemed like a lot of images. When I shot a wedding with my first digital camera, a Canon 10D, I drained all my batteries and switched to a film body to finish it off. No big deal.
 
-![](/\_static/app-assets/van-guy.jpg)
+![](/images/van-guy.jpg)
 
 *Van Guy, Atlanta 2019. Shot on a Mamiya RB67 with Kodak Portra film. (Andrew Haworth)*
 
