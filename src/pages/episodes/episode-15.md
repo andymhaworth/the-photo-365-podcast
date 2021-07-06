@@ -13,10 +13,6 @@ excerpt: >-
 thumb_image_alt: Episode 15
 image_alt: Episode 15
 image_position: top
-episode_embed_html: >-
-  <iframe src="https://open.spotify.com/embed/episode/6VDw2GYfXgw6RhJAserx11"
-  width="100%" height="232" frameBorder="0" allowtransparency="true"
-  allow="encrypted-media"></iframe>
 seo:
   title: ''
   description: ''
