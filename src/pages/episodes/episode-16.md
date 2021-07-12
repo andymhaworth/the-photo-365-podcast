@@ -12,7 +12,7 @@ excerpt: >-
   albums teach us about the art of sequencing images?
 thumb_image_alt: Episode 16
 image_alt: Episode 16
-image_position: right
+image_position: left
 episode_embed_html: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
