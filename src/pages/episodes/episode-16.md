@@ -1,5 +1,5 @@
 ---
-title: What music can teach us about sequencing images
+title: 16. What music can teach us about sequencing images
 subtitle: >-
   Have you ever considered why a particular album great? What can our favorite
   albums teach us about the art of sequencing images?
