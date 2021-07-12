@@ -4,7 +4,8 @@ subtitle: >-
   Have you ever considered why a particular album great? What can our favorite
   albums teach us about the art of sequencing images?
 date: '2021-07-13'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
