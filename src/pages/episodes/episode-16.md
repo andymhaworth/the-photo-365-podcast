@@ -7,7 +7,9 @@ date: '2021-07-13'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Have you ever considered why a particular album great? What can our favorite
+  albums teach us about the art of sequencing images?
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
