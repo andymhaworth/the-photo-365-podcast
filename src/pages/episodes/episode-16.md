@@ -1,10 +1,8 @@
 ---
 title: What music can teach us about sequencing images
 subtitle: >-
-  Have you ever considered why a particular album, or musical playlist is your
-  favorite? What makes an album great? Today, we talk about the importance of
-  sequencing images, and what our favorite music can teach us about that
-  process.
+  Have you ever considered why a particular album great? What can our favorite
+  albums teach us about the art of sequencing images?
 date: '2021-07-12'
 categories: []
 tags: []
