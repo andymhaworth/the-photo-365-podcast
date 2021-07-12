@@ -11,7 +11,7 @@ excerpt: >-
   Have you ever considered why a particular album great? What can our favorite
   albums teach us about the art of sequencing images?
 thumb_image_alt: Episode 16
-image_alt: lorem-ipsum
+image_alt: Episode 16
 image_position: top
 episode_embed_html: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
