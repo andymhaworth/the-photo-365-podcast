@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: What music can teach us about sequencing images
 subtitle: lorem-ipsum
 date: '2021-07-12'
 categories: []
