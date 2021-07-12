@@ -117,3 +117,5 @@ Folks that’s going to do it for this episode of Photo 365. If you enjoyed it, 
 Photo 365 is my hobby, but if you’d like to support the show, consider sliding some virtual coffees my way at buymeacoffee.com/photo365.
 
 Keep looking out for great images, keep shooting, and we’ll see you next time.
+
+*Top image: Cuban Guitar Player, Havana, November 2017 (Andrew Haworth)*
