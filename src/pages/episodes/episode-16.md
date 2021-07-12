@@ -23,7 +23,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/shooter-18.jpg
 ---
 ### Show Notes
 
