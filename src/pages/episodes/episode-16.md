@@ -28,7 +28,13 @@ image: /images/futuristic-velociraptor.jpg
 ---
 ### Show Notes
 
-xxxx
+Music mentioned in this episode:
+
+*   [Kind of Blue by Miles Davis (Full album, YouTube)](https://youtube.com/playlist?list=OLAK5uy_nNowSDRXeotBWkCyljP2pnYkLOvj9CMnA)
+
+*   [Random Access Memories by Daft Punk (Full album, YouTube)](https://youtube.com/playlist?list=OLAK5uy_nZZjkBu_E4olFSb5Ey-fQ-4a0ZCqJICdQ)
+
+*   [The Downward Spiral by Nine Inch Nails (Full album, YouTube)](https://youtube.com/playlist?list=OLAK5uy_mGt_MdLai3rmm3yCONSz1AtDi1tbJwUic)
 
 ### Transcript
 
