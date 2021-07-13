@@ -36,6 +36,8 @@ Music mentioned in this episode:
 
 *   [The Downward Spiral by Nine Inch Nails (Full album, YouTube)](https://youtube.com/playlist?list=OLAK5uy_mGt_MdLai3rmm3yCONSz1AtDi1tbJwUic)
 
+*   ["Strobe" by Deadmau5 (YouTube)](https://youtu.be/tKi9Z-f6qX4)
+
 ### Transcript
 
 Have you ever considered why a particular album, or musical playlist is your favorite? What makes an album great? Today, we talk about the importance of sequencing images, and what our favorite music can teach us about that process.
