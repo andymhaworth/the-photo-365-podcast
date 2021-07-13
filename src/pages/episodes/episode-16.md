@@ -8,8 +8,8 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 excerpt: >-
-  Have you ever considered why a particular album great? What can our favorite
-  albums teach us about the art of sequencing images?
+  Have you ever considered what makes a particular album great? What can our
+  favorite albums teach us about the art of sequencing images?
 thumb_image_alt: Episode 16
 image_alt: Episode 16
 image_position: top
