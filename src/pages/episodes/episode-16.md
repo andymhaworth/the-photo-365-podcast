@@ -48,23 +48,23 @@ I hope you don’t mind if I cross artistic disciplines a bit in this episode, b
 
 Sequencing images isn’t talked about as much as shooting and editing images, so sometimes we forget the importance of how we present our images to the world. For this, there’s quite a bit we can learn, by studying the ebb and flow of songs on an album.
 
-Take the album Kind of Blue by Miles Davis. This has been one of my favorite records for nearly a quarter of a century, and it’s objectively, one of the greatest jazz albums of all time -- possibly one of the greatest albums in the history of recorded music. But why?
+Take the album *Kind of Blue* by Miles Davis. This has been one of my favorite records for nearly a quarter of a century, and it’s objectively, one of the greatest jazz albums of all time -- possibly one of the greatest albums in the history of recorded music. But why?
 
-Because of its enduring popularity jazz fanatics will likely roll their eyes at a mention of Kind of Blue, but when the album was released in 1959, it was a groundbreaking effort that shaped the future of jazz to come. It’s a popular recommendation for folks who are just starting to learn about jazz music. It’s an easy album to enjoy: The production is clean and modern, tempos stay fairly mid-rangy and the vibe is upbeat. It’s hard not to feel sophisticated while listening to this record.
+Because of its enduring popularity jazz fanatics will likely roll their eyes at a mention of *Kind of Blue*, but when the album was released in 1959, it was a groundbreaking effort that shaped the future of jazz to come. It’s a popular recommendation for folks who are just starting to learn about jazz music. It’s an easy album to enjoy: The production is clean and modern, tempos stay fairly mid-rangy and the vibe is upbeat. It’s hard not to feel sophisticated while listening to this record.
 
-Conceived by jazz trumpeter Miles Davis, Kind of Blue contains only five tracks. Yet those tracks represent Davis and his musicians at the height of their creative power. Every song is an essential part of the overall story of the album. Each track takes the listener to a unique sonic space, yet the tracks sound cohesive.
+Conceived by jazz trumpeter Miles Davis, *Kind of Blue* contains only five tracks. Yet those tracks represent Davis and his musicians at the height of their creative power. Every song is an essential part of the overall story of the album. Each track takes the listener to a unique sonic space, yet the tracks sound cohesive.
 
-Each song can stand alone; but when the album is experienced from beginning to end, the sequence reveals a smokey, abstracted world of late-night ambience. Hypnotic, elegant and cool, it still sounds as modern now as it did in 1959. Not bad for a record that was almost entirely improvised.
+Each song can stand alone; but when the album is experienced from beginning to end, the sequence reveals a smoky, abstracted world of late-night ambience. Hypnotic, elegant and cool, it still sounds as modern now as it did in 1959. Not bad for a record that was almost entirely improvised.
 
 If jazz isn’t your thing, think about your favorite albums and consider why you like them. What makes them compelling to listen to, from the first track to the last? Do they tell a story?
 
-When I was an angry, insolent teen-ager, the first album I realized had a narrative arc was The Downward Spiral by Nine Inch Nails. Again, cue the eye rolls, I don’t care; I still love this record, even if I don’t really identify with the album’s protagonist anymore.
+When I was an angry, insolent teen-ager, the first album I realized had a narrative arc was *The Downward Spiral* by Nine Inch Nails. Again, cue the eye rolls, I don’t care; I still love this record, even if I don’t really identify with the album’s protagonist anymore.
 
-Anyway, it made me realize many albums tell a story. Sometimes these are labeled as concept albums. The Downward Spiral certainly was such an album, but I don’t think anyone considers Trent Reznor’s earlier effort, Pretty Hate Machine, a concept album, although it certainly has a unified theme and narrative arc.
+Anyway, it made me realize many albums tell a story. Sometimes these are labeled as concept albums. *The Downward Spiral* certainly was such an album, but I don’t think anyone considers Trent Reznor’s earlier effort, Pretty Hate Machine, a concept album, although it certainly has a unified theme and narrative arc.
 
-Albums like 2112 by Rush,and Pink Floyd’s Dark Side of the Moon, are highly conceptual and narrative. You could also throw in Alice Cooper’s School’s Out, The Red-Headed Stranger by Willie Nelson and, and it would be a crime if I didn’t mention the album Black Ribbons by my friend Shooter Jennings. There are many, many more.
+Albums like *2112* by Rush,and Pink Floyd’s *Dark Side of the Moon*, are highly conceptual and narrative. You could also throw in Alice Cooper’s *School’s Out*, *The Red-Headed Stranger* by Willie Nelson and, and it would be a crime if I didn’t mention the album *Black Ribbons *by my friend Shooter Jennings. There are many, many more.
 
-How about something more mainstream? Daft Punk’s Random Access Memories takes the listener on a journey that references the history of the earliest electronic music (The song “Giorgio by Moroder” is literally a word-of-mouth account of the origin of the electronically sequenced four-on-the-floor beat) and by the end of the record, the listener is adrift in space, as a sample of astronaut Gene Cernan gravely informs ground control “there’s something out there.”
+How about something more mainstream? Daft Punk’s *Random Access Memories* takes the listener on a journey that references the history of the earliest electronic music (The song “Giorgio by Moroder” is literally a word-of-mouth account of the origin of the electronically sequenced four-on-the-floor beat) and by the end of the record, the listener is adrift in space, as a sample of astronaut Gene Cernan gravely informs ground control “there’s something out there.”
 
 So what does this have to do with photography? Well, the musical album, like almost all forms of art, depends on arrangement and sequencing. By exploring our favorite albums, we can learn how to edit and present our photography.
 
@@ -78,7 +78,7 @@ When you begin organizing images for a presentation, go big. Pull all the images
 
 This doesn’t mean you should grab every image you’ve shot for a particular project. Hopefully you have gone through your image library and isolated your favorites. But don’t be afraid to go back later and look for some deeper cuts. Sometimes you can revisit work weeks, months or even years later and find usable images that you may have overlooked in the first pass.
 
-For instance, on Kind of Blue, the musicians recorded several takes of each song, some very different from what ended up on the album version. But only the very best takes were allowed to end up on the record. The same applies to image-making.
+For instance, on* Kind of Blue*, the musicians recorded several takes of each song, some very different from what ended up on the album version. But only the very best takes were allowed to end up on the record. The same applies to image-making.
 
 Go through your selections and start cutting. In particular, remove images that look similar or feature the same subject matter. For instance, maybe you photographed a still life scene several different ways. Select one and toss the others. They may all be excellent images, but you don’t need all of them. Only include images that contribute to the narrative effect or thesis of your work.
 
@@ -102,11 +102,11 @@ Personally, I don’t own a printer, but getting prints made online is cheap and
 
 Here’s an important tip: Start and end with really strong photographs, or “bookends.” The first image your viewer sees should draw them in. Your final image should be a memorable one that will make a lasting impression on them.
 
-Again, think about your favorite musical albums here. The best ones will grab the listener immediately, maybe with something bold, or upbeat. In the case of Kind of Blue, the record begins with the uptempo track “So What” — eventually closing with the minimalist but sultry, “Flamenco Sketches,” which leaves the listener with some ambiguity, and a hint of what’s to come later.
+Again, think about your favorite musical albums here. The best ones will grab the listener immediately, maybe with something bold, or upbeat. In the case of *Kind of Blue*, the record begins with the uptempo track “So What” — eventually closing with the minimalist but sultry, “Flamenco Sketches,” which leaves the listener with some ambiguity, and a hint of what’s to come later.
 
 When sequencing images, your goal is to create movement between your bookends, to get from the first image to the end in a logical progression, perhaps with narrative effect or elements within the images that relate.
 
-On “Random Access Memories,” Daft Punk creates effective bookends sonically, opening with the track “Give Life Back to Music,” which has an attention-grabbing fanfare at the beginning that sets the tone for the rest of the record. The closing song, “Contact,” builds from a slow synthesized motif and gradually increases in intensity, like a ship achieving warp speed. It ends with electrical noises that sound like the Daft Punk robots themselves short-circuiting and powering down, providing resolution and finality.
+On *Random Access Memories*, Daft Punk creates effective bookends sonically, opening with the track “Give Life Back to Music,” which has an attention-grabbing fanfare at the beginning that sets the tone for the rest of the record. The closing song, “Contact,” builds from a slow synthesized motif and gradually increases in intensity, like a ship achieving warp speed. It ends with electrical noises that sound like the Daft Punk robots themselves short-circuiting and powering down, providing resolution and finality.
 
 Once you have your images sequenced, take another pass over them. Sometimes, you may need to “kill your darlings” — or get rid of an image you’re attached to — in the interest of creating a stronger, more cohesive work.
 
@@ -122,7 +122,7 @@ If you have an ear for sequencing music, I suspect you have an eye for sequencin
 
 Folks that’s going to do it for this episode of Photo 365. If you enjoyed it, please share it with a friend. Be sure to check out the show website, photo365podcast.com, from time to time. I post full transcripts of each episode, along with photos or anything else discussed on each episode.
 
-Photo 365 is my hobby, but if you’d like to support the show, consider sliding some virtual coffees my way at buymeacoffee.com/photo365.
+Photo 365 is my hobby, but if you’d like to support the show, consider sliding some virtual coffees my way at [buymeacoffee.com/photo365](https://www.buymeacoffee.com/photo365).
 
 Keep looking out for great images, keep shooting, and we’ll see you next time.
 
