@@ -62,7 +62,7 @@ When I was an angry, insolent teen-ager, the first album I realized had a narrat
 
 Anyway, it made me realize many albums tell a story. Sometimes these are labeled as concept albums. *The Downward Spiral* certainly was such an album, but I don’t think anyone considers Trent Reznor’s earlier effort, Pretty Hate Machine, a concept album, although it certainly has a unified theme and narrative arc.
 
-Albums like *2112* by Rush,and Pink Floyd’s *Dark Side of the Moon*, are highly conceptual and narrative. You could also throw in Alice Cooper’s *School’s Out*, *The Red-Headed Stranger* by Willie Nelson and, and it would be a crime if I didn’t mention the album *Black Ribbons *by my friend Shooter Jennings. There are many, many more.
+Albums like *2112* by Rush,and Pink Floyd’s *Dark Side of the Moon*, are highly conceptual and narrative. You could also throw in Alice Cooper’s *School’s Out*, *The Red-Headed Stranger* by Willie Nelson and, and it would be a crime if I didn’t mention the album \*Black Ribbons \*by my friend Shooter Jennings. There are many, many more.
 
 How about something more mainstream? Daft Punk’s *Random Access Memories* takes the listener on a journey that references the history of the earliest electronic music (The song “Giorgio by Moroder” is literally a word-of-mouth account of the origin of the electronically sequenced four-on-the-floor beat) and by the end of the record, the listener is adrift in space, as a sample of astronaut Gene Cernan gravely informs ground control “there’s something out there.”
 
@@ -78,7 +78,7 @@ When you begin organizing images for a presentation, go big. Pull all the images
 
 This doesn’t mean you should grab every image you’ve shot for a particular project. Hopefully you have gone through your image library and isolated your favorites. But don’t be afraid to go back later and look for some deeper cuts. Sometimes you can revisit work weeks, months or even years later and find usable images that you may have overlooked in the first pass.
 
-For instance, on* Kind of Blue*, the musicians recorded several takes of each song, some very different from what ended up on the album version. But only the very best takes were allowed to end up on the record. The same applies to image-making.
+For instance, on *Kind of Blue*, the musicians recorded several takes of each song, some very different from what ended up on the album version. But only the very best takes were allowed to end up on the record. The same applies to image-making.
 
 Go through your selections and start cutting. In particular, remove images that look similar or feature the same subject matter. For instance, maybe you photographed a still life scene several different ways. Select one and toss the others. They may all be excellent images, but you don’t need all of them. Only include images that contribute to the narrative effect or thesis of your work.
 
