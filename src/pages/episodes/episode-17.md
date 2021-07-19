@@ -5,7 +5,8 @@ subtitle: >-
   before you start stacking Benjamins, maybe enjoy your time as an amateur --
   while you still can.
 date: '2021-07-19'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: >-
   You have a camera, so naturally you want to make money with it right? Well,
