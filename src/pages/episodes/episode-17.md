@@ -1,5 +1,5 @@
 ---
-title: '17.'
+title: "17.\_Enjoy being an amateur"
 subtitle: lorem-ipsum
 date: '2021-07-19'
 categories: []
