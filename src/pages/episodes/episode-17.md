@@ -1,6 +1,9 @@
 ---
 title: "17.\_Enjoy being an amateur"
-subtitle: lorem-ipsum
+subtitle: >-
+  You have a camera, so naturally you want to make money with it right? Well,
+  before you start stacking Benjamins, maybe enjoy your time as an amateur,
+  while you still can.
 date: '2021-07-19'
 categories: []
 tags: []
