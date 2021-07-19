@@ -13,7 +13,7 @@ excerpt: >-
   before you start stacking Benjamins, maybe enjoy your time as an amateur --
   while you still can.
 thumb_image_alt: Episode 17
-image_alt: lorem-ipsum
+image_alt: Episode 17
 image_position: top
 episode_embed_html: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
