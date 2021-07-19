@@ -7,7 +7,10 @@ subtitle: >-
 date: '2021-07-19'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  You have a camera, so naturally you want to make money with it right? Well,
+  before you start stacking Benjamins, maybe enjoy your time as an amateur --
+  while you still can.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
