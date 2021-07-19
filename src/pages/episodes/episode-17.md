@@ -12,7 +12,7 @@ excerpt: >-
   You have a camera, so naturally you want to make money with it right? Well,
   before you start stacking Benjamins, maybe enjoy your time as an amateur --
   while you still can.
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Episode 17
 image_alt: lorem-ipsum
 image_position: top
 episode_embed_html: >-
