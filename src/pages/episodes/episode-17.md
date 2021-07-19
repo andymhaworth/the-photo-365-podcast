@@ -22,7 +22,7 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Show Notes
+### Show Notes
 
 The following links are discussed in this show:
 
@@ -32,7 +32,7 @@ The following links are discussed in this show:
 
 *   [I have to be a professional so I can be an amateur](https://blog.mingthein.com/2014/09/13/being-a-pro-to-be-an-amateur/) (Ming Thein)
 
-## Transcript
+### Transcript
 
 You have a camera, so naturally you want to make money with it right? Well, before you start stacking Benjamins, maybe enjoy your time as an amateur, while you still can.
 
