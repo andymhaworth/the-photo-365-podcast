@@ -21,7 +21,7 @@ episode_embed_html: >-
   allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
-  title: Some thoughts on film photography
+  title: Before you go pro, enjoy being an amateur
   description: >-
     Like vinyl records, typewriters, fountain pens and mechanical watches, film
     photography seems to be back in vogue. For some of us, it never really left.
