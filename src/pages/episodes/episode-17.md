@@ -24,6 +24,7 @@ seo:
   robots: []
   extra: []
   type: stackbit_page_meta
+  title: 'Before you go pro, enjoy being an amateur'
 template: post
 thumb_image: /images/November-19_03.jpg
 image: /images/November-19_03.jpg
