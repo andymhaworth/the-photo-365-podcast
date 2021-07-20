@@ -52,7 +52,7 @@ seo:
         film photography seems to be back in vogue. For some of us, it never
         really left.
     - name: 'twitter:image'
-      value: /images/fierce-chestnut.jpg
+      value: /images/November-19_03.jpg
       relativeUrl: true
 template: post
 thumb_image: /images/November-19_03.jpg
