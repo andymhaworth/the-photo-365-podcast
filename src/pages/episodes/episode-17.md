@@ -20,7 +20,10 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  description: ''
+  description: >-
+    You have a camera, so naturally you want to make money with it right? Well,
+    before you start stacking Benjamins, maybe enjoy your time as an amateur --
+    while you still can.
   robots: []
   extra: []
   type: stackbit_page_meta
