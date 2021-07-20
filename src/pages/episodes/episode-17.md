@@ -20,14 +20,38 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  description: >-
-    You have a camera, so naturally you want to make money with it right? Well,
-    before you start stacking Benjamins, maybe enjoy your time as an amateur --
-    while you still can.
-  robots: []
-  extra: []
   type: stackbit_page_meta
   title: 'Before you go pro, enjoy being an amateur'
+  description: >-
+    You have a camera, so naturally you want to make money with it right? Maybe
+    enjoy your time as an amateur -- while you still can.
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: 'Before you go pro, enjoy being an amateur'
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        You have a camera, so naturally you want to make money with it right?
+        Maybe enjoy your time as an amateur -- while you still can.
+      keyName: property
+    - name: 'og:image'
+      value: /images/November-19_03.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: 'Before you go pro, enjoy being an amateur'
+    - name: 'twitter:description'
+      value: >-
+        You have a camera, so naturally you want to make money with it right?
+        Maybe enjoy your time as an amateur -- while you still can.
+    - name: 'twitter:image'
+      value: /images/November-19_03.jpg
+      relativeUrl: true
 template: post
 thumb_image: /images/November-19_03.jpg
 image: /images/November-19_03.jpg
