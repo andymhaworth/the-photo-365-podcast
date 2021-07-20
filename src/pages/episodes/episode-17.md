@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Some thoughts on film photography
+      value: Before you go pro, enjoy being an amateur
     - name: 'twitter:description'
       value: >-
         Like vinyl records, typewriters, fountain pens and mechanical watches,
