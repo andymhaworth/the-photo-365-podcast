@@ -39,7 +39,7 @@ seo:
         really left.
       keyName: property
     - name: 'og:image'
-      value: /images/fierce-chestnut.jpg
+      value: /images/November-19_03.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
