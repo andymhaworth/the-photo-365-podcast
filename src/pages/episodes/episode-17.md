@@ -23,8 +23,7 @@ seo:
   type: stackbit_page_meta
   title: Before you go pro, enjoy being an amateur
   description: >-
-    Like vinyl records, typewriters, fountain pens and mechanical watches, film
-    photography seems to be back in vogue. For some of us, it never really left.
+    You have a camera, so naturally you want to make money with it right? Well, before you start stacking Benjamins, maybe enjoy your time as an amateur -- while you still can.
   extra:
     - name: 'og:type'
       value: article
