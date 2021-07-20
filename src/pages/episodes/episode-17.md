@@ -16,8 +16,9 @@ thumb_image_alt: Episode 17
 image_alt: Episode 17
 image_position: right
 episode_embed_html: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  <iframe src="https://open.spotify.com/embed/episode/4Q7t4fxJSqb5qqrh9i48Q7"
+  width="100%" height="232" frameBorder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   title: ''
   description: ''
