@@ -20,14 +20,40 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  description: >-
-    You have a camera, so naturally you want to make money with it right? Well,
-    before you start stacking Benjamins, maybe enjoy your time as an amateur --
-    while you still can.
-  robots: []
-  extra: []
   type: stackbit_page_meta
-  title: 'Before you go pro, enjoy being an amateur'
+  title: Some thoughts on film photography
+  description: >-
+    Like vinyl records, typewriters, fountain pens and mechanical watches, film
+    photography seems to be back in vogue. For some of us, it never really left.
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: Some thoughts on film photography
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        Like vinyl records, typewriters, fountain pens and mechanical watches,
+        film photography seems to be back in vogue. For some of us, it never
+        really left.
+      keyName: property
+    - name: 'og:image'
+      value: /images/fierce-chestnut.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Some thoughts on film photography
+    - name: 'twitter:description'
+      value: >-
+        Like vinyl records, typewriters, fountain pens and mechanical watches,
+        film photography seems to be back in vogue. For some of us, it never
+        really left.
+    - name: 'twitter:image'
+      value: /images/fierce-chestnut.jpg
+      relativeUrl: true
 template: post
 thumb_image: /images/November-19_03.jpg
 image: /images/November-19_03.jpg
