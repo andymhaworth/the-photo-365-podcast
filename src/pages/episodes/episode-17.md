@@ -30,7 +30,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Some thoughts on film photography
+      value: Before you go pro, enjoy being an amateur
       keyName: property
     - name: 'og:description'
       value: >-
