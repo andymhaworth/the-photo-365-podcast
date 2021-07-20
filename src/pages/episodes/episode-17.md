@@ -36,8 +36,7 @@ seo:
     - name: 'og:description'
       value: >-
         You have a camera, so naturally you want to make money with it right?
-        Well, before you start stacking Benjamins, maybe enjoy your time as an
-        amateur -- while you still can.
+        Maybe enjoy your time as an amateur -- while you still can.
       keyName: property
     - name: 'og:image'
       value: /images/November-19_03.jpg
