@@ -13,9 +13,7 @@ excerpt: >-
 thumb_image_alt: My rendition of the Horsehead Nebula
 image_alt: My rendition of the Horsehead Nebula
 image_position: right
-episode_embed_html: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+episode_embed_html: '[EMBED CODE]'
 seo:
   title: ''
   description: ''
