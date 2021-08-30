@@ -7,7 +7,9 @@ date: '2021-08-31'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  In this episode, I take off on some photographic tangents as I fall down three
+  technological rabbit holes.
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
