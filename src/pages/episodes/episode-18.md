@@ -11,7 +11,7 @@ excerpt: >-
   In this episode, I take off on some photographic tangents as I fall down three
   technological rabbit holes.
 thumb_image_alt: My rendition of the Horsehead Nebula
-image_alt: lorem-ipsum
+image_alt: My rendition of the Horsehead Nebula
 image_position: top
 episode_embed_html: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
