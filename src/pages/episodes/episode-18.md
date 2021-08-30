@@ -8,8 +8,8 @@ categories:
   - src/data/categories/season-1.yaml
 tags: []
 excerpt: >-
-  In this episode, I take off on some photographic tangents as I fall down three
-  technological rabbit holes.
+  Renting time on telescopes, managing your color, and bringing an old laptop
+  back to life with free software.
 thumb_image_alt: My rendition of the Horsehead Nebula
 image_alt: My rendition of the Horsehead Nebula
 image_position: right
