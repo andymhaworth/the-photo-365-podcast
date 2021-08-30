@@ -9,7 +9,8 @@ categories:
 tags: []
 excerpt: >-
   Renting time on telescopes, managing your color, and bringing an old laptop
-  back to life with free software.
+  back to life with free software. In this episode, I take off on some
+  photographic tangents as I fall down three technological rabbit holes.
 thumb_image_alt: My rendition of the Horsehead Nebula
 image_alt: My rendition of the Horsehead Nebula
 image_position: right
