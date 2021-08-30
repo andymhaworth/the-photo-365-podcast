@@ -1,6 +1,8 @@
 ---
 title: 18. Down the rabbit hole
-subtitle: lorem-ipsum
+subtitle: >-
+  In this episode, I take off on some photographic tangents as I fall down three
+  technological rabbit holes.
 date: '2021-08-30'
 categories: []
 tags: []
