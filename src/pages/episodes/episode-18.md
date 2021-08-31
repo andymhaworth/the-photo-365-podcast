@@ -20,7 +20,9 @@ episode_embed_html: >-
   allow="encrypted-media"></iframe>
 seo:
   title: Down the rabbit hole
-  description: ''
+  description: >-
+    In this episode, I take off on some photographic tangents as I fall down
+    three technological rabbit holes.
   robots: []
   extra: []
   type: stackbit_page_meta
