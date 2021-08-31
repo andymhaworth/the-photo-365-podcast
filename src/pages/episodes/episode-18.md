@@ -22,8 +22,7 @@ seo:
   type: stackbit_page_meta
   title: 'Down the rabbit hole'
   description: >-
-    You have a camera, so naturally you want to make money with it right? Maybe
-    enjoy your time as an amateur -- while you still can.
+    Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
   extra:
     - name: 'og:type'
       value: article
