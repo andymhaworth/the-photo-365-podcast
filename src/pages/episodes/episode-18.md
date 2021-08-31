@@ -29,7 +29,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Before you go pro, enjoy being an amateur'
+      value: 'Down the rabbit hole'
       keyName: property
     - name: 'og:description'
       value: >-
