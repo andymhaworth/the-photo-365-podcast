@@ -20,19 +20,21 @@ episode_embed_html: >-
   allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
-  title: 'Down the rabbit hole'
+  title: Down the rabbit hole
   description: >-
-    Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
+    Renting time on telescopes, managing your color, and bringing an old laptop
+    back to life with free software.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Down the rabbit hole'
+      value: Down the rabbit hole
       keyName: property
     - name: 'og:description'
       value: >-
-        Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
+        Renting time on telescopes, managing your color, and bringing an old
+        laptop back to life with free software.
       keyName: property
     - name: 'og:image'
       value: /images/Horsehead-photo365.jpg
@@ -41,10 +43,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Down the rabbit hole'
+      value: Down the rabbit hole
     - name: 'twitter:description'
       value: >-
-        Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
+        Renting time on telescopes, managing your color, and bringing an old
+        laptop back to life with free software.
     - name: 'twitter:image'
       value: /images/Horsehead-photo365.jpg
       relativeUrl: true
@@ -128,8 +131,6 @@ Now, as if to ridicule me and my pathetic attempts at processing photos from spa
 
 Using a wide angle attachment on his smartphone, my friend and fellow media producer Stewart, shot a radiant image of the Milky Way that would be impressive under any circumstance. It’s hard to imagine a cell phone being able to capture images like this, where the stacking, registration and processing happens automatically in the phone. I’m also a Pixel phone user, so I’m looking forward to getting out and trying the technique for myself next time we have clear skies.
 
-\[Music segue]
-
 Another rabbit hole I found myself tumbling down, is one that shouldn’t be a rabbit hole at all if you’re a professional photographer -- And that’s color management.
 
 I’m ashamed to admit that I’d never calibrated my monitors or used a dedicated color checker to white balance my cameras. This is just one of those areas of photography that isn’t particularly sexy. The gear required to calibrate and profile your monitor and photos isn’t terribly expensive, but there are always more fun things to purchase, lenses, accessories and so forth.
@@ -146,8 +147,6 @@ After profiling my primary screen, an Asus 27-inch 1440p display, I did notice a
 I also added an X-Rite Passport to my camera bag. This is a compact target with swatches for white balance, an 18% gray card for dialing in exposures, and industry standard color swatches that are used in conjunction with a Lightroom plugin to ensure accurate and consistent color in images.
 
 If I have time to set up photos, such as portraits or studio shots, the Passport is very helpful. But for run and gun shooting, I don’t have time to whip this thing out and take a test shot. I do appreciate the white balance and grey targets, and I made use of them in a studio video shoot recently. The footage, shot with my A7 III, was absolutely perfect and required little to no grading in post, so in my opinion, the Passport has paid for itself.
-
-\[Music segue]
 
 And finally, we come to rabbit hole number three. Now, this one deals with the software side of photography, specifically, free and open source software, and more specifically, Linux-based operating systems.
 
