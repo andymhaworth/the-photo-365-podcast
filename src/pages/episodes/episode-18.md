@@ -14,7 +14,10 @@ excerpt: >-
 thumb_image_alt: My rendition of the Horsehead Nebula
 image_alt: My rendition of the Horsehead Nebula
 image_position: right
-episode_embed_html: '[EMBED CODE]'
+episode_embed_html: >-
+  <iframe src="https://open.spotify.com/embed/episode/383LXJCMbL5LRqMiIRNril"
+  width="100%" height="232" frameBorder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   title: ''
   description: ''
