@@ -32,8 +32,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        You have a camera, so naturally you want to make money with it right?
-        Maybe enjoy your time as an amateur -- while you still can.
+        Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
       keyName: property
     - name: 'og:image'
       value: /images/November-19_03.jpg
@@ -45,8 +44,7 @@ seo:
       value: 'Down the rabbit hole'
     - name: 'twitter:description'
       value: >-
-        You have a camera, so naturally you want to make money with it right?
-        Maybe enjoy your time as an amateur -- while you still can.
+        Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
     - name: 'twitter:image'
       value: /images/November-19_03.jpg
       relativeUrl: true
