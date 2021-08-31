@@ -20,7 +20,7 @@ episode_embed_html: >-
   allow="encrypted-media"></iframe>
 seo:
   type: stackbit_page_meta
-  title: 'Before you go pro, enjoy being an amateur'
+  title: 'Down the rabbit hole'
   description: >-
     You have a camera, so naturally you want to make money with it right? Maybe
     enjoy your time as an amateur -- while you still can.
