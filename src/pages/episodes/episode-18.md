@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Before you go pro, enjoy being an amateur'
+      value: 'Down the rabbit hole'
     - name: 'twitter:description'
       value: >-
         You have a camera, so naturally you want to make money with it right?
