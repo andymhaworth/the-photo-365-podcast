@@ -19,13 +19,35 @@ episode_embed_html: >-
   width="100%" height="232" frameBorder="0" allowtransparency="true"
   allow="encrypted-media"></iframe>
 seo:
-  title: Down the rabbit hole
-  description: >-
-    In this episode, I take off on some photographic tangents as I fall down
-    three technological rabbit holes.
-  robots: []
-  extra: []
   type: stackbit_page_meta
+  title: 'Down the rabbit hole'
+  description: >-
+    Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: 'Down the rabbit hole'
+      keyName: property
+    - name: 'og:description'
+      value: >-
+        Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
+      keyName: property
+    - name: 'og:image'
+      value: /images/Horsehead-photo365.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: 'Down the rabbit hole'
+    - name: 'twitter:description'
+      value: >-
+        Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
+    - name: 'twitter:image'
+      value: /images/Horsehead-photo365.jpg
+      relativeUrl: true
 template: post
 thumb_image: /images/Horsehead-photo365.jpg
 image: /images/Horsehead-photo365.jpg
