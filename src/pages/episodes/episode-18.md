@@ -35,7 +35,7 @@ seo:
         Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
       keyName: property
     - name: 'og:image'
-      value: /images/November-19_03.jpg
+      value: /images/Horsehead-photo365.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -46,7 +46,7 @@ seo:
       value: >-
         Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software.
     - name: 'twitter:image'
-      value: /images/November-19_03.jpg
+      value: /images/Horsehead-photo365.jpg
       relativeUrl: true
 template: post
 thumb_image: /images/Horsehead-photo365.jpg
