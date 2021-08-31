@@ -30,13 +30,29 @@ image: /images/Horsehead-photo365.jpg
 ---
 ### Show Notes
 
-The following links are discussed in this episode:
+Renting time on telescopes, managing your color, and bringing an old laptop back to life with free software. In this episode, I take off on some photographic tangents as I fall down three technological rabbit holes.
 
-*   zzzz
+**Topics discussed:**
 
-*   xxxx
+*   [Astronomy with remote telescopes](https://www.telescopeguide.org/astrophotography-with-remote-telescopes/)
 
-*   yyyy
+*   [Insight Observatory](https://www.insightobservatory.com/) (Login at their ATEO Portal for remote telescope service) 
+
+*   [Is Sony's Color Science Really That Bad?](https://petapixel.com/2018/10/09/is-sonys-color-science-really-that-bad/) (PetaPixel)
+
+*   [X-Rite monitor calibration](https://www.xrite.com/categories/calibration-profiling/i1-pro-3-family/i1display-studio)
+
+*   [X-Rite Passport color checker](https://www.xrite.com/categories/calibration-profiling/colorchecker-classic-family/colorchecker-passport-photo-2)
+
+*   [Pop!\_OS by System76](https://pop.system76.com/)
+
+*   [XnView](https://www.xnview.com/) image viewer
+
+*   [Shotwell](https://wiki.gnome.org/Apps/Shotwell) photo manager software
+
+*   [GIMP](https://www.gimp.org/) (Gnu Image Manipulation Program) 
+
+*   [darktable](https://www.darktable.org/) RAW developer
 
 ### Transcript
 
