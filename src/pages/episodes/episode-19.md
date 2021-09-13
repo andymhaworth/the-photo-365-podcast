@@ -5,7 +5,8 @@ subtitle: >-
   Perhaps you need to move the goalposts farther out to challenge yourself. Or
   maybe, it’s time to pass the torch.
 date: '2021-09-14'
-categories: []
+categories:
+  - src/data/categories/season-1.yaml
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
