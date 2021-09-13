@@ -17,7 +17,7 @@ image_alt: Episode 19
 image_position: top
 episode_embed_html: '[EMBED CODE]'
 seo:
-  title: ''
+  title: Have I been ‘cosplaying’ a photographer?
   description: >-
     If you don’t feel inspired by your subject matter, maybe you’ve outgrown it.
     Perhaps you need to move the goalposts farther out to challenge yourself. Or
