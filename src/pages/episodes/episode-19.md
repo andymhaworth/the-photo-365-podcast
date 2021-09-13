@@ -1,6 +1,9 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: >-
+  If you don’t feel inspired by your subject matter, maybe you’ve outgrown it.
+  Perhaps you need to move the goalposts farther out to challenge yourself. Or
+  maybe, it’s time to pass the torch.
 date: '2021-09-13'
 categories: []
 tags: []
