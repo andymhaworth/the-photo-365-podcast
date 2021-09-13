@@ -13,7 +13,7 @@ excerpt: >-
   Perhaps you need to move the goalposts farther out to challenge yourself. Or
   maybe, it’s time to pass the torch.
 thumb_image_alt: Episode 19
-image_alt: lorem-ipsum
+image_alt: Episode 19
 image_position: top
 episode_embed_html: '[EMBED CODE]'
 seo:
