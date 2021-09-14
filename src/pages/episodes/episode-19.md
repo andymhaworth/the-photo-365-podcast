@@ -54,6 +54,10 @@ DragonCon has always been my favorite photographic testing area. It’s a huge c
 
 I’m not sure I was even aware of the term “cosplay” when I first arrived in 2012, and I didn’t know what to expect at DragonCon, but I was eager to put some new gear to the test. I’d just managed to buy a Canon 5D Mark II and the 50mm f/1.2 lens, which turned out to be the perfect combo for shooting portraits, full length and close-up, in everything from broad daylight to the low light inside hotel lobbies. As soon as I arrived it was a sensory overload, and there was something to photograph anywhere I aimed my camera.
 
+![](/\_static/app-assets/EP19-2012.jpg)
+
+*DragonCon, Atlanta, Ga., 2012*
+
 The images I shot that year remain my favorites, even nearly a decade later. In a way, they established a template for my “con photography,” for better or worse.
 
 Cosplay, largely a Japanese phenomenon that rose in popularity from the 1980s, really seemed to explode in popularity here in the U.S. in the 2010s, and some photographers capitalized on it. A new sub-genre of photography was essentially born, one that involved fantasy, craftsmanship, creative lighting, dramatic posing, and in some cases, extensive pre- and post-production. Cosplay photography, done right, is a creative collaboration; you’re more than just a hired gun. Cosplayers fabricate their costumes, and it’s up to a photographer to tell that character’s story, while showing off the features and craftsmanship of the costume. Some of you may recall several television shows on the Sci-Fi network dealing with this culture, the notable one being “Heroes of Cosplay.” DragonCon itself started taking notice of the intersection of photography and cosplay, and hired “official” con photographers to provide Olin Mills-like services to cosplayers.
@@ -74,6 +78,10 @@ This year was going to be different, in that I finally had the kit I thought I n
 
 I’ve had a few years where I tried to do something atypical, with mixed, but interesting results. For example, in 2017 while in the midst of my photo-a-day project, I used nothing but a Fujifilm X100F at 35mm. Those were very different from my usual con shots, but they were interesting -- more like documentary photography. The next year I decided to take a Mamiya RB67, a heavy medium format film camera that required a tripod and handheld light meter. That was an extremely slow method, but again, the results were unique -- gorgeous, shallow depth of field and rich detail, even in wide shots.
 
+![](/\_static/app-assets/EP19-X100F.jpg)
+
+*DragonCon 2017, Fuji X100F*
+
 I quickly discovered this year that gear had nothing to do with my images. I lacked motivation. The images felt like work, as if I was trying to hit some kind of quota. I just didn’t feel like shooting them. The subject matter didn’t interest me.
 
 For me, it’s never been about the costumes, because in general, I don’t find the costumes themselves that interesting. I do consider myself a huge nerd, but more in a computer geek, hobby, and science kind of way. I can’t ID the majority of the costumes people wear at these cons anyway -- If they are carrying a big weapon, I assume it’s something related to anime. If I see brass gears, then it’s steampunk. Superhero bodysuits and capes? Well, Marvel or DC, one or the other. I know Star Trek from Star Wars, and that’s about the best I can do.
@@ -86,6 +94,10 @@ Collectively, we’ve all been dealing with the stress of the pandemic. Suddenly
 
 But it wasn’t just that. I realized my entire approach had changed from that first year I attended. In 2012, I wasn’t photographing people because I thought their costumes were interesting. I was taking their picture because there was something about THEM that was interesting. Something in their face or eyes, or even the way they were standing -- not posing.
 
+![](/\_static/app-assets/EP19-film.jpg)
+
+*DragonCon 2018, Mamiya RB67, Kodak Portra 400*
+
 In fact, I asked almost everyone for their permission before I took their picture, and often I instructed them to remain standing just as they were. I wasn’t trying to make photos of superheroes or fancy costumes. I don’t like superhero poses. I just wanted my subjects to stand there and give a deadpan stare into the lens.
 
 My goal was simply to make photos of people who just happened to be wearing costumes. And I was trying to photograph them all the same way, without camera tricks or pretense. The work of August Sander was always in the back of my mind -- the German photographer whose best-known portraits were of citizens in the Weimar Republic -- who photographed the homeless with the same dignity as artists and professionals.
@@ -97,6 +109,10 @@ This year I intended to get back to my roots a bit, but like the old Thomas Wolf
 I never thought something this light and maybe even trivial -- cosplay photography, of all things -- would force me into an existential crisis, causing me to seriously reevaluate what the hell I’m doing. After all, this was supposed to be a fun weekend -- partying, seeing old friends, and being among like-minded people. Not sitting in a hotel room wondering whether I should sell all my gear and move on.
 
 It’s easy to zoom out on the situation and just think “hey, why are you taking this so seriously,” but the microcosm of this convention echoed the bigger picture of what I’ve felt for some time now. If I couldn’t have fun shooting these types of images, how could I have fun shooting anything?
+
+![](/\_static/app-assets/EP19-shooters.JPG)
+
+*DragonCon 2021, Shooting the Shooters*
 
 Fortunately, I managed to get re-engaged with photography, at least somewhat, before the end of the trip. The difference was, I had a goal. Big surprise right? I’ve talked about setting goals before on the show, and it seems like I forgot my own advice in regards to my own work, because I was so hung up on doing things the way I’ve always done them. You may also recall a few episodes ago, I talked about how sometimes we need to let go of what has worked before, in order to move forward. This was one of those times.
 
@@ -111,6 +127,10 @@ While I wasn’t crazy about the images I made this year, I’ve come to accept 
 My final takeaway from this year’s trip is this. Once you learn a skill, be it photography, or playing music, coding or whatever, you will eventually reach a point where you’ve learned so much that you want to teach other people about it. I think there’s an old quote that says something like “As you teach, you learn.”
 
 I do enjoy teaching others about photography. Every now and then I encounter someone who has a great camera and some lenses. They might lack the foundational knowledge to use it, but they have a strong desire to learn more about it. I really enjoy helping folks like this, and a pop culture con is a perfect low-pressure environment to mentor someone in composition, lighting, aperture and so on.
+
+![](/\_static/app-assets/EP19-Sypha.JPG)
+
+*DragonCon 2021*
 
 No doubt, it’s time for me to let go of this genre of photography and offer some light to those who appreciate it far more than me.
 
