@@ -94,7 +94,7 @@ Collectively, we’ve all been dealing with the stress of the pandemic. Suddenly
 
 But it wasn’t just that. I realized my entire approach had changed from that first year I attended. In 2012, I wasn’t photographing people because I thought their costumes were interesting. I was taking their picture because there was something about THEM that was interesting. Something in their face or eyes, or even the way they were standing -- not posing.
 
-![](/\_static/app-assets/EP19-film.jpg)
+![](/images/EP19-film.jpg)
 
 *DragonCon 2018, Mamiya RB67, Kodak Portra 400*
 
