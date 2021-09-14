@@ -15,7 +15,10 @@ excerpt: >-
 thumb_image_alt: Episode 19
 image_alt: Episode 19
 image_position: top
-episode_embed_html: '[EMBED CODE]'
+episode_embed_html: >-
+  <iframe
+  src="https://anchor.fm/photo365/embed/episodes/Have-I-been-cosplaying-a-photographer-e17b014"
+  height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 seo:
   title: Have I been ‘cosplaying’ a photographer?
   description: >-
