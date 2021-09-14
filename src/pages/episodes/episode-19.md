@@ -78,7 +78,7 @@ This year was going to be different, in that I finally had the kit I thought I n
 
 I’ve had a few years where I tried to do something atypical, with mixed, but interesting results. For example, in 2017 while in the midst of my photo-a-day project, I used nothing but a Fujifilm X100F at 35mm. Those were very different from my usual con shots, but they were interesting -- more like documentary photography. The next year I decided to take a Mamiya RB67, a heavy medium format film camera that required a tripod and handheld light meter. That was an extremely slow method, but again, the results were unique -- gorgeous, shallow depth of field and rich detail, even in wide shots.
 
-![](/\_static/app-assets/EP19-X100F.jpg)
+![](/images/EP19-X100F.jpg)
 
 *DragonCon 2017, Fuji X100F*
 
