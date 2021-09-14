@@ -54,7 +54,7 @@ DragonCon has always been my favorite photographic testing area. It’s a huge c
 
 I’m not sure I was even aware of the term “cosplay” when I first arrived in 2012, and I didn’t know what to expect at DragonCon, but I was eager to put some new gear to the test. I’d just managed to buy a Canon 5D Mark II and the 50mm f/1.2 lens, which turned out to be the perfect combo for shooting portraits, full length and close-up, in everything from broad daylight to the low light inside hotel lobbies. As soon as I arrived it was a sensory overload, and there was something to photograph anywhere I aimed my camera.
 
-![](/\_static/app-assets/EP19-2012.jpg)
+![](/images/EP19-2012.jpg)
 
 *DragonCon, Atlanta, Ga., 2012*
 
