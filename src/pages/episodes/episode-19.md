@@ -128,7 +128,7 @@ My final takeaway from this year’s trip is this. Once you learn a skill, be it
 
 I do enjoy teaching others about photography. Every now and then I encounter someone who has a great camera and some lenses. They might lack the foundational knowledge to use it, but they have a strong desire to learn more about it. I really enjoy helping folks like this, and a pop culture con is a perfect low-pressure environment to mentor someone in composition, lighting, aperture and so on.
 
-![](/\_static/app-assets/EP19-Sypha.JPG)
+![](/images/EP19-Sypha.JPG)
 
 *DragonCon 2021*
 
