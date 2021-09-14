@@ -34,9 +34,9 @@ image: /images/ep-19.jpg
 ---
 ## Show Notes
 
-xxx
+*   [Learn more about DragonCon](https://www.dragoncon.org/)
 
-xxx
+*   [Some of my favorite con images](https://ahaworth.exposure.co/identity-crisis)
 
 ## Transcript
 
