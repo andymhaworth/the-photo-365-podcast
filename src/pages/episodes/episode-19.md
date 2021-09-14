@@ -110,7 +110,7 @@ I never thought something this light and maybe even trivial -- cosplay photograp
 
 It’s easy to zoom out on the situation and just think “hey, why are you taking this so seriously,” but the microcosm of this convention echoed the bigger picture of what I’ve felt for some time now. If I couldn’t have fun shooting these types of images, how could I have fun shooting anything?
 
-![](/\_static/app-assets/EP19-shooters.JPG)
+![](/images/EP19-shooters.JPG)
 
 *DragonCon 2021, Shooting the Shooters*
 
