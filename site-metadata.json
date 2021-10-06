@@ -114,7 +114,7 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/photo365podcast",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "twitter",
                 "icon_position": "center",
                 "new_window": true
