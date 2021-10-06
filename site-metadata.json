@@ -104,7 +104,7 @@
                 "label": "Instagram",
                 "url": "https://www.instagram.com/photo365podcast/",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
