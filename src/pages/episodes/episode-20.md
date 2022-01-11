@@ -3,7 +3,7 @@ title: 20. Where do all the photos Gogh?
 subtitle: >-
   In a single day, we shoot more photos than were taken during the first 100 years of photography. What are we losing when we’re constantly shooting, and where do the images eventually end up?
 
-date: '2022-01-04'
+date: '2022-01-11'
 categories:
   - src/data/categories/season-1.yaml
 tags: []
