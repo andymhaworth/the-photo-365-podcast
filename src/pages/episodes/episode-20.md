@@ -13,7 +13,9 @@ thumb_image_alt: Episode 20
 image_alt: Episode 20
 image_position: top
 episode_embed_html: >-
-  <iframe src="https://open.spotify.com/embed/episode/5oqwvZ3ehqbAGty4PM2QBQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  <iframe src="https://open.spotify.com/embed/episode/5oqwvZ3ehqbAGty4PM2QBQ"
+  width="100%" height="232" frameBorder="0" allowtransparency="true"
+  allow="encrypted-media"></iframe>
 seo:
   title: Where do all the photos Gogh?
   description: >-
